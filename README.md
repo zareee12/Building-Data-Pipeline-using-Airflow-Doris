@@ -52,8 +52,6 @@ This project implements a Medallion Architecture using Airflow and Doris.
 
 ![Data Pipeline](https://github.com/zareee12/Building-Data-Pipeline-using-Airflow-Doris/blob/main/image/data%20pipeline.jpg?raw=true)
 
-
-
 ### 🧏‍♂️ Bronze Layer
 
 * **Raw data** ingested from `coingecko_grouped_top_1000_tokens.json`
