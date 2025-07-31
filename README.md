@@ -46,7 +46,12 @@ COINGECKO_PIPELINE/
 
 ---
 
-### 🔁 Pipeline Overview
+## Architecture Overview
+
+This project implements a Medallion Architecture using Airflow and Doris.
+
+![Data Pipeline](https://github.com/zareee12/Building-Data-Pipeline-using-Airflow-Doris/blob/main/image/data%20pipeline.jpg?raw=true)
+
 
 
 ### 🧏‍♂️ Bronze Layer
