@@ -149,4 +149,11 @@ docker-compose up -d
 ## 👨‍💻 Author
 
 **Reza Septian Kamajaya**
+---
+
+## 📬 Submission Info
+
+This project is part of a mini project challenge from [ProjekDos](https://projekdos.com).  
+It showcases the implementation of a complete data pipeline using Airflow and Apache Doris.
+
 
