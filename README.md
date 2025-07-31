@@ -52,7 +52,8 @@ This project implements a Medallion Architecture using Airflow and Doris.
 
 ![Data Pipeline](https://github.com/zareee12/Building-Data-Pipeline-using-Airflow-Doris/blob/main/image/data%20pipeline.jpg?raw=true)
 
-### 🧏‍♂️ Bronze Layer
+---
+### Bronze Layer
 
 * **Raw data** ingested from `coingecko_grouped_top_1000_tokens.json`
 * Loaded to Doris using **STREAM LOAD** from shell scripts
@@ -64,13 +65,13 @@ This project implements a Medallion Architecture using Airflow and Doris.
   * `metadata`
   * `supply_data`
 
-### 🧏‍⚖ Silver Layer
+### Silver Layer
 
 * Cleaned & flattened data via SQL transformations
 * Extracted fields using JSON path
 * Combined into one flat table `refined.coingecko_flat`
 
-### 🥇 Gold Layer
+### Gold Layer
 
 * Business Insight Tables:
 
@@ -122,6 +123,7 @@ docker-compose up -d
     "path_dir": "/opt/airflow/dags/sql/silver"
   }
 }
+```
 ```json
 {
   "dag_refined_to_business": {
@@ -136,6 +138,9 @@ docker-compose up -d
 * Trigger `dag_json_to_doris`
 
 ---
+## Pipeline 
+![Data Pipeline](https://github.com/zareee12/Building-Data-Pipeline-using-Airflow-Doris/blob/main/image/data%20pipeline.jpg?raw=true)
+
 
 ## ✅ Deliverables
 
