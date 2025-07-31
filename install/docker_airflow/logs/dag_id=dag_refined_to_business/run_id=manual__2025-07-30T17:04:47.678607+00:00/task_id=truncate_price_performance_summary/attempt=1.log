@@ -1,0 +1,123 @@
+[2025-07-30T17:05:06.628+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-07-30T17:05:07.009+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_refined_to_business.truncate_price_performance_summary manual__2025-07-30T17:04:47.678607+00:00 [queued]>
+[2025-07-30T17:05:07.106+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_refined_to_business.truncate_price_performance_summary manual__2025-07-30T17:04:47.678607+00:00 [queued]>
+[2025-07-30T17:05:07.115+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 2
+[2025-07-30T17:05:07.827+0000] {taskinstance.py:2888} INFO - Executing <Task(SQLExecuteQueryOperator): truncate_price_performance_summary> on 2025-07-30 17:04:47.678607+00:00
+[2025-07-30T17:05:08.156+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'dag_refined_to_business', 'truncate_price_performance_summary', 'manual__2025-07-30T17:04:47.678607+00:00', '--job-id', '204', '--raw', '--subdir', 'DAGS_FOLDER/dag_redined_to_business.py', '--cfg-path', '/tmp/tmpxnluynbk']
+[2025-07-30T17:05:08.089+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=1292) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-07-30T17:05:08.193+0000] {standard_task_runner.py:105} INFO - Job 204: Subtask truncate_price_performance_summary
+[2025-07-30T17:05:08.198+0000] {standard_task_runner.py:72} INFO - Started process 1303 to run task
+[2025-07-30T17:05:08.688+0000] {task_command.py:467} INFO - Running <TaskInstance: dag_refined_to_business.truncate_price_performance_summary manual__2025-07-30T17:04:47.678607+00:00 [running]> on host 7609641ebe00
+[2025-07-30T17:05:09.029+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='reza' AIRFLOW_CTX_DAG_ID='dag_refined_to_business' AIRFLOW_CTX_TASK_ID='truncate_price_performance_summary' AIRFLOW_CTX_EXECUTION_DATE='2025-07-30T17:04:47.678607+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-07-30T17:04:47.678607+00:00'
+[2025-07-30T17:05:09.057+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-07-30T17:05:09.067+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-07-30T17:05:09.071+0000] {logging_mixin.py:190} INFO - Current task name:truncate_price_performance_summary state:running start_date:2025-07-30 17:05:07.022524+00:00
+[2025-07-30T17:05:09.079+0000] {logging_mixin.py:190} INFO - Dag name:dag_refined_to_business and current dag run status:running
+[2025-07-30T17:05:09.080+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-07-30T17:05:09.086+0000] {sql.py:266} INFO - Executing: truncate table rbusiness.price_performance_summary
+[2025-07-30T17:05:09.290+0000] {base.py:84} INFO - Retrieving connection 'mysql_doris_conn'
+[2025-07-30T17:05:09.428+0000] {base.py:84} INFO - Retrieving connection 'mysql_doris_conn'
+[2025-07-30T17:05:19.051+0000] {job.py:229} INFO - Heartbeat recovered after 12.83 seconds
+[2025-07-30T17:05:20.113+0000] {sql.py:509} INFO - Running statement: truncate table rbusiness.price_performance_summary, parameters: None
+[2025-07-30T17:05:21.498+0000] {taskinstance.py:3310} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 767, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 733, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 406, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/common/sql/operators/sql.py", line 272, in execute
+    output = hook.run(
+             ^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/common/sql/hooks/sql.py", line 456, in run
+    self._run_command(cur, sql_statement, parameters)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/common/sql/hooks/sql.py", line 514, in _run_command
+    cur.execute(sql_statement)
+  File "/home/airflow/.local/lib/python3.12/site-packages/MySQLdb/cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/MySQLdb/cursors.py", line 330, in _query
+    db.query(q)
+  File "/home/airflow/.local/lib/python3.12/site-packages/MySQLdb/connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1049, "errCode = 2, detailMessage = Unknown database 'rbusiness'")
+[2025-07-30T17:05:23.437+0000] {logging_mixin.py:190} INFO - Task instance in failure state
+[2025-07-30T17:05:23.441+0000] {logging_mixin.py:190} INFO - Task start:2025-07-30 17:05:07.022524+00:00 end:2025-07-30 17:05:23.369356+00:00 duration:16.346832
+[2025-07-30T17:05:23.441+0000] {logging_mixin.py:190} INFO - Task:<Task(SQLExecuteQueryOperator): truncate_price_performance_summary> dag:<DAG: dag_refined_to_business> dagrun:<DagRun dag_refined_to_business @ 2025-07-30 17:04:47.678607+00:00: manual__2025-07-30T17:04:47.678607+00:00, state:running, queued_at: 2025-07-30 17:04:48.205077+00:00. externally triggered: True>
+[2025-07-30T17:05:23.442+0000] {logging_mixin.py:190} INFO - Failure caused by (1049, "errCode = 2, detailMessage = Unknown database 'rbusiness'")
+[2025-07-30T17:05:23.442+0000] {taskinstance.py:1225} INFO - Marking task as UP_FOR_RETRY. dag_id=dag_refined_to_business, task_id=truncate_price_performance_summary, run_id=manual__2025-07-30T17:04:47.678607+00:00, execution_date=20250730T170447, start_date=20250730T170507, end_date=20250730T170523
+[2025-07-30T17:05:24.417+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-07-30T17:05:24.479+0000] {standard_task_runner.py:124} ERROR - Failed to execute job 204 for task truncate_price_performance_summary ((1049, "errCode = 2, detailMessage = Unknown database 'rbusiness'"); 1303)
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py", line 117, in _start_by_fork
+    ret = args.func(args, dag=self.dag)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/cli_config.py", line 49, in command
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/cli.py", line 115, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 483, in task_run
+    task_return_code = _run_task_by_selected_method(args, _dag, ti)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 256, in _run_task_by_selected_method
+    return _run_raw_task(args, ti)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 341, in _run_raw_task
+    return ti._run_raw_task(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3004, in _run_raw_task
+    return _run_raw_task(
+           ^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 273, in _run_raw_task
+    TaskInstance._execute_task_with_callbacks(
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3158, in _execute_task_with_callbacks
+    result = self._execute_task(context, task_orig)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3182, in _execute_task
+    return _execute_task(self, context, task_orig)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 767, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 733, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 406, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/common/sql/operators/sql.py", line 272, in execute
+    output = hook.run(
+             ^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/common/sql/hooks/sql.py", line 456, in run
+    self._run_command(cur, sql_statement, parameters)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/common/sql/hooks/sql.py", line 514, in _run_command
+    cur.execute(sql_statement)
+  File "/home/airflow/.local/lib/python3.12/site-packages/MySQLdb/cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/MySQLdb/cursors.py", line 330, in _query
+    db.query(q)
+  File "/home/airflow/.local/lib/python3.12/site-packages/MySQLdb/connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1049, "errCode = 2, detailMessage = Unknown database 'rbusiness'")
+[2025-07-30T17:05:25.391+0000] {job.py:229} INFO - Heartbeat recovered after 10.99 seconds
+[2025-07-30T17:05:25.598+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 1
+[2025-07-30T17:05:25.908+0000] {taskinstance.py:3900} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-07-30T17:05:25.933+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

@@ -1,0 +1,31 @@
+[2025-07-30T17:10:20.328+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-07-30T17:10:20.383+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_refined_to_business.truncate_price_performance_summary manual__2025-07-30T17:10:08.290460+00:00 [queued]>
+[2025-07-30T17:10:20.401+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_refined_to_business.truncate_price_performance_summary manual__2025-07-30T17:10:08.290460+00:00 [queued]>
+[2025-07-30T17:10:20.402+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 2
+[2025-07-30T17:10:20.512+0000] {taskinstance.py:2888} INFO - Executing <Task(SQLExecuteQueryOperator): truncate_price_performance_summary> on 2025-07-30 17:10:08.290460+00:00
+[2025-07-30T17:10:20.560+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=1404) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-07-30T17:10:20.600+0000] {standard_task_runner.py:72} INFO - Started process 1415 to run task
+[2025-07-30T17:10:20.597+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'dag_refined_to_business', 'truncate_price_performance_summary', 'manual__2025-07-30T17:10:08.290460+00:00', '--job-id', '219', '--raw', '--subdir', 'DAGS_FOLDER/dag_redined_to_business.py', '--cfg-path', '/tmp/tmpst05e1vw']
+[2025-07-30T17:10:20.606+0000] {standard_task_runner.py:105} INFO - Job 219: Subtask truncate_price_performance_summary
+[2025-07-30T17:10:20.932+0000] {task_command.py:467} INFO - Running <TaskInstance: dag_refined_to_business.truncate_price_performance_summary manual__2025-07-30T17:10:08.290460+00:00 [running]> on host 7609641ebe00
+[2025-07-30T17:10:21.521+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='reza' AIRFLOW_CTX_DAG_ID='dag_refined_to_business' AIRFLOW_CTX_TASK_ID='truncate_price_performance_summary' AIRFLOW_CTX_EXECUTION_DATE='2025-07-30T17:10:08.290460+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-07-30T17:10:08.290460+00:00'
+[2025-07-30T17:10:21.547+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-07-30T17:10:21.548+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-07-30T17:10:21.549+0000] {logging_mixin.py:190} INFO - Current task name:truncate_price_performance_summary state:running start_date:2025-07-30 17:10:20.384934+00:00
+[2025-07-30T17:10:21.551+0000] {logging_mixin.py:190} INFO - Dag name:dag_refined_to_business and current dag run status:running
+[2025-07-30T17:10:21.552+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-07-30T17:10:21.554+0000] {sql.py:266} INFO - Executing: truncate table business.price_performance_summary
+[2025-07-30T17:10:21.576+0000] {base.py:84} INFO - Retrieving connection 'mysql_doris_conn'
+[2025-07-30T17:10:21.757+0000] {base.py:84} INFO - Retrieving connection 'mysql_doris_conn'
+[2025-07-30T17:10:22.189+0000] {sql.py:509} INFO - Running statement: truncate table business.price_performance_summary, parameters: None
+[2025-07-30T17:10:22.377+0000] {sql.py:518} INFO - Rows affected: 0
+[2025-07-30T17:10:22.739+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-07-30T17:10:22.792+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=dag_refined_to_business, task_id=truncate_price_performance_summary, run_id=manual__2025-07-30T17:10:08.290460+00:00, execution_date=20250730T171008, start_date=20250730T171020, end_date=20250730T171022
+[2025-07-30T17:10:23.034+0000] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-07-30T17:10:23.047+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-07-30T17:10:23.056+0000] {logging_mixin.py:190} INFO - Dag name:dag_refined_to_business queued_at:2025-07-30 17:10:08.350823+00:00
+[2025-07-30T17:10:23.063+0000] {logging_mixin.py:190} INFO - Task hostname:7609641ebe00 operator:SQLExecuteQueryOperator
+[2025-07-30T17:10:23.169+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-07-30T17:10:23.289+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

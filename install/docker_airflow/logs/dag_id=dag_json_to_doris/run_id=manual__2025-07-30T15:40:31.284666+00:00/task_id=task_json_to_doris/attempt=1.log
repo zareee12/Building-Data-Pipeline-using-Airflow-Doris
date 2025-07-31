@@ -1,0 +1,172 @@
+[2025-07-30T15:40:34.764+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-07-30T15:40:34.771+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_json_to_doris.task_json_to_doris manual__2025-07-30T15:40:31.284666+00:00 [queued]>
+[2025-07-30T15:40:34.774+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_json_to_doris.task_json_to_doris manual__2025-07-30T15:40:31.284666+00:00 [queued]>
+[2025-07-30T15:40:34.775+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 2
+[2025-07-30T15:40:34.779+0000] {taskinstance.py:2888} INFO - Executing <Task(BashOperator): task_json_to_doris> on 2025-07-30 15:40:31.284666+00:00
+[2025-07-30T15:40:34.792+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=149) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-07-30T15:40:34.794+0000] {standard_task_runner.py:72} INFO - Started process 151 to run task
+[2025-07-30T15:40:34.795+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'dag_json_to_doris', 'task_json_to_doris', 'manual__2025-07-30T15:40:31.284666+00:00', '--job-id', '177', '--raw', '--subdir', 'DAGS_FOLDER/dag_json_to_doris.py', '--cfg-path', '/tmp/tmpzbsxldz4']
+[2025-07-30T15:40:34.795+0000] {standard_task_runner.py:105} INFO - Job 177: Subtask task_json_to_doris
+[2025-07-30T15:40:34.876+0000] {task_command.py:467} INFO - Running <TaskInstance: dag_json_to_doris.task_json_to_doris manual__2025-07-30T15:40:31.284666+00:00 [running]> on host 7609641ebe00
+[2025-07-30T15:40:34.950+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='reza' AIRFLOW_CTX_DAG_ID='dag_json_to_doris' AIRFLOW_CTX_TASK_ID='task_json_to_doris' AIRFLOW_CTX_EXECUTION_DATE='2025-07-30T15:40:31.284666+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-07-30T15:40:31.284666+00:00'
+[2025-07-30T15:40:34.952+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-07-30T15:40:34.952+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-07-30T15:40:34.952+0000] {logging_mixin.py:190} INFO - Current task name:task_json_to_doris state:running start_date:2025-07-30 15:40:34.771259+00:00
+[2025-07-30T15:40:34.952+0000] {logging_mixin.py:190} INFO - Dag name:dag_json_to_doris and current dag run status:running
+[2025-07-30T15:40:34.952+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-07-30T15:40:34.953+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-07-30T15:40:34.953+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'sh /opt/***/dags/script/json_to_raw.sh ']
+[2025-07-30T15:40:34.963+0000] {subprocess.py:86} INFO - Output:
+[2025-07-30T15:40:34.984+0000] {subprocess.py:93} INFO -   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2025-07-30T15:40:34.987+0000] {subprocess.py:93} INFO -                                  Dload  Upload   Total   Spent    Left  Speed
+[2025-07-30T15:40:35.004+0000] {subprocess.py:93} INFO -   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0curl: (6) Could not resolve host: lhost.docker.internal
+[2025-07-30T15:40:35.010+0000] {subprocess.py:93} INFO -   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2025-07-30T15:40:35.010+0000] {subprocess.py:93} INFO -                                  Dload  Upload   Total   Spent    Left  Speed
+[2025-07-30T15:40:35.550+0000] {subprocess.py:93} INFO -   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  194k  100   513  100  194k    953   360k --:--:-- --:--:-- --:--:--  362k
+[2025-07-30T15:40:35.556+0000] {subprocess.py:93} INFO - {
+[2025-07-30T15:40:35.556+0000] {subprocess.py:93} INFO -     "TxnId": 5007,
+[2025-07-30T15:40:35.556+0000] {subprocess.py:93} INFO -     "Label": "a6a6816f-9d3c-4b6b-9e3a-95a103e064e4",
+[2025-07-30T15:40:35.557+0000] {subprocess.py:93} INFO -     "Comment": "",
+[2025-07-30T15:40:35.557+0000] {subprocess.py:93} INFO -     "TwoPhaseCommit": "false",
+[2025-07-30T15:40:35.557+0000] {subprocess.py:93} INFO -     "Status": "Success",
+[2025-07-30T15:40:35.557+0000] {subprocess.py:93} INFO -     "Message": "OK",
+[2025-07-30T15:40:35.557+0000] {subprocess.py:93} INFO -     "NumberTotalRows": 1000,
+[2025-07-30T15:40:35.557+0000] {subprocess.py:93} INFO -     "NumberLoadedRows": 1000,
+[2025-07-30T15:40:35.558+0000] {subprocess.py:93} INFO -     "NumberFilteredRows": 0,
+[2025-07-30T15:40:35.558+0000] {subprocess.py:93} INFO -     "NumberUnselectedRows": 0,
+[2025-07-30T15:40:35.558+0000] {subprocess.py:93} INFO -     "LoadBytes": 198747,
+[2025-07-30T15:40:35.558+0000] {subprocess.py:93} INFO -     "LoadTimeMs": 472,
+[2025-07-30T15:40:35.558+0000] {subprocess.py:93} INFO -     "BeginTxnTimeMs": 104,
+[2025-07-30T15:40:35.558+0000] {subprocess.py:93} INFO -     "StreamLoadPutTimeMs": 259,
+[2025-07-30T15:40:35.558+0000] {subprocess.py:93} INFO -     "ReadDataTimeMs": 0,
+[2025-07-30T15:40:35.558+0000] {subprocess.py:93} INFO -     "WriteDataTimeMs": 74,
+[2025-07-30T15:40:35.559+0000] {subprocess.py:93} INFO -     "ReceiveDataTimeMs": 383,
+[2025-07-30T15:40:35.559+0000] {subprocess.py:93} INFO -     "CommitAndPublishTimeMs": 27
+[2025-07-30T15:40:35.559+0000] {subprocess.py:93} INFO - }
+[2025-07-30T15:40:35.567+0000] {subprocess.py:93} INFO -   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2025-07-30T15:40:35.568+0000] {subprocess.py:93} INFO -                                  Dload  Upload   Total   Spent    Left  Speed
+[2025-07-30T15:40:35.691+0000] {subprocess.py:93} INFO -   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  180k  100   508  100  180k   4072  1445k --:--:-- --:--:-- --:--:-- 1458k
+[2025-07-30T15:40:35.692+0000] {subprocess.py:93} INFO - {
+[2025-07-30T15:40:35.693+0000] {subprocess.py:93} INFO -     "TxnId": 5008,
+[2025-07-30T15:40:35.693+0000] {subprocess.py:93} INFO -     "Label": "7eca10c1-ae52-4b28-93ac-0e083cde7804",
+[2025-07-30T15:40:35.693+0000] {subprocess.py:93} INFO -     "Comment": "",
+[2025-07-30T15:40:35.694+0000] {subprocess.py:93} INFO -     "TwoPhaseCommit": "false",
+[2025-07-30T15:40:35.694+0000] {subprocess.py:93} INFO -     "Status": "Success",
+[2025-07-30T15:40:35.694+0000] {subprocess.py:93} INFO -     "Message": "OK",
+[2025-07-30T15:40:35.694+0000] {subprocess.py:93} INFO -     "NumberTotalRows": 1000,
+[2025-07-30T15:40:35.694+0000] {subprocess.py:93} INFO -     "NumberLoadedRows": 1000,
+[2025-07-30T15:40:35.695+0000] {subprocess.py:93} INFO -     "NumberFilteredRows": 0,
+[2025-07-30T15:40:35.695+0000] {subprocess.py:93} INFO -     "NumberUnselectedRows": 0,
+[2025-07-30T15:40:35.695+0000] {subprocess.py:93} INFO -     "LoadBytes": 184706,
+[2025-07-30T15:40:35.696+0000] {subprocess.py:93} INFO -     "LoadTimeMs": 112,
+[2025-07-30T15:40:35.696+0000] {subprocess.py:93} INFO -     "BeginTxnTimeMs": 0,
+[2025-07-30T15:40:35.697+0000] {subprocess.py:93} INFO -     "StreamLoadPutTimeMs": 8,
+[2025-07-30T15:40:35.697+0000] {subprocess.py:93} INFO -     "ReadDataTimeMs": 1,
+[2025-07-30T15:40:35.697+0000] {subprocess.py:93} INFO -     "WriteDataTimeMs": 75,
+[2025-07-30T15:40:35.697+0000] {subprocess.py:93} INFO -     "ReceiveDataTimeMs": 19,
+[2025-07-30T15:40:35.698+0000] {subprocess.py:93} INFO -     "CommitAndPublishTimeMs": 27
+[2025-07-30T15:40:35.698+0000] {subprocess.py:93} INFO - }
+[2025-07-30T15:40:35.711+0000] {subprocess.py:93} INFO -   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2025-07-30T15:40:35.712+0000] {subprocess.py:93} INFO -                                  Dload  Upload   Total   Spent    Left  Speed
+[2025-07-30T15:40:35.795+0000] {subprocess.py:93} INFO -   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  156k  100   507  100  156k   6021  1858k --:--:-- --:--:-- --:--:-- 1847k100  156k  100   507  100  156k   6011  1855k --:--:-- --:--:-- --:--:-- 1847k
+[2025-07-30T15:40:35.801+0000] {subprocess.py:93} INFO - {
+[2025-07-30T15:40:35.802+0000] {subprocess.py:93} INFO -     "TxnId": 5009,
+[2025-07-30T15:40:35.802+0000] {subprocess.py:93} INFO -     "Label": "a774696a-3f5f-4154-b7ef-a2be7965a646",
+[2025-07-30T15:40:35.803+0000] {subprocess.py:93} INFO -     "Comment": "",
+[2025-07-30T15:40:35.803+0000] {subprocess.py:93} INFO -     "TwoPhaseCommit": "false",
+[2025-07-30T15:40:35.804+0000] {subprocess.py:93} INFO -     "Status": "Success",
+[2025-07-30T15:40:35.804+0000] {subprocess.py:93} INFO -     "Message": "OK",
+[2025-07-30T15:40:35.805+0000] {subprocess.py:93} INFO -     "NumberTotalRows": 1000,
+[2025-07-30T15:40:35.805+0000] {subprocess.py:93} INFO -     "NumberLoadedRows": 1000,
+[2025-07-30T15:40:35.805+0000] {subprocess.py:93} INFO -     "NumberFilteredRows": 0,
+[2025-07-30T15:40:35.806+0000] {subprocess.py:93} INFO -     "NumberUnselectedRows": 0,
+[2025-07-30T15:40:35.806+0000] {subprocess.py:93} INFO -     "LoadBytes": 160259,
+[2025-07-30T15:40:35.806+0000] {subprocess.py:93} INFO -     "LoadTimeMs": 73,
+[2025-07-30T15:40:35.806+0000] {subprocess.py:93} INFO -     "BeginTxnTimeMs": 1,
+[2025-07-30T15:40:35.806+0000] {subprocess.py:93} INFO -     "StreamLoadPutTimeMs": 4,
+[2025-07-30T15:40:35.806+0000] {subprocess.py:93} INFO -     "ReadDataTimeMs": 0,
+[2025-07-30T15:40:35.806+0000] {subprocess.py:93} INFO -     "WriteDataTimeMs": 27,
+[2025-07-30T15:40:35.807+0000] {subprocess.py:93} INFO -     "ReceiveDataTimeMs": 12,
+[2025-07-30T15:40:35.807+0000] {subprocess.py:93} INFO -     "CommitAndPublishTimeMs": 38
+[2025-07-30T15:40:35.807+0000] {subprocess.py:93} INFO - }
+[2025-07-30T15:40:35.814+0000] {subprocess.py:93} INFO -   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2025-07-30T15:40:35.815+0000] {subprocess.py:93} INFO -                                  Dload  Upload   Total   Spent    Left  Speed
+[2025-07-30T15:40:35.824+0000] {subprocess.py:93} INFO -   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0curl: (6) Could not resolve host: lhost.docker.internal
+[2025-07-30T15:40:35.835+0000] {subprocess.py:97} INFO - Command exited with return code 6
+[2025-07-30T15:40:35.877+0000] {taskinstance.py:3310} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 767, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 733, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 406, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/bash.py", line 249, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 6.
+[2025-07-30T15:40:35.893+0000] {logging_mixin.py:190} INFO - Task instance in failure state
+[2025-07-30T15:40:35.893+0000] {logging_mixin.py:190} INFO - Task start:2025-07-30 15:40:34.771259+00:00 end:2025-07-30 15:40:35.891659+00:00 duration:1.1204
+[2025-07-30T15:40:35.893+0000] {logging_mixin.py:190} INFO - Task:<Task(BashOperator): task_json_to_doris> dag:<DAG: dag_json_to_doris> dagrun:<DagRun dag_json_to_doris @ 2025-07-30 15:40:31.284666+00:00: manual__2025-07-30T15:40:31.284666+00:00, state:running, queued_at: 2025-07-30 15:40:31.337445+00:00. externally triggered: True>
+[2025-07-30T15:40:35.893+0000] {logging_mixin.py:190} INFO - Failure caused by Bash command failed. The command returned a non-zero exit code 6.
+[2025-07-30T15:40:35.894+0000] {taskinstance.py:1225} INFO - Marking task as UP_FOR_RETRY. dag_id=dag_json_to_doris, task_id=task_json_to_doris, run_id=manual__2025-07-30T15:40:31.284666+00:00, execution_date=20250730T154031, start_date=20250730T154034, end_date=20250730T154035
+[2025-07-30T15:40:35.908+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-07-30T15:40:35.908+0000] {standard_task_runner.py:124} ERROR - Failed to execute job 177 for task task_json_to_doris (Bash command failed. The command returned a non-zero exit code 6.; 151)
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py", line 117, in _start_by_fork
+    ret = args.func(args, dag=self.dag)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/cli_config.py", line 49, in command
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/cli.py", line 115, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 483, in task_run
+    task_return_code = _run_task_by_selected_method(args, _dag, ti)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 256, in _run_task_by_selected_method
+    return _run_raw_task(args, ti)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 341, in _run_raw_task
+    return ti._run_raw_task(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3004, in _run_raw_task
+    return _run_raw_task(
+           ^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 273, in _run_raw_task
+    TaskInstance._execute_task_with_callbacks(
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3158, in _execute_task_with_callbacks
+    result = self._execute_task(context, task_orig)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3182, in _execute_task
+    return _execute_task(self, context, task_orig)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 767, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 733, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 406, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/bash.py", line 249, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 6.
+[2025-07-30T15:40:35.959+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 1
+[2025-07-30T15:40:35.997+0000] {taskinstance.py:3900} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-07-30T15:40:35.999+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

@@ -1,0 +1,105 @@
+[2025-07-30T15:15:12.232+0000] {processor.py:186} INFO - Started process (PID=62) to work on /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:15:12.247+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/script/dag_json_to_doris.py for tasks to queue
+[2025-07-30T15:15:12.285+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:15:12.284+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:15:12.655+0000] {processor.py:925} INFO - DAG(s) 'dag_json_to_doris' retrieved from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:15:13.534+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:15:13.534+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T15:15:13.566+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:15:13.566+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_json_to_doris to None, run_after=None
+[2025-07-30T15:15:13.594+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/script/dag_json_to_doris.py took 1.466 seconds
+[2025-07-30T15:15:43.966+0000] {processor.py:186} INFO - Started process (PID=132) to work on /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:15:43.968+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/script/dag_json_to_doris.py for tasks to queue
+[2025-07-30T15:15:43.971+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:15:43.971+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:15:44.018+0000] {processor.py:925} INFO - DAG(s) 'dag_json_to_doris' retrieved from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:15:44.021+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:15:44.021+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T15:15:44.039+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:15:44.039+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_json_to_doris to None, run_after=None
+[2025-07-30T15:15:44.053+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/script/dag_json_to_doris.py took 0.091 seconds
+[2025-07-30T15:16:14.454+0000] {processor.py:186} INFO - Started process (PID=196) to work on /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:16:14.455+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/script/dag_json_to_doris.py for tasks to queue
+[2025-07-30T15:16:14.458+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:16:14.457+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:16:14.505+0000] {processor.py:925} INFO - DAG(s) 'dag_json_to_doris' retrieved from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:16:14.625+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:16:14.625+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T15:16:14.636+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:16:14.636+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_json_to_doris to None, run_after=None
+[2025-07-30T15:16:14.652+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/script/dag_json_to_doris.py took 0.209 seconds
+[2025-07-30T15:16:45.029+0000] {processor.py:186} INFO - Started process (PID=260) to work on /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:16:45.031+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/script/dag_json_to_doris.py for tasks to queue
+[2025-07-30T15:16:45.039+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:16:45.037+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:16:45.195+0000] {processor.py:925} INFO - DAG(s) 'dag_json_to_doris' retrieved from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:16:45.244+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:16:45.243+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T15:16:45.308+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:16:45.307+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_json_to_doris to None, run_after=None
+[2025-07-30T15:16:45.354+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/script/dag_json_to_doris.py took 0.341 seconds
+[2025-07-30T15:17:15.527+0000] {processor.py:186} INFO - Started process (PID=323) to work on /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:17:15.529+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/script/dag_json_to_doris.py for tasks to queue
+[2025-07-30T15:17:15.532+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:17:15.532+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:17:15.561+0000] {processor.py:925} INFO - DAG(s) 'dag_json_to_doris' retrieved from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:17:15.653+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:17:15.652+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T15:17:15.669+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:17:15.669+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_json_to_doris to None, run_after=None
+[2025-07-30T15:17:15.685+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/script/dag_json_to_doris.py took 0.167 seconds
+[2025-07-30T15:17:37.225+0000] {processor.py:186} INFO - Started process (PID=382) to work on /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:17:37.230+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/script/dag_json_to_doris.py for tasks to queue
+[2025-07-30T15:17:37.247+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:17:37.246+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:17:37.318+0000] {processor.py:925} INFO - DAG(s) 'dag_json_to_doris' retrieved from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:17:37.323+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:17:37.323+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T15:17:37.350+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:17:37.350+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_json_to_doris to None, run_after=None
+[2025-07-30T15:17:37.381+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/script/dag_json_to_doris.py took 0.178 seconds
+[2025-07-30T15:18:08.303+0000] {processor.py:186} INFO - Started process (PID=445) to work on /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:18:08.306+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/script/dag_json_to_doris.py for tasks to queue
+[2025-07-30T15:18:08.315+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:18:08.315+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:18:08.365+0000] {processor.py:925} INFO - DAG(s) 'dag_json_to_doris' retrieved from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:18:08.384+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:18:08.382+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T15:18:08.412+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:18:08.412+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_json_to_doris to None, run_after=None
+[2025-07-30T15:18:08.436+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/script/dag_json_to_doris.py took 0.145 seconds
+[2025-07-30T15:18:39.300+0000] {processor.py:186} INFO - Started process (PID=509) to work on /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:18:39.305+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/script/dag_json_to_doris.py for tasks to queue
+[2025-07-30T15:18:39.323+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:18:39.323+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:18:39.369+0000] {processor.py:925} INFO - DAG(s) 'dag_json_to_doris' retrieved from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:18:39.471+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:18:39.471+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T15:18:39.476+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:18:39.476+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_json_to_doris to None, run_after=None
+[2025-07-30T15:18:39.484+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/script/dag_json_to_doris.py took 0.197 seconds
+[2025-07-30T15:19:10.446+0000] {processor.py:186} INFO - Started process (PID=573) to work on /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:19:10.448+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/script/dag_json_to_doris.py for tasks to queue
+[2025-07-30T15:19:10.456+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:19:10.455+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:19:10.501+0000] {processor.py:925} INFO - DAG(s) 'dag_json_to_doris' retrieved from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:19:10.514+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:19:10.514+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T15:19:10.526+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:19:10.526+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_json_to_doris to None, run_after=None
+[2025-07-30T15:19:10.537+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/script/dag_json_to_doris.py took 0.104 seconds
+[2025-07-30T15:19:41.494+0000] {processor.py:186} INFO - Started process (PID=637) to work on /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:19:41.495+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/script/dag_json_to_doris.py for tasks to queue
+[2025-07-30T15:19:41.499+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:19:41.498+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:19:41.537+0000] {processor.py:925} INFO - DAG(s) 'dag_json_to_doris' retrieved from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:19:41.629+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:19:41.629+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T15:19:41.637+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:19:41.637+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_json_to_doris to None, run_after=None
+[2025-07-30T15:19:41.645+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/script/dag_json_to_doris.py took 0.158 seconds
+[2025-07-30T15:20:12.351+0000] {processor.py:186} INFO - Started process (PID=701) to work on /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:20:12.353+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/script/dag_json_to_doris.py for tasks to queue
+[2025-07-30T15:20:12.356+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:20:12.356+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:20:12.388+0000] {processor.py:925} INFO - DAG(s) 'dag_json_to_doris' retrieved from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:20:12.398+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:20:12.398+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T15:20:12.421+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:20:12.421+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_json_to_doris to None, run_after=None
+[2025-07-30T15:20:12.439+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/script/dag_json_to_doris.py took 0.099 seconds
+[2025-07-30T15:20:43.204+0000] {processor.py:186} INFO - Started process (PID=765) to work on /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:20:43.205+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/script/dag_json_to_doris.py for tasks to queue
+[2025-07-30T15:20:43.210+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:20:43.210+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:20:43.259+0000] {processor.py:925} INFO - DAG(s) 'dag_json_to_doris' retrieved from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:20:43.382+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:20:43.382+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T15:20:43.387+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:20:43.387+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_json_to_doris to None, run_after=None
+[2025-07-30T15:20:43.394+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/script/dag_json_to_doris.py took 0.208 seconds
+[2025-07-30T15:21:13.456+0000] {processor.py:186} INFO - Started process (PID=829) to work on /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:21:13.457+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/script/dag_json_to_doris.py for tasks to queue
+[2025-07-30T15:21:13.461+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:21:13.460+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:21:13.487+0000] {processor.py:925} INFO - DAG(s) 'dag_json_to_doris' retrieved from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:21:13.501+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:21:13.501+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T15:21:13.515+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:21:13.515+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_json_to_doris to None, run_after=None
+[2025-07-30T15:21:13.531+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/script/dag_json_to_doris.py took 0.088 seconds
+[2025-07-30T15:21:44.338+0000] {processor.py:186} INFO - Started process (PID=893) to work on /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:21:44.343+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/script/dag_json_to_doris.py for tasks to queue
+[2025-07-30T15:21:44.348+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:21:44.347+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:21:44.379+0000] {processor.py:925} INFO - DAG(s) 'dag_json_to_doris' retrieved from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:21:44.455+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:21:44.455+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T15:21:44.460+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:21:44.460+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_json_to_doris to None, run_after=None
+[2025-07-30T15:21:44.467+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/script/dag_json_to_doris.py took 0.140 seconds
+[2025-07-30T15:22:14.672+0000] {processor.py:186} INFO - Started process (PID=957) to work on /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:22:14.674+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/script/dag_json_to_doris.py for tasks to queue
+[2025-07-30T15:22:14.681+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:22:14.681+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:22:14.717+0000] {processor.py:925} INFO - DAG(s) 'dag_json_to_doris' retrieved from /opt/airflow/dags/script/dag_json_to_doris.py
+[2025-07-30T15:22:14.732+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:22:14.732+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T15:22:14.745+0000] {logging_mixin.py:190} INFO - [2025-07-30T15:22:14.744+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_json_to_doris to None, run_after=None
+[2025-07-30T15:22:14.761+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/script/dag_json_to_doris.py took 0.100 seconds

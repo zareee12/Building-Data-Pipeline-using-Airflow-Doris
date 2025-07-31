@@ -1,0 +1,146 @@
+[2025-07-30T15:46:06.613+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-07-30T15:46:06.635+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_json_to_doris.task_json_to_doris manual__2025-07-30T15:45:49.325143+00:00 [queued]>
+[2025-07-30T15:46:06.644+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_json_to_doris.task_json_to_doris manual__2025-07-30T15:45:49.325143+00:00 [queued]>
+[2025-07-30T15:46:06.645+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 2
+[2025-07-30T15:46:06.656+0000] {taskinstance.py:2888} INFO - Executing <Task(BashOperator): task_json_to_doris> on 2025-07-30 15:45:49.325143+00:00
+[2025-07-30T15:46:06.676+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=288) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-07-30T15:46:06.678+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'dag_json_to_doris', 'task_json_to_doris', 'manual__2025-07-30T15:45:49.325143+00:00', '--job-id', '189', '--raw', '--subdir', 'DAGS_FOLDER/dag_json_to_doris.py', '--cfg-path', '/tmp/tmprrotwwjt']
+[2025-07-30T15:46:06.681+0000] {standard_task_runner.py:105} INFO - Job 189: Subtask task_json_to_doris
+[2025-07-30T15:46:06.681+0000] {standard_task_runner.py:72} INFO - Started process 290 to run task
+[2025-07-30T15:46:06.735+0000] {task_command.py:467} INFO - Running <TaskInstance: dag_json_to_doris.task_json_to_doris manual__2025-07-30T15:45:49.325143+00:00 [running]> on host 7609641ebe00
+[2025-07-30T15:46:06.783+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='reza' AIRFLOW_CTX_DAG_ID='dag_json_to_doris' AIRFLOW_CTX_TASK_ID='task_json_to_doris' AIRFLOW_CTX_EXECUTION_DATE='2025-07-30T15:45:49.325143+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-07-30T15:45:49.325143+00:00'
+[2025-07-30T15:46:06.788+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-07-30T15:46:06.788+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-07-30T15:46:06.789+0000] {logging_mixin.py:190} INFO - Current task name:task_json_to_doris state:running start_date:2025-07-30 15:46:06.635881+00:00
+[2025-07-30T15:46:06.789+0000] {logging_mixin.py:190} INFO - Dag name:dag_json_to_doris and current dag run status:running
+[2025-07-30T15:46:06.790+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-07-30T15:46:06.791+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-07-30T15:46:06.792+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'sh /opt/***/dags/script/json_to_raw.sh ']
+[2025-07-30T15:46:06.801+0000] {subprocess.py:86} INFO - Output:
+[2025-07-30T15:46:06.840+0000] {subprocess.py:93} INFO -   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2025-07-30T15:46:06.840+0000] {subprocess.py:93} INFO -                                  Dload  Upload   Total   Spent    Left  Speed
+[2025-07-30T15:46:06.991+0000] {subprocess.py:93} INFO -   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 82638  100   508  100 82130   3395   536k --:--:-- --:--:-- --:--:--  541k
+[2025-07-30T15:46:06.992+0000] {subprocess.py:93} INFO - {
+[2025-07-30T15:46:06.992+0000] {subprocess.py:93} INFO -     "TxnId": 5029,
+[2025-07-30T15:46:06.992+0000] {subprocess.py:93} INFO -     "Label": "60ff719c-1b7a-41cf-8448-4b95b58b86c9",
+[2025-07-30T15:46:06.992+0000] {subprocess.py:93} INFO -     "Comment": "",
+[2025-07-30T15:46:06.993+0000] {subprocess.py:93} INFO -     "TwoPhaseCommit": "false",
+[2025-07-30T15:46:06.993+0000] {subprocess.py:93} INFO -     "Status": "Success",
+[2025-07-30T15:46:06.994+0000] {subprocess.py:93} INFO -     "Message": "OK",
+[2025-07-30T15:46:06.994+0000] {subprocess.py:93} INFO -     "NumberTotalRows": 1000,
+[2025-07-30T15:46:06.995+0000] {subprocess.py:93} INFO -     "NumberLoadedRows": 1000,
+[2025-07-30T15:46:06.996+0000] {subprocess.py:93} INFO -     "NumberFilteredRows": 0,
+[2025-07-30T15:46:06.996+0000] {subprocess.py:93} INFO -     "NumberUnselectedRows": 0,
+[2025-07-30T15:46:06.996+0000] {subprocess.py:93} INFO -     "LoadBytes": 82130,
+[2025-07-30T15:46:06.997+0000] {subprocess.py:93} INFO -     "LoadTimeMs": 131,
+[2025-07-30T15:46:06.997+0000] {subprocess.py:93} INFO -     "BeginTxnTimeMs": 7,
+[2025-07-30T15:46:06.997+0000] {subprocess.py:93} INFO -     "StreamLoadPutTimeMs": 43,
+[2025-07-30T15:46:06.998+0000] {subprocess.py:93} INFO -     "ReadDataTimeMs": 0,
+[2025-07-30T15:46:06.998+0000] {subprocess.py:93} INFO -     "WriteDataTimeMs": 42,
+[2025-07-30T15:46:06.998+0000] {subprocess.py:93} INFO -     "ReceiveDataTimeMs": 60,
+[2025-07-30T15:46:06.998+0000] {subprocess.py:93} INFO -     "CommitAndPublishTimeMs": 34
+[2025-07-30T15:46:06.998+0000] {subprocess.py:93} INFO - }
+[2025-07-30T15:46:07.000+0000] {subprocess.py:93} INFO -   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2025-07-30T15:46:07.001+0000] {subprocess.py:93} INFO -                                  Dload  Upload   Total   Spent    Left  Speed
+[2025-07-30T15:46:07.081+0000] {subprocess.py:93} INFO -   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  194k  100   507  100  194k   6305  2413k --:--:-- --:--:-- --:--:-- 2432k
+[2025-07-30T15:46:07.084+0000] {subprocess.py:93} INFO - {
+[2025-07-30T15:46:07.089+0000] {subprocess.py:93} INFO -     "TxnId": 5030,
+[2025-07-30T15:46:07.089+0000] {subprocess.py:93} INFO -     "Label": "aaad1446-6a71-4103-83cb-6aac906b1201",
+[2025-07-30T15:46:07.090+0000] {subprocess.py:93} INFO -     "Comment": "",
+[2025-07-30T15:46:07.090+0000] {subprocess.py:93} INFO -     "TwoPhaseCommit": "false",
+[2025-07-30T15:46:07.090+0000] {subprocess.py:93} INFO -     "Status": "Success",
+[2025-07-30T15:46:07.091+0000] {subprocess.py:93} INFO -     "Message": "OK",
+[2025-07-30T15:46:07.091+0000] {subprocess.py:93} INFO -     "NumberTotalRows": 1000,
+[2025-07-30T15:46:07.092+0000] {subprocess.py:93} INFO -     "NumberLoadedRows": 1000,
+[2025-07-30T15:46:07.092+0000] {subprocess.py:93} INFO -     "NumberFilteredRows": 0,
+[2025-07-30T15:46:07.092+0000] {subprocess.py:93} INFO -     "NumberUnselectedRows": 0,
+[2025-07-30T15:46:07.093+0000] {subprocess.py:93} INFO -     "LoadBytes": 198747,
+[2025-07-30T15:46:07.094+0000] {subprocess.py:93} INFO -     "LoadTimeMs": 71,
+[2025-07-30T15:46:07.094+0000] {subprocess.py:93} INFO -     "BeginTxnTimeMs": 0,
+[2025-07-30T15:46:07.094+0000] {subprocess.py:93} INFO -     "StreamLoadPutTimeMs": 7,
+[2025-07-30T15:46:07.095+0000] {subprocess.py:93} INFO -     "ReadDataTimeMs": 1,
+[2025-07-30T15:46:07.095+0000] {subprocess.py:93} INFO -     "WriteDataTimeMs": 40,
+[2025-07-30T15:46:07.096+0000] {subprocess.py:93} INFO -     "ReceiveDataTimeMs": 19,
+[2025-07-30T15:46:07.097+0000] {subprocess.py:93} INFO -     "CommitAndPublishTimeMs": 21
+[2025-07-30T15:46:07.098+0000] {subprocess.py:93} INFO - }
+[2025-07-30T15:46:07.098+0000] {subprocess.py:93} INFO -   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2025-07-30T15:46:07.101+0000] {subprocess.py:93} INFO -                                  Dload  Upload   Total   Spent    Left  Speed
+[2025-07-30T15:46:07.171+0000] {subprocess.py:93} INFO -   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  180k  100   507  100  180k   6623  2356k --:--:-- --:--:-- --:--:-- 2379k
+[2025-07-30T15:46:07.172+0000] {subprocess.py:93} INFO - {
+[2025-07-30T15:46:07.172+0000] {subprocess.py:93} INFO -     "TxnId": 5031,
+[2025-07-30T15:46:07.173+0000] {subprocess.py:93} INFO -     "Label": "eb4abd07-ea00-4f15-9337-54908f110dab",
+[2025-07-30T15:46:07.174+0000] {subprocess.py:93} INFO -     "Comment": "",
+[2025-07-30T15:46:07.174+0000] {subprocess.py:93} INFO -     "TwoPhaseCommit": "false",
+[2025-07-30T15:46:07.174+0000] {subprocess.py:93} INFO -     "Status": "Success",
+[2025-07-30T15:46:07.174+0000] {subprocess.py:93} INFO -     "Message": "OK",
+[2025-07-30T15:46:07.174+0000] {subprocess.py:93} INFO -     "NumberTotalRows": 1000,
+[2025-07-30T15:46:07.175+0000] {subprocess.py:93} INFO -     "NumberLoadedRows": 1000,
+[2025-07-30T15:46:07.175+0000] {subprocess.py:93} INFO -     "NumberFilteredRows": 0,
+[2025-07-30T15:46:07.175+0000] {subprocess.py:93} INFO -     "NumberUnselectedRows": 0,
+[2025-07-30T15:46:07.175+0000] {subprocess.py:93} INFO -     "LoadBytes": 184706,
+[2025-07-30T15:46:07.175+0000] {subprocess.py:93} INFO -     "LoadTimeMs": 62,
+[2025-07-30T15:46:07.175+0000] {subprocess.py:93} INFO -     "BeginTxnTimeMs": 0,
+[2025-07-30T15:46:07.175+0000] {subprocess.py:93} INFO -     "StreamLoadPutTimeMs": 4,
+[2025-07-30T15:46:07.175+0000] {subprocess.py:93} INFO -     "ReadDataTimeMs": 0,
+[2025-07-30T15:46:07.175+0000] {subprocess.py:93} INFO -     "WriteDataTimeMs": 33,
+[2025-07-30T15:46:07.176+0000] {subprocess.py:93} INFO -     "ReceiveDataTimeMs": 16,
+[2025-07-30T15:46:07.176+0000] {subprocess.py:93} INFO -     "CommitAndPublishTimeMs": 21
+[2025-07-30T15:46:07.176+0000] {subprocess.py:93} INFO - }
+[2025-07-30T15:46:07.179+0000] {subprocess.py:93} INFO -   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2025-07-30T15:46:07.180+0000] {subprocess.py:93} INFO -                                  Dload  Upload   Total   Spent    Left  Speed
+[2025-07-30T15:46:07.239+0000] {subprocess.py:93} INFO -   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  156k  100   507  100  156k   8515  2628k --:--:-- --:--:-- --:--:-- 2660k
+[2025-07-30T15:46:07.240+0000] {subprocess.py:93} INFO - {
+[2025-07-30T15:46:07.240+0000] {subprocess.py:93} INFO -     "TxnId": 5032,
+[2025-07-30T15:46:07.240+0000] {subprocess.py:93} INFO -     "Label": "4211221b-21e6-4cf5-89e9-12ac2f4fabc2",
+[2025-07-30T15:46:07.241+0000] {subprocess.py:93} INFO -     "Comment": "",
+[2025-07-30T15:46:07.241+0000] {subprocess.py:93} INFO -     "TwoPhaseCommit": "false",
+[2025-07-30T15:46:07.241+0000] {subprocess.py:93} INFO -     "Status": "Success",
+[2025-07-30T15:46:07.241+0000] {subprocess.py:93} INFO -     "Message": "OK",
+[2025-07-30T15:46:07.241+0000] {subprocess.py:93} INFO -     "NumberTotalRows": 1000,
+[2025-07-30T15:46:07.241+0000] {subprocess.py:93} INFO -     "NumberLoadedRows": 1000,
+[2025-07-30T15:46:07.242+0000] {subprocess.py:93} INFO -     "NumberFilteredRows": 0,
+[2025-07-30T15:46:07.242+0000] {subprocess.py:93} INFO -     "NumberUnselectedRows": 0,
+[2025-07-30T15:46:07.242+0000] {subprocess.py:93} INFO -     "LoadBytes": 160259,
+[2025-07-30T15:46:07.242+0000] {subprocess.py:93} INFO -     "LoadTimeMs": 54,
+[2025-07-30T15:46:07.242+0000] {subprocess.py:93} INFO -     "BeginTxnTimeMs": 0,
+[2025-07-30T15:46:07.243+0000] {subprocess.py:93} INFO -     "StreamLoadPutTimeMs": 2,
+[2025-07-30T15:46:07.243+0000] {subprocess.py:93} INFO -     "ReadDataTimeMs": 0,
+[2025-07-30T15:46:07.243+0000] {subprocess.py:93} INFO -     "WriteDataTimeMs": 25,
+[2025-07-30T15:46:07.243+0000] {subprocess.py:93} INFO -     "ReceiveDataTimeMs": 14,
+[2025-07-30T15:46:07.243+0000] {subprocess.py:93} INFO -     "CommitAndPublishTimeMs": 23
+[2025-07-30T15:46:07.243+0000] {subprocess.py:93} INFO - }
+[2025-07-30T15:46:07.248+0000] {subprocess.py:93} INFO -   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2025-07-30T15:46:07.248+0000] {subprocess.py:93} INFO -                                  Dload  Upload   Total   Spent    Left  Speed
+[2025-07-30T15:46:07.293+0000] {subprocess.py:93} INFO -   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  138k  100   507  100  137k  11238  3052k --:--:-- --:--:-- --:--:-- 3141k
+[2025-07-30T15:46:07.293+0000] {subprocess.py:93} INFO - {
+[2025-07-30T15:46:07.293+0000] {subprocess.py:93} INFO -     "TxnId": 5033,
+[2025-07-30T15:46:07.294+0000] {subprocess.py:93} INFO -     "Label": "bc167d8e-847f-46d5-93e8-072c7d3d7517",
+[2025-07-30T15:46:07.294+0000] {subprocess.py:93} INFO -     "Comment": "",
+[2025-07-30T15:46:07.294+0000] {subprocess.py:93} INFO -     "TwoPhaseCommit": "false",
+[2025-07-30T15:46:07.294+0000] {subprocess.py:93} INFO -     "Status": "Success",
+[2025-07-30T15:46:07.294+0000] {subprocess.py:93} INFO -     "Message": "OK",
+[2025-07-30T15:46:07.294+0000] {subprocess.py:93} INFO -     "NumberTotalRows": 1000,
+[2025-07-30T15:46:07.294+0000] {subprocess.py:93} INFO -     "NumberLoadedRows": 1000,
+[2025-07-30T15:46:07.294+0000] {subprocess.py:93} INFO -     "NumberFilteredRows": 0,
+[2025-07-30T15:46:07.294+0000] {subprocess.py:93} INFO -     "NumberUnselectedRows": 0,
+[2025-07-30T15:46:07.295+0000] {subprocess.py:93} INFO -     "LoadBytes": 141017,
+[2025-07-30T15:46:07.295+0000] {subprocess.py:93} INFO -     "LoadTimeMs": 40,
+[2025-07-30T15:46:07.295+0000] {subprocess.py:93} INFO -     "BeginTxnTimeMs": 0,
+[2025-07-30T15:46:07.295+0000] {subprocess.py:93} INFO -     "StreamLoadPutTimeMs": 2,
+[2025-07-30T15:46:07.295+0000] {subprocess.py:93} INFO -     "ReadDataTimeMs": 0,
+[2025-07-30T15:46:07.295+0000] {subprocess.py:93} INFO -     "WriteDataTimeMs": 19,
+[2025-07-30T15:46:07.295+0000] {subprocess.py:93} INFO -     "ReceiveDataTimeMs": 10,
+[2025-07-30T15:46:07.295+0000] {subprocess.py:93} INFO -     "CommitAndPublishTimeMs": 17
+[2025-07-30T15:46:07.295+0000] {subprocess.py:93} INFO - }
+[2025-07-30T15:46:07.295+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2025-07-30T15:46:07.329+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-07-30T15:46:07.329+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=dag_json_to_doris, task_id=task_json_to_doris, run_id=manual__2025-07-30T15:45:49.325143+00:00, execution_date=20250730T154549, start_date=20250730T154606, end_date=20250730T154607
+[2025-07-30T15:46:07.337+0000] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-07-30T15:46:07.337+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-07-30T15:46:07.337+0000] {logging_mixin.py:190} INFO - Dag name:dag_json_to_doris queued_at:2025-07-30 15:45:49.357987+00:00
+[2025-07-30T15:46:07.338+0000] {logging_mixin.py:190} INFO - Task hostname:7609641ebe00 operator:BashOperator
+[2025-07-30T15:46:07.362+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-07-30T15:46:07.391+0000] {taskinstance.py:3900} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-07-30T15:46:07.392+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

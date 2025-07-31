@@ -1,0 +1,37 @@
+[2025-07-30T17:10:54.290+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-07-30T17:10:54.376+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_refined_to_business.read_sql_asset_summary manual__2025-07-30T17:10:08.290460+00:00 [queued]>
+[2025-07-30T17:10:54.392+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_refined_to_business.read_sql_asset_summary manual__2025-07-30T17:10:08.290460+00:00 [queued]>
+[2025-07-30T17:10:54.394+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 2
+[2025-07-30T17:10:54.435+0000] {taskinstance.py:2888} INFO - Executing <Task(PythonOperator): read_sql_asset_summary> on 2025-07-30 17:10:08.290460+00:00
+[2025-07-30T17:10:54.492+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=1418) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-07-30T17:10:54.523+0000] {standard_task_runner.py:72} INFO - Started process 1436 to run task
+[2025-07-30T17:10:54.521+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'dag_refined_to_business', 'read_sql_asset_summary', 'manual__2025-07-30T17:10:08.290460+00:00', '--job-id', '222', '--raw', '--subdir', 'DAGS_FOLDER/dag_redined_to_business.py', '--cfg-path', '/tmp/tmpmmqr7gqv']
+[2025-07-30T17:10:54.527+0000] {standard_task_runner.py:105} INFO - Job 222: Subtask read_sql_asset_summary
+[2025-07-30T17:10:54.826+0000] {task_command.py:467} INFO - Running <TaskInstance: dag_refined_to_business.read_sql_asset_summary manual__2025-07-30T17:10:08.290460+00:00 [running]> on host 7609641ebe00
+[2025-07-30T17:10:55.200+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='reza' AIRFLOW_CTX_DAG_ID='dag_refined_to_business' AIRFLOW_CTX_TASK_ID='read_sql_asset_summary' AIRFLOW_CTX_EXECUTION_DATE='2025-07-30T17:10:08.290460+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-07-30T17:10:08.290460+00:00'
+[2025-07-30T17:10:55.213+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-07-30T17:10:55.214+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-07-30T17:10:55.217+0000] {logging_mixin.py:190} INFO - Current task name:read_sql_asset_summary state:running start_date:2025-07-30 17:10:54.377250+00:00
+[2025-07-30T17:10:55.218+0000] {logging_mixin.py:190} INFO - Dag name:dag_refined_to_business and current dag run status:running
+[2025-07-30T17:10:55.219+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-07-30T17:10:55.233+0000] {python.py:240} INFO - Done. Returned value was: INSERT INTO business.asset_summary
+SELECT
+  symbol,
+  name,
+  current_price,
+  market_cap,
+  market_cap_rank,
+  total_volume,
+  last_updated
+FROM refined.coingecko_flat;
+[2025-07-30T17:10:55.308+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-07-30T17:10:55.309+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=dag_refined_to_business, task_id=read_sql_asset_summary, run_id=manual__2025-07-30T17:10:08.290460+00:00, execution_date=20250730T171008, start_date=20250730T171054, end_date=20250730T171055
+[2025-07-30T17:10:55.338+0000] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-07-30T17:10:55.339+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-07-30T17:10:55.343+0000] {logging_mixin.py:190} INFO - Dag name:dag_refined_to_business queued_at:2025-07-30 17:10:08.350823+00:00
+[2025-07-30T17:10:55.344+0000] {logging_mixin.py:190} INFO - Task hostname:7609641ebe00 operator:PythonOperator
+[2025-07-30T17:10:55.410+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-07-30T17:10:55.549+0000] {taskinstance.py:3900} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-07-30T17:10:55.565+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

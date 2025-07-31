@@ -1,0 +1,6002 @@
+[
+  {
+    "id": "bitcoin",
+    "circulating_supply": 19888940.0,
+    "total_supply": 19888940.0,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "ethereum",
+    "circulating_supply": 120716893.5985465,
+    "total_supply": 120716893.5985465,
+    "max_supply": null
+  },
+  {
+    "id": "tether",
+    "circulating_supply": 158581664726.5151,
+    "total_supply": 158581664726.5151,
+    "max_supply": null
+  },
+  {
+    "id": "ripple",
+    "circulating_supply": 59068187926.0,
+    "total_supply": 99985968138.0,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "binancecoin",
+    "circulating_supply": 145887575.79,
+    "total_supply": 145887575.79,
+    "max_supply": 200000000.0
+  },
+  {
+    "id": "solana",
+    "circulating_supply": 535574645.7937466,
+    "total_supply": 604741626.1484265,
+    "max_supply": null
+  },
+  {
+    "id": "usd-coin",
+    "circulating_supply": 62152257733.11453,
+    "total_supply": 62111904512.6252,
+    "max_supply": null
+  },
+  {
+    "id": "tron",
+    "circulating_supply": 94779286572.03075,
+    "total_supply": 94779169577.46758,
+    "max_supply": null
+  },
+  {
+    "id": "dogecoin",
+    "circulating_supply": 149942686383.7051,
+    "total_supply": 149998756383.7052,
+    "max_supply": null
+  },
+  {
+    "id": "staked-ether",
+    "circulating_supply": 9093906.814958515,
+    "total_supply": 9093906.814958515,
+    "max_supply": null
+  },
+  {
+    "id": "cardano",
+    "circulating_supply": 36133190031.53131,
+    "total_supply": 45000000000.0,
+    "max_supply": 45000000000.0
+  },
+  {
+    "id": "wrapped-bitcoin",
+    "circulating_supply": 128850.89873878,
+    "total_supply": 128850.89873878,
+    "max_supply": 128850.89873878
+  },
+  {
+    "id": "hyperliquid",
+    "circulating_supply": 333928180.0,
+    "total_supply": 999990391.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "wrapped-steth",
+    "circulating_supply": 3382966.021645033,
+    "total_supply": 3382636.195110744,
+    "max_supply": null
+  },
+  {
+    "id": "sui",
+    "circulating_supply": 3455015252.817221,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "bitcoin-cash",
+    "circulating_supply": 19893971.77165078,
+    "total_supply": 19893974.89665078,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "chainlink",
+    "circulating_supply": 678099970.4527868,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "leo-token",
+    "circulating_supply": 923114975.9,
+    "total_supply": 985239504.0,
+    "max_supply": null
+  },
+  {
+    "id": "stellar",
+    "circulating_supply": 30935418228.36726,
+    "total_supply": 50001786892.81784,
+    "max_supply": 50001786892.81784
+  },
+  {
+    "id": "avalanche-2",
+    "circulating_supply": 422207178.3589423,
+    "total_supply": 457209904.3813128,
+    "max_supply": 720000000.0
+  },
+  {
+    "id": "usds",
+    "circulating_supply": 7366362466.108592,
+    "total_supply": 7365746129.540575,
+    "max_supply": null
+  },
+  {
+    "id": "the-open-network",
+    "circulating_supply": 2468611528.455536,
+    "total_supply": 5134585533.508778,
+    "max_supply": null
+  },
+  {
+    "id": "shiba-inu",
+    "circulating_supply": 589248058378035.8,
+    "total_supply": 589502682939850.9,
+    "max_supply": null
+  },
+  {
+    "id": "wrapped-eeth",
+    "circulating_supply": 2509910.632408927,
+    "total_supply": 2509910.489394785,
+    "max_supply": null
+  },
+  {
+    "id": "hedera-hashgraph",
+    "circulating_supply": 42391439525.58377,
+    "total_supply": 50000000000.0,
+    "max_supply": 50000000000.0
+  },
+  {
+    "id": "weth",
+    "circulating_supply": 2641018.252120109,
+    "total_supply": 2641201.881007853,
+    "max_supply": null
+  },
+  {
+    "id": "litecoin",
+    "circulating_supply": 76048358.23347135,
+    "total_supply": 76048570.73347135,
+    "max_supply": 84000000.0
+  },
+  {
+    "id": "whitebit",
+    "circulating_supply": 144118517.10815412,
+    "total_supply": 323877186.0,
+    "max_supply": 400000000.0
+  },
+  {
+    "id": "binance-bridged-usdt-bnb-smart-chain",
+    "circulating_supply": 6284993699.45542,
+    "total_supply": 6284993699.45542,
+    "max_supply": null
+  },
+  {
+    "id": "monero",
+    "circulating_supply": 18446744.07370955,
+    "total_supply": 18446744.07370955,
+    "max_supply": null
+  },
+  {
+    "id": "coinbase-wrapped-btc",
+    "circulating_supply": 49603.35873953,
+    "total_supply": 49603.35873953,
+    "max_supply": null
+  },
+  {
+    "id": "ethena-usde",
+    "circulating_supply": 5307115083.336545,
+    "total_supply": 5307115083.336545,
+    "max_supply": null
+  },
+  {
+    "id": "polkadot",
+    "circulating_supply": 1522267060.0,
+    "total_supply": 1522267060.0,
+    "max_supply": null
+  },
+  {
+    "id": "bitget-token",
+    "circulating_supply": 1169993089.2,
+    "total_supply": 1169993089.2,
+    "max_supply": 2000000000.0
+  },
+  {
+    "id": "uniswap",
+    "circulating_supply": 600483073.71,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "aave",
+    "circulating_supply": 15176583.769680953,
+    "total_supply": 16000000.0,
+    "max_supply": 16000000.0
+  },
+  {
+    "id": "pepe",
+    "circulating_supply": 420690000000000.0,
+    "total_supply": 420690000000000.0,
+    "max_supply": 420690000000000.0
+  },
+  {
+    "id": "dai",
+    "circulating_supply": 3605717194.540107,
+    "total_supply": 3608633023.059688,
+    "max_supply": null
+  },
+  {
+    "id": "pi-network",
+    "circulating_supply": 7641645578.265015,
+    "total_supply": 11756377812.7154,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "ethena-staked-usde",
+    "circulating_supply": 2647404501.692569,
+    "total_supply": 2647303932.374908,
+    "max_supply": null
+  },
+  {
+    "id": "okb",
+    "circulating_supply": 60000000.0,
+    "total_supply": 235957685.3,
+    "max_supply": 300000000.0
+  },
+  {
+    "id": "bittensor",
+    "circulating_supply": 8988470.0,
+    "total_supply": 21000000.0,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "aptos",
+    "circulating_supply": 644540078.5473114,
+    "total_supply": 1152623671.3999,
+    "max_supply": null
+  },
+  {
+    "id": "blackrock-usd-institutional-digital-liquidity-fund",
+    "circulating_supply": 2833937572.533854,
+    "total_supply": 2835208853.783854,
+    "max_supply": null
+  },
+  {
+    "id": "jito-staked-sol",
+    "circulating_supply": 14576776.26663052,
+    "total_supply": 14576776.26663052,
+    "max_supply": null
+  },
+  {
+    "id": "near",
+    "circulating_supply": 1231571683.0,
+    "total_supply": 1259191776.0,
+    "max_supply": null
+  },
+  {
+    "id": "internet-computer",
+    "circulating_supply": 535156692.3137315,
+    "total_supply": 535156692.3137315,
+    "max_supply": null
+  },
+  {
+    "id": "crypto-com-chain",
+    "circulating_supply": 31123640849.16716,
+    "total_supply": 97823665027.5448,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "ethereum-classic",
+    "circulating_supply": 152613146.0250768,
+    "total_supply": 152613146.0250768,
+    "max_supply": 210700000.0
+  },
+  {
+    "id": "ondo-finance",
+    "circulating_supply": 3159107529.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "susds",
+    "circulating_supply": 2221184211.949871,
+    "total_supply": 2221184211.949871,
+    "max_supply": null
+  },
+  {
+    "id": "usd1-wlfi",
+    "circulating_supply": 2203847519.0,
+    "total_supply": 2203847519.0,
+    "max_supply": null
+  },
+  {
+    "id": "kaspa",
+    "circulating_supply": 26363807936.34678,
+    "total_supply": 26416052332.10453,
+    "max_supply": 28704026601.0
+  },
+  {
+    "id": "mantle",
+    "circulating_supply": 3365794382.83684,
+    "total_supply": 6219316794.99,
+    "max_supply": 6219316794.99
+  },
+  {
+    "id": "fasttoken",
+    "circulating_supply": 431160771.8,
+    "total_supply": 870742437.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "cosmos",
+    "circulating_supply": 457667919.111059,
+    "total_supply": 457670553.858112,
+    "max_supply": null
+  },
+  {
+    "id": "gatechain-token",
+    "circulating_supply": 119444887.81900902,
+    "total_supply": 300000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "vechain",
+    "circulating_supply": 85985041177.0,
+    "total_supply": 85985041177.0,
+    "max_supply": 86712634466.0
+  },
+  {
+    "id": "fetch-ai",
+    "circulating_supply": 2604959126.672,
+    "total_supply": 2714493896.672,
+    "max_supply": 2714493896.672
+  },
+  {
+    "id": "bonk",
+    "circulating_supply": 77419592329436.58,
+    "total_supply": 88795974256221.39,
+    "max_supply": 88795974256221.39
+  },
+  {
+    "id": "official-trump",
+    "circulating_supply": 199999975.635993,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "sky",
+    "circulating_supply": 21290901819.37711,
+    "total_supply": 23462665147.36596,
+    "max_supply": null
+  },
+  {
+    "id": "polygon-ecosystem-token",
+    "circulating_supply": 9001560896.877457,
+    "total_supply": 10458909885.58597,
+    "max_supply": null
+  },
+  {
+    "id": "ethena",
+    "circulating_supply": 6354687500.0,
+    "total_supply": 15000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "render-token",
+    "circulating_supply": 518128769.0562826,
+    "total_supply": 532888942.3362826,
+    "max_supply": 644245094.0
+  },
+  {
+    "id": "lombard-staked-btc",
+    "circulating_supply": 15252.51286704002,
+    "total_supply": 15252.51286704002,
+    "max_supply": null
+  },
+  {
+    "id": "arbitrum",
+    "circulating_supply": 4963238296.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "quant-network",
+    "circulating_supply": 14544176.164091088,
+    "total_supply": 14612493.0,
+    "max_supply": 14612493.0
+  },
+  {
+    "id": "filecoin",
+    "circulating_supply": 680086618.0,
+    "total_supply": 1959289179.0,
+    "max_supply": 1959289216.0
+  },
+  {
+    "id": "binance-peg-weth",
+    "circulating_supply": 604999.999959841,
+    "total_supply": 604999.999959841,
+    "max_supply": null
+  },
+  {
+    "id": "jupiter-perpetuals-liquidity-provider-token",
+    "circulating_supply": 339137977.801113,
+    "total_supply": 339137977.801113,
+    "max_supply": null
+  },
+  {
+    "id": "algorand",
+    "circulating_supply": 8637249659.374758,
+    "total_supply": 8637252439.330214,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "worldcoin-wld",
+    "circulating_supply": 1709395465.762831,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "usdtb",
+    "circulating_supply": 1458476411.444552,
+    "total_supply": 1458476411.444552,
+    "max_supply": null
+  },
+  {
+    "id": "first-digital-usd",
+    "circulating_supply": 1458714440.700666,
+    "total_supply": 1458714440.700666,
+    "max_supply": null
+  },
+  {
+    "id": "sei-network",
+    "circulating_supply": 5556944444.0,
+    "total_supply": 10000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "binance-staked-sol",
+    "circulating_supply": 8782442.22434031,
+    "total_supply": 8782442.22434031,
+    "max_supply": null
+  },
+  {
+    "id": "kucoin-shares",
+    "circulating_supply": 127467221.7819991,
+    "total_supply": 142467221.7819991,
+    "max_supply": null
+  },
+  {
+    "id": "usdt0",
+    "circulating_supply": 1371566713.879084,
+    "total_supply": 1368992123.018648,
+    "max_supply": null
+  },
+  {
+    "id": "jupiter-exchange-solana",
+    "circulating_supply": 3004799999.98,
+    "total_supply": 6999215443.594971,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "kelp-dao-restaked-eth",
+    "circulating_supply": 457428.929296473,
+    "total_supply": 457428.929296473,
+    "max_supply": null
+  },
+  {
+    "id": "nexo",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "spx6900",
+    "circulating_supply": 930993086.0063922,
+    "total_supply": 930993086.0063922,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "rocket-pool-eth",
+    "circulating_supply": 413141.441196742,
+    "total_supply": 413141.4198714129,
+    "max_supply": null
+  },
+  {
+    "id": "fartcoin",
+    "circulating_supply": 999990997.787252,
+    "total_supply": 999990997.787252,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "flare-networks",
+    "circulating_supply": 69431663349.90031,
+    "total_supply": 103621318186.4633,
+    "max_supply": null
+  },
+  {
+    "id": "celestia",
+    "circulating_supply": 700217947.427348,
+    "total_supply": 1133260273.972215,
+    "max_supply": null
+  },
+  {
+    "id": "polygon-bridged-usdt-polygon",
+    "circulating_supply": 1068912871.515863,
+    "total_supply": 1068912871.515863,
+    "max_supply": null
+  },
+  {
+    "id": "xdce-crowd-sale",
+    "circulating_supply": 16222663232.2,
+    "total_supply": 38002848559.2,
+    "max_supply": null
+  },
+  {
+    "id": "injective-protocol",
+    "circulating_supply": 97727220.33,
+    "total_supply": 100000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "binance-bridged-usdc-bnb-smart-chain",
+    "circulating_supply": 998999979.839804,
+    "total_supply": 998999979.839804,
+    "max_supply": null
+  },
+  {
+    "id": "blockstack",
+    "circulating_supply": 1533403313.39442,
+    "total_supply": 1533403313.39442,
+    "max_supply": 1818000000.0
+  },
+  {
+    "id": "sonic-3",
+    "circulating_supply": 3222625000.0,
+    "total_supply": 3222625000.0,
+    "max_supply": null
+  },
+  {
+    "id": "virtual-protocol",
+    "circulating_supply": 654917543.3078747,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "mantle-staked-ether",
+    "circulating_supply": 355820.2805269247,
+    "total_supply": 355820.2805269247,
+    "max_supply": null
+  },
+  {
+    "id": "syrupusdc",
+    "circulating_supply": 858258808.149397,
+    "total_supply": 858258808.149397,
+    "max_supply": null
+  },
+  {
+    "id": "stakewise-v3-oseth",
+    "circulating_supply": 357635.2469235,
+    "total_supply": 357635.2469235,
+    "max_supply": null
+  },
+  {
+    "id": "optimism",
+    "circulating_supply": 1752186819.0,
+    "total_supply": 4294967296.0,
+    "max_supply": 4294967296.0
+  },
+  {
+    "id": "pax-gold",
+    "circulating_supply": 279387.591,
+    "total_supply": 279387.591,
+    "max_supply": null
+  },
+  {
+    "id": "pudgy-penguins",
+    "circulating_supply": 62860396090.0,
+    "total_supply": 76724221264.27525,
+    "max_supply": 88888888888.0
+  },
+  {
+    "id": "solv-btc",
+    "circulating_supply": 8411.70550716787,
+    "total_supply": 8411.705841886253,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "arbitrum-bridged-wbtc-arbitrum-one",
+    "circulating_supply": 8282.91595959,
+    "total_supply": 8282.43082116,
+    "max_supply": null
+  },
+  {
+    "id": "story-2",
+    "circulating_supply": 286448164.03,
+    "total_supply": 1008640048.05,
+    "max_supply": null
+  },
+  {
+    "id": "wbnb",
+    "circulating_supply": 1342637.45281419,
+    "total_supply": 1342637.45281419,
+    "max_supply": null
+  },
+  {
+    "id": "kaia",
+    "circulating_supply": 5856641747.106198,
+    "total_supply": 5856641936.044253,
+    "max_supply": null
+  },
+  {
+    "id": "paypal-usd",
+    "circulating_supply": 871932975.727188,
+    "total_supply": 871932975.727188,
+    "max_supply": null
+  },
+  {
+    "id": "renzo-restaked-eth",
+    "circulating_supply": 319503.8928608563,
+    "total_supply": 319503.8928608563,
+    "max_supply": null
+  },
+  {
+    "id": "dogwifcoin",
+    "circulating_supply": 998926392.0,
+    "total_supply": 998926392.0,
+    "max_supply": 998926392.0
+  },
+  {
+    "id": "clbtc",
+    "circulating_supply": 7723.217000000001,
+    "total_supply": 7723.217000000001,
+    "max_supply": null
+  },
+  {
+    "id": "the-graph",
+    "circulating_supply": 9875210669.585089,
+    "total_supply": 10800262823.31821,
+    "max_supply": 10800262823.318213
+  },
+  {
+    "id": "tether-gold",
+    "circulating_supply": 246524.33,
+    "total_supply": 246524.33,
+    "max_supply": null
+  },
+  {
+    "id": "jupiter-staked-sol",
+    "circulating_supply": 4644833.410368976,
+    "total_supply": 4644833.410368976,
+    "max_supply": null
+  },
+  {
+    "id": "floki",
+    "circulating_supply": 9662646223743.0,
+    "total_supply": 10000000000000.0,
+    "max_supply": 10000000000000.0
+  },
+  {
+    "id": "pancakeswap-token",
+    "circulating_supply": 345211724.8782168,
+    "total_supply": 366319644.1053557,
+    "max_supply": 450000000.0
+  },
+  {
+    "id": "immutable-x",
+    "circulating_supply": 1866386427.3898141,
+    "total_supply": 2000000000.0,
+    "max_supply": 2000000000.0
+  },
+  {
+    "id": "msol",
+    "circulating_supply": 3807711.0,
+    "total_supply": 3807711.0,
+    "max_supply": 3807711.0
+  },
+  {
+    "id": "vaulta",
+    "circulating_supply": 1576382183.8952,
+    "total_supply": 2100000000.0,
+    "max_supply": 2100000000.0
+  },
+  {
+    "id": "liquid-staked-ethereum",
+    "circulating_supply": 269078.2011005595,
+    "total_supply": 269078.2011005595,
+    "max_supply": null
+  },
+  {
+    "id": "ousg",
+    "circulating_supply": 6350685.37878668,
+    "total_supply": 6350685.37878668,
+    "max_supply": null
+  },
+  {
+    "id": "theta-token",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "superstate-short-duration-us-government-securities-fund-ustb",
+    "circulating_supply": 64231216.891231,
+    "total_supply": 64231216.891231,
+    "max_supply": null
+  },
+  {
+    "id": "curve-dao-token",
+    "circulating_supply": 1370892361.0,
+    "total_supply": 2280264350.658313,
+    "max_supply": 3030303031.0
+  },
+  {
+    "id": "usdx-money-usdx",
+    "circulating_supply": 674135155.4683923,
+    "total_supply": 674135155.4683923,
+    "max_supply": null
+  },
+  {
+    "id": "lido-dao",
+    "circulating_supply": 896924006.4839877,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "jito-governance-token",
+    "circulating_supply": 345684143.0,
+    "total_supply": 1000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "gala",
+    "circulating_supply": 45175076817.44792,
+    "total_supply": 45175076685.44786,
+    "max_supply": 50000000000.0
+  },
+  {
+    "id": "ondo-us-dollar-yield",
+    "circulating_supply": 581356546.6302944,
+    "total_supply": 627797637.2425759,
+    "max_supply": null
+  },
+  {
+    "id": "zcash",
+    "circulating_supply": 16153590.7905448,
+    "total_supply": 16154701.7280448,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "ethereum-name-service",
+    "circulating_supply": 33165585.054507963,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "saros-finance",
+    "circulating_supply": 2624999826.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "wrapped-hype",
+    "circulating_supply": 15535754.43333718,
+    "total_supply": 15515287.61606182,
+    "max_supply": null
+  },
+  {
+    "id": "iota",
+    "circulating_supply": 3871094455.0,
+    "total_supply": 4648319858.0,
+    "max_supply": null
+  },
+  {
+    "id": "bittorrent",
+    "circulating_supply": 986061142857000.0,
+    "total_supply": 990000000000000.0,
+    "max_supply": 990000000000000.0
+  },
+  {
+    "id": "the-sandbox",
+    "circulating_supply": 2445857126.2233224,
+    "total_supply": 3000000000.0,
+    "max_supply": 3000000000.0
+  },
+  {
+    "id": "solv-protocol-solvbtc-bbn",
+    "circulating_supply": 5485.672681905242,
+    "total_supply": 5485.672551978235,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "aerodrome-finance",
+    "circulating_supply": 852024644.0240983,
+    "total_supply": 1677741256.190493,
+    "max_supply": null
+  },
+  {
+    "id": "jasmycoin",
+    "circulating_supply": 48419999999.3058,
+    "total_supply": 50000000000.0,
+    "max_supply": 50000000000.0
+  },
+  {
+    "id": "raydium",
+    "circulating_supply": 267648552.832278,
+    "total_supply": 555000000.0,
+    "max_supply": 555000000.0
+  },
+  {
+    "id": "usual-usd",
+    "circulating_supply": 583467345.4454011,
+    "total_supply": 583467345.4454011,
+    "max_supply": null
+  },
+  {
+    "id": "super-oeth",
+    "circulating_supply": 224344.320380508,
+    "total_supply": 224344.320380508,
+    "max_supply": null
+  },
+  {
+    "id": "syrup",
+    "circulating_supply": 1073833091.274637,
+    "total_supply": 1194043026.879774,
+    "max_supply": null
+  },
+  {
+    "id": "tbtc",
+    "circulating_supply": 5245.86506536,
+    "total_supply": 5245.86506536,
+    "max_supply": null
+  },
+  {
+    "id": "pyth-network",
+    "circulating_supply": 5749985891.784296,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "pendle",
+    "circulating_supply": 164664775.9842429,
+    "total_supply": 281527448.4585314,
+    "max_supply": 281527448.4585314
+  },
+  {
+    "id": "walrus-2",
+    "circulating_supply": 1380833333.0,
+    "total_supply": 5000000000.0,
+    "max_supply": 5000000000.0
+  },
+  {
+    "id": "newton-project",
+    "circulating_supply": 66584464915.95,
+    "total_supply": 98823661261.46,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "tezos",
+    "circulating_supply": 1049971307.006231,
+    "total_supply": 1070094350.737203,
+    "max_supply": null
+  },
+  {
+    "id": "l2-standard-bridged-weth-base",
+    "circulating_supply": 215268.6325468982,
+    "total_supply": 215268.6325468982,
+    "max_supply": null
+  },
+  {
+    "id": "mantle-restaked-eth",
+    "circulating_supply": 201591.7464339998,
+    "total_supply": 201591.7464339998,
+    "max_supply": null
+  },
+  {
+    "id": "falcon-finance",
+    "circulating_supply": 542976895.5356715,
+    "total_supply": 542976895.5356715,
+    "max_supply": null
+  },
+  {
+    "id": "cgeth-hashkey-cloud",
+    "circulating_supply": 199929.02,
+    "total_supply": 199929.02,
+    "max_supply": null
+  },
+  {
+    "id": "flow",
+    "circulating_supply": 1593331825.388552,
+    "total_supply": 1593331825.388552,
+    "max_supply": null
+  },
+  {
+    "id": "bitcoin-avalanche-bridged-btc-b",
+    "circulating_supply": 4749.63775256,
+    "total_supply": 4749.63775256,
+    "max_supply": null
+  },
+  {
+    "id": "decentraland",
+    "circulating_supply": 1919205871.8763878,
+    "total_supply": 2193179327.320146,
+    "max_supply": 2193179327.320146
+  },
+  {
+    "id": "venom",
+    "circulating_supply": 2086982037.444444,
+    "total_supply": 7297958063.23,
+    "max_supply": 8000000000.0
+  },
+  {
+    "id": "arbitrum-bridged-weth-arbitrum-one",
+    "circulating_supply": 197781.2945533509,
+    "total_supply": 199555.9568724768,
+    "max_supply": null
+  },
+  {
+    "id": "staked-hype",
+    "circulating_supply": 12630272.15824144,
+    "total_supply": 12630272.15824144,
+    "max_supply": null
+  },
+  {
+    "id": "true-usd",
+    "circulating_supply": 494515083.0,
+    "total_supply": 494515083.0,
+    "max_supply": null
+  },
+  {
+    "id": "bitcoin-cash-sv",
+    "circulating_supply": 19889087.5,
+    "total_supply": 19889100.0,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "coredaoorg",
+    "circulating_supply": 1005100542.749643,
+    "total_supply": 2100000000.0,
+    "max_supply": 2100000000.0
+  },
+  {
+    "id": "apecoin",
+    "circulating_supply": 799455492.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "ripple-usd",
+    "circulating_supply": 485243638.84,
+    "total_supply": 485243638.84,
+    "max_supply": null
+  },
+  {
+    "id": "bridged-usdc-polygon-pos-bridge",
+    "circulating_supply": 474383822.999494,
+    "total_supply": 474383822.999494,
+    "max_supply": null
+  },
+  {
+    "id": "chain-2",
+    "circulating_supply": 34275097040.866802,
+    "total_supply": 48402432408.48609,
+    "max_supply": 48402432408.48609
+  },
+  {
+    "id": "thorchain",
+    "circulating_supply": 351492109.0,
+    "total_supply": 425497846.0,
+    "max_supply": 500000000.0
+  },
+  {
+    "id": "dog-go-to-the-moon-rune",
+    "circulating_supply": 100000000000.0,
+    "total_supply": 100000000000.0,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "beldex",
+    "circulating_supply": 7146933848.873903,
+    "total_supply": 9935274004.394176,
+    "max_supply": null
+  },
+  {
+    "id": "dexe",
+    "circulating_supply": 57103774.56313077,
+    "total_supply": 96504599.33609451,
+    "max_supply": null
+  },
+  {
+    "id": "apenft",
+    "circulating_supply": 990105682877398.0,
+    "total_supply": 999990000000000.0,
+    "max_supply": 999990000000000.0
+  },
+  {
+    "id": "morpho",
+    "circulating_supply": 319220375.2484549,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "helium",
+    "circulating_supply": 184651792.6889371,
+    "total_supply": 223000000.0,
+    "max_supply": 223000000.0
+  },
+  {
+    "id": "binance-peg-dogecoin",
+    "circulating_supply": 2564000000.0,
+    "total_supply": 2564000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "usdd",
+    "circulating_supply": 427220549.0,
+    "total_supply": 427887876.0,
+    "max_supply": null
+  },
+  {
+    "id": "based-brett",
+    "circulating_supply": 9909851393.978369,
+    "total_supply": 9909851393.978369,
+    "max_supply": 9999998988.0
+  },
+  {
+    "id": "kava",
+    "circulating_supply": 1082853331.0,
+    "total_supply": 1082853331.0,
+    "max_supply": null
+  },
+  {
+    "id": "reserve-rights-token",
+    "circulating_supply": 57911733088.0,
+    "total_supply": 100000000000.0,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "hashnote-usyc",
+    "circulating_supply": 375525781.512949,
+    "total_supply": 375525781.512949,
+    "max_supply": null
+  },
+  {
+    "id": "starknet",
+    "circulating_supply": 3594239418.348971,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "usdb",
+    "circulating_supply": 406046631.5607005,
+    "total_supply": 406046631.5607005,
+    "max_supply": null
+  },
+  {
+    "id": "movement",
+    "circulating_supply": 2600000000.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "stader-ethx",
+    "circulating_supply": 145381.6018471867,
+    "total_supply": 145381.6018471867,
+    "max_supply": null
+  },
+  {
+    "id": "dydx-chain",
+    "circulating_supply": 750336230.1582313,
+    "total_supply": 958342751.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "build-on",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "neo",
+    "circulating_supply": 70530000.0,
+    "total_supply": 100000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "mog-coin",
+    "circulating_supply": 390567524379062.56,
+    "total_supply": 390567524379062.56,
+    "max_supply": 420690000000000.0
+  },
+  {
+    "id": "compound-governance-token",
+    "circulating_supply": 9391408.990605718,
+    "total_supply": 10000000.0,
+    "max_supply": 10000000.0
+  },
+  {
+    "id": "elrond-erd-2",
+    "circulating_supply": 28410861.0,
+    "total_supply": 28410861.0,
+    "max_supply": 31415926.0
+  },
+  {
+    "id": "mantle-bridged-usdt-mantle",
+    "circulating_supply": 378268683.593251,
+    "total_supply": 378268683.593251,
+    "max_supply": null
+  },
+  {
+    "id": "conflux-token",
+    "circulating_supply": 5100761935.189921,
+    "total_supply": 5673727605.666183,
+    "max_supply": null
+  },
+  {
+    "id": "ecash",
+    "circulating_supply": 19888895297582.0,
+    "total_supply": 19888904672582.0,
+    "max_supply": 21000000000000.0
+  },
+  {
+    "id": "ether-fi-staked-btc",
+    "circulating_supply": 3376.56531846,
+    "total_supply": 3376.56531846,
+    "max_supply": null
+  },
+  {
+    "id": "ether-fi-staked-eth",
+    "circulating_supply": 144268.20003878794,
+    "total_supply": 2833071.433507228,
+    "max_supply": null
+  },
+  {
+    "id": "kaito",
+    "circulating_supply": 241388889.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "aioz-network",
+    "circulating_supply": 1186879247.938094,
+    "total_supply": 1187806316.178865,
+    "max_supply": null
+  },
+  {
+    "id": "deep",
+    "circulating_supply": 2500000000.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "ether-fi",
+    "circulating_supply": 374688147.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "polygon-pos-bridged-dai-polygon-pos",
+    "circulating_supply": 358812649.9751115,
+    "total_supply": 358812649.9751115,
+    "max_supply": null
+  },
+  {
+    "id": "eigenlayer",
+    "circulating_supply": 312566705.9010919,
+    "total_supply": 1734155432.445721,
+    "max_supply": null
+  },
+  {
+    "id": "axie-infinity",
+    "circulating_supply": 165577384.2817306,
+    "total_supply": 270000000.0,
+    "max_supply": 270000000.0
+  },
+  {
+    "id": "telcoin",
+    "circulating_supply": 91899666665.01,
+    "total_supply": 100000000000.0,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "grass",
+    "circulating_supply": 288103770.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "coinbase-wrapped-staked-eth",
+    "circulating_supply": 124740.8318202854,
+    "total_supply": 373334.0782232124,
+    "max_supply": null
+  },
+  {
+    "id": "chiliz",
+    "circulating_supply": 9704670707.0,
+    "total_supply": 9704670707.0,
+    "max_supply": null
+  },
+  {
+    "id": "eos",
+    "circulating_supply": 715830635.3103,
+    "total_supply": 2100000000.0,
+    "max_supply": 2100000000.0
+  },
+  {
+    "id": "just",
+    "circulating_supply": 9900000000.0,
+    "total_supply": 9900000000.0,
+    "max_supply": 9900000000.0
+  },
+  {
+    "id": "sweth",
+    "circulating_supply": 121323.095741077,
+    "total_supply": 121326.478319651,
+    "max_supply": null
+  },
+  {
+    "id": "olympus",
+    "circulating_supply": 16376217.36631088,
+    "total_supply": 20651192.7475422,
+    "max_supply": 20651192.7475422
+  },
+  {
+    "id": "arweave",
+    "circulating_supply": 65454185.5381511,
+    "total_supply": 65454185.5381511,
+    "max_supply": 66000000.0
+  },
+  {
+    "id": "global-dollar",
+    "circulating_supply": 332596113.695331,
+    "total_supply": 332596113.695331,
+    "max_supply": null
+  },
+  {
+    "id": "sun-token",
+    "circulating_supply": 19148968392.82385,
+    "total_supply": 19900730000.0,
+    "max_supply": null
+  },
+  {
+    "id": "polygon-bridged-wbtc-polygon-pos",
+    "circulating_supply": 3042.30080427,
+    "total_supply": 3042.30080427,
+    "max_supply": null
+  },
+  {
+    "id": "zksync",
+    "circulating_supply": 7157421941.371818,
+    "total_supply": 21000000000.0,
+    "max_supply": 21000000000.0
+  },
+  {
+    "id": "polygon-pos-bridged-weth-polygon-pos",
+    "circulating_supply": 127516.7762702713,
+    "total_supply": 127516.7762702713,
+    "max_supply": null
+  },
+  {
+    "id": "ket",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "axelar",
+    "circulating_supply": 996787690.0665361,
+    "total_supply": 1207777707.598404,
+    "max_supply": null
+  },
+  {
+    "id": "beam-2",
+    "circulating_supply": 52410655848.0,
+    "total_supply": 59196501547.0,
+    "max_supply": 59196501547.0
+  },
+  {
+    "id": "frax",
+    "circulating_supply": 314401093.0252926,
+    "total_supply": 314401093.0252926,
+    "max_supply": null
+  },
+  {
+    "id": "ronin",
+    "circulating_supply": 659239687.9637812,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "binance-peg-busd",
+    "circulating_supply": 312477997.509689,
+    "total_supply": 312477997.509689,
+    "max_supply": null
+  },
+  {
+    "id": "terra-luna",
+    "circulating_supply": 5464503456136.601,
+    "total_supply": 6495183271354.247,
+    "max_supply": null
+  },
+  {
+    "id": "frax-ether",
+    "circulating_supply": 120975.596494692,
+    "total_supply": 120975.596494692,
+    "max_supply": null
+  },
+  {
+    "id": "trip",
+    "circulating_supply": 29500000.0,
+    "total_supply": 98000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "bybit-staked-sol",
+    "circulating_supply": 1833777.653266457,
+    "total_supply": 1833777.653266457,
+    "max_supply": null
+  },
+  {
+    "id": "wormhole",
+    "circulating_supply": 4658510059.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "gho",
+    "circulating_supply": 301996240.721637,
+    "total_supply": 301996240.721637,
+    "max_supply": null
+  },
+  {
+    "id": "gnosis",
+    "circulating_supply": 2639589.0,
+    "total_supply": 3000000.0,
+    "max_supply": 3000000.0
+  },
+  {
+    "id": "openeden-open-dollar",
+    "circulating_supply": 292797636.7035757,
+    "total_supply": 292797636.7035757,
+    "max_supply": null
+  },
+  {
+    "id": "trust-wallet-token",
+    "circulating_supply": 416649900.0,
+    "total_supply": 1000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "superfarm",
+    "circulating_supply": 451694843.416917,
+    "total_supply": 999998077.4169172,
+    "max_supply": 999998077.4169172
+  },
+  {
+    "id": "popcat",
+    "circulating_supply": 979978669.96,
+    "total_supply": 979978669.96,
+    "max_supply": 979978694.0
+  },
+  {
+    "id": "amp-token",
+    "circulating_supply": 84231346590.2867,
+    "total_supply": 99669205039.99,
+    "max_supply": 99669205039.99
+  },
+  {
+    "id": "akash-network",
+    "circulating_supply": 271338573.240677,
+    "total_supply": 274211578.526931,
+    "max_supply": 388539008.0
+  },
+  {
+    "id": "abtc",
+    "circulating_supply": 2655.3386141009,
+    "total_supply": 2655.3386141009,
+    "max_supply": null
+  },
+  {
+    "id": "treehouse-eth",
+    "circulating_supply": 92997.8300305091,
+    "total_supply": 92997.8300305091,
+    "max_supply": null
+  },
+  {
+    "id": "compounding-open-dollar",
+    "circulating_supply": 278939857.5656044,
+    "total_supply": 278939857.5656044,
+    "max_supply": null
+  },
+  {
+    "id": "wrapped-avax",
+    "circulating_supply": 15593485.18435972,
+    "total_supply": 15593485.18435972,
+    "max_supply": null
+  },
+  {
+    "id": "eutbl",
+    "circulating_supply": 229892814.67953,
+    "total_supply": 229892814.67953,
+    "max_supply": null
+  },
+  {
+    "id": "cheems-token",
+    "circulating_supply": 203672952113698.72,
+    "total_supply": 203672952113698.72,
+    "max_supply": 219776051832671.0
+  },
+  {
+    "id": "plume",
+    "circulating_supply": 2541666666.666666,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "keeta",
+    "circulating_supply": 403844804.6819337,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "useless-3",
+    "circulating_supply": 999940362.02,
+    "total_supply": 999940362.02,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "compound-wrapped-btc",
+    "circulating_supply": 123932.1091015,
+    "total_supply": 123932.1091015,
+    "max_supply": null
+  },
+  {
+    "id": "matic-network",
+    "circulating_supply": 1457346851.0704978,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "creditcoin-2",
+    "circulating_supply": 454416053.0,
+    "total_supply": 599999997.0,
+    "max_supply": null
+  },
+  {
+    "id": "decred",
+    "circulating_supply": 16892153.34292052,
+    "total_supply": 16892367.05752632,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "btse-token",
+    "circulating_supply": 162061501.0,
+    "total_supply": 200000000.0,
+    "max_supply": 200000000.0
+  },
+  {
+    "id": "aethir",
+    "circulating_supply": 9895446319.0,
+    "total_supply": 42000000000.0,
+    "max_supply": 42000000000.0
+  },
+  {
+    "id": "1inch",
+    "circulating_supply": 1393972552.418814,
+    "total_supply": 1499999999.997,
+    "max_supply": 1499999999.997
+  },
+  {
+    "id": "pumpbtc",
+    "circulating_supply": 2589.82357477,
+    "total_supply": 2589.82357477,
+    "max_supply": null
+  },
+  {
+    "id": "turbo",
+    "circulating_supply": 69000000000.0,
+    "total_supply": 69000000000.0,
+    "max_supply": 69000000000.0
+  },
+  {
+    "id": "livepeer",
+    "circulating_supply": 42144518.08338078,
+    "total_supply": 42144518.08338078,
+    "max_supply": 42144518.08338078
+  },
+  {
+    "id": "safe",
+    "circulating_supply": 607031526.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "universal-btc",
+    "circulating_supply": 2354.46011286,
+    "total_supply": 2354.46011286,
+    "max_supply": null
+  },
+  {
+    "id": "drift-staked-sol",
+    "circulating_supply": 1441647.981479871,
+    "total_supply": 1441647.981479871,
+    "max_supply": null
+  },
+  {
+    "id": "dash",
+    "circulating_supply": 12326574.63038855,
+    "total_supply": 12326588.33261126,
+    "max_supply": 18920000.0
+  },
+  {
+    "id": "reserve-protocol-eth-plus",
+    "circulating_supply": 91989.85260318802,
+    "total_supply": 91989.85260318802,
+    "max_supply": null
+  },
+  {
+    "id": "benqi-liquid-staked-avax",
+    "circulating_supply": 11116952.91296933,
+    "total_supply": 11116939.45793834,
+    "max_supply": null
+  },
+  {
+    "id": "memecore",
+    "circulating_supply": 1579304706.25,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "cat-in-a-dogs-world",
+    "circulating_supply": 88888888888.88,
+    "total_supply": 88888888888.88,
+    "max_supply": 88888888888.88
+  },
+  {
+    "id": "staked-frax-ether",
+    "circulating_supply": 83708.61910546343,
+    "total_supply": 83708.61910546343,
+    "max_supply": null
+  },
+  {
+    "id": "mx-token",
+    "circulating_supply": 94310834.0,
+    "total_supply": 416185834.0,
+    "max_supply": null
+  },
+  {
+    "id": "mocaverse",
+    "circulating_supply": 3378425088.3025,
+    "total_supply": 8888888888.0,
+    "max_supply": 8888888888.0
+  },
+  {
+    "id": "theta-fuel",
+    "circulating_supply": 6997003424.0,
+    "total_supply": 6997037783.0,
+    "max_supply": null
+  },
+  {
+    "id": "golem",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "safepal",
+    "circulating_supply": 500000000.0,
+    "total_supply": 500000000.0,
+    "max_supply": 500000000.0
+  },
+  {
+    "id": "euler",
+    "circulating_supply": 18685530.67,
+    "total_supply": 27182818.28459,
+    "max_supply": 27182818.0
+  },
+  {
+    "id": "zebec-network",
+    "circulating_supply": 86306926385.0859,
+    "total_supply": 99998854366.2359,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "toshi",
+    "circulating_supply": 420690000000.0,
+    "total_supply": 420690000000.0,
+    "max_supply": 420690000000.0
+  },
+  {
+    "id": "peanut-the-squirrel",
+    "circulating_supply": 999858912.07,
+    "total_supply": 999858912.07,
+    "max_supply": 999858912.07
+  },
+  {
+    "id": "resolv-usr",
+    "circulating_supply": 212427873.7878478,
+    "total_supply": 212427873.7878478,
+    "max_supply": null
+  },
+  {
+    "id": "kusama",
+    "circulating_supply": 16734807.67162922,
+    "total_supply": 16734807.67162922,
+    "max_supply": null
+  },
+  {
+    "id": "qtum",
+    "circulating_supply": 105715607.0,
+    "total_supply": 107822406.0,
+    "max_supply": null
+  },
+  {
+    "id": "blockchain-capital",
+    "circulating_supply": 9109440.0,
+    "total_supply": 9109440.0,
+    "max_supply": null
+  },
+  {
+    "id": "mina-protocol",
+    "circulating_supply": 1240711994.840039,
+    "total_supply": 1240711994.840039,
+    "max_supply": null
+  },
+  {
+    "id": "euro-coin",
+    "circulating_supply": 176896355.3050956,
+    "total_supply": 176896355.3050956,
+    "max_supply": null
+  },
+  {
+    "id": "zilliqa",
+    "circulating_supply": 19509746932.98,
+    "total_supply": 21000000000.0,
+    "max_supply": 21000000000.0
+  },
+  {
+    "id": "mantra-dao",
+    "circulating_supply": 977621849.7542694,
+    "total_supply": 1678430502.728529,
+    "max_supply": null
+  },
+  {
+    "id": "berachain-bera",
+    "circulating_supply": 120421804.2702697,
+    "total_supply": 502941953.0920574,
+    "max_supply": null
+  },
+  {
+    "id": "iotex",
+    "circulating_supply": 9441368979.0,
+    "total_supply": 9441368983.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "layerzero",
+    "circulating_supply": 111152854.20763355,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "arkham",
+    "circulating_supply": 441999596.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "ravencoin",
+    "circulating_supply": 15335659025.4946,
+    "total_supply": 15337793925.4946,
+    "max_supply": 21000000000.0
+  },
+  {
+    "id": "baby-doge-coin",
+    "circulating_supply": 1.6858880142900797e+17,
+    "total_supply": 4.2e+17,
+    "max_supply": 4.2e+17
+  },
+  {
+    "id": "gas",
+    "circulating_supply": 65093580.54427269,
+    "total_supply": 65093580.54427269,
+    "max_supply": null
+  },
+  {
+    "id": "wrapped-beacon-eth",
+    "circulating_supply": 70938.0,
+    "total_supply": 70938.0,
+    "max_supply": null
+  },
+  {
+    "id": "wrapped-ether-mantle-bridge",
+    "circulating_supply": 76098.324702711,
+    "total_supply": 76098.324702711,
+    "max_supply": null
+  },
+  {
+    "id": "legacy-token",
+    "circulating_supply": 106079066.79177713,
+    "total_supply": 300000000.0,
+    "max_supply": 720000000.0
+  },
+  {
+    "id": "havven",
+    "circulating_supply": 343466216.99839866,
+    "total_supply": 343889850.0967736,
+    "max_supply": 343889850.0967736
+  },
+  {
+    "id": "tradable-na-rent-financing-platform-sstn",
+    "circulating_supply": 189500000.0,
+    "total_supply": 189500000.0,
+    "max_supply": 400000000.0
+  },
+  {
+    "id": "basic-attention-token",
+    "circulating_supply": 1495668356.9526057,
+    "total_supply": 1500000000.0,
+    "max_supply": 1500000000.0
+  },
+  {
+    "id": "usda-2",
+    "circulating_supply": 189398085.1960433,
+    "total_supply": 189398085.1960433,
+    "max_supply": null
+  },
+  {
+    "id": "swissborg",
+    "circulating_supply": 982602443.442,
+    "total_supply": 982602443.442,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "0x",
+    "circulating_supply": 848396562.906836,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "notcoin",
+    "circulating_supply": 102456956859.5639,
+    "total_supply": 102456956859.5639,
+    "max_supply": null
+  },
+  {
+    "id": "wemix-token",
+    "circulating_supply": 452706832.1429949,
+    "total_supply": 542902500.3652309,
+    "max_supply": 590000000.0
+  },
+  {
+    "id": "convex-finance",
+    "circulating_supply": 81990703.72425415,
+    "total_supply": 99906738.99512029,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "frax-share",
+    "circulating_supply": 91051084.31274228,
+    "total_supply": 99681495.5911336,
+    "max_supply": 99681495.5911336
+  },
+  {
+    "id": "astar",
+    "circulating_supply": 8131162812.0,
+    "total_supply": 8471310942.0,
+    "max_supply": null
+  },
+  {
+    "id": "moo-deng",
+    "circulating_supply": 989971791.17,
+    "total_supply": 989971791.17,
+    "max_supply": 989971791.17
+  },
+  {
+    "id": "neiro-3",
+    "circulating_supply": 420690000000.0,
+    "total_supply": 420690000000.0,
+    "max_supply": 420690000000.0
+  },
+  {
+    "id": "verus-coin",
+    "circulating_supply": 79006531.52820873,
+    "total_supply": 79006579.84097205,
+    "max_supply": 83540184.0
+  },
+  {
+    "id": "oasis-network",
+    "circulating_supply": 7390351859.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "yearn-finance",
+    "circulating_supply": 33809.33335090875,
+    "total_supply": 36666.0,
+    "max_supply": 36666.0
+  },
+  {
+    "id": "vethor-token",
+    "circulating_supply": 91464255022.0,
+    "total_supply": 91464715326.0,
+    "max_supply": null
+  },
+  {
+    "id": "tribe-2",
+    "circulating_supply": 455015530.80485964,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "gmt-token",
+    "circulating_supply": 407514271.6059622,
+    "total_supply": 407514271.6059622,
+    "max_supply": 436915240.0
+  },
+  {
+    "id": "astherus-staked-bnb",
+    "circulating_supply": 245813.9438618341,
+    "total_supply": 245817.5759566861,
+    "max_supply": null
+  },
+  {
+    "id": "blur",
+    "circulating_supply": 2412282373.858447,
+    "total_supply": 3000000000.0,
+    "max_supply": 3000000000.0
+  },
+  {
+    "id": "binance-peg-sol",
+    "circulating_supply": 1100000.099999,
+    "total_supply": 1100000.099999,
+    "max_supply": null
+  },
+  {
+    "id": "siacoin",
+    "circulating_supply": 56025636522.07519,
+    "total_supply": 60913035676.30304,
+    "max_supply": null
+  },
+  {
+    "id": "ai16z",
+    "circulating_supply": 1099998447.190698,
+    "total_supply": 1099998447.190698,
+    "max_supply": 1099999958.01
+  },
+  {
+    "id": "elixir-deusd",
+    "circulating_supply": 164887983.7804457,
+    "total_supply": 164887983.7804457,
+    "max_supply": null
+  },
+  {
+    "id": "mimbogamegroup",
+    "circulating_supply": 114600000000.0,
+    "total_supply": 114600000000.0,
+    "max_supply": 114600000000.0
+  },
+  {
+    "id": "mori-coin",
+    "circulating_supply": 899998030.6220214,
+    "total_supply": 999998231.4858686,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "nervos-network",
+    "circulating_supply": 46835283506.13216,
+    "total_supply": 47606315391.19461,
+    "max_supply": null
+  },
+  {
+    "id": "bnb48-club-token",
+    "circulating_supply": 3388228.43399526,
+    "total_supply": 3388228.43399526,
+    "max_supply": 3441121.42456221
+  },
+  {
+    "id": "zetachain",
+    "circulating_supply": 926187500.0,
+    "total_supply": 2100000000.0,
+    "max_supply": 2100000000.0
+  },
+  {
+    "id": "wrapped-fragsol",
+    "circulating_supply": 1010331.294801812,
+    "total_supply": 1010331.294801812,
+    "max_supply": null
+  },
+  {
+    "id": "origintrail",
+    "circulating_supply": 499546955.602,
+    "total_supply": 500000000.0,
+    "max_supply": 500000000.0
+  },
+  {
+    "id": "aave-usdc-sonic",
+    "circulating_supply": 160566022.821368,
+    "total_supply": 160566022.821368,
+    "max_supply": null
+  },
+  {
+    "id": "qubic-network",
+    "circulating_supply": 120181720278271.0,
+    "total_supply": 150088440166848.0,
+    "max_supply": 200000000000000.0
+  },
+  {
+    "id": "celo",
+    "circulating_supply": 576029507.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "steakhouse-usdc-morpho-vault",
+    "circulating_supply": 145743330.7757921,
+    "total_supply": 145743330.7757921,
+    "max_supply": null
+  },
+  {
+    "id": "threshold-network-token",
+    "circulating_supply": 10130273407.87344,
+    "total_supply": 11155000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "ordinals",
+    "circulating_supply": 21000000.0,
+    "total_supply": 21000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "polymesh",
+    "circulating_supply": 1177979602.70875,
+    "total_supply": 1177979602.70875,
+    "max_supply": null
+  },
+  {
+    "id": "banana-for-scale-2",
+    "circulating_supply": 10000000000.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "sahara-ai",
+    "circulating_supply": 2040000000.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "instadapp",
+    "circulating_supply": 39436803.20056228,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "kinesis-gold",
+    "circulating_supply": 1434980.5846,
+    "total_supply": 1434980.5846,
+    "max_supply": null
+  },
+  {
+    "id": "aelf",
+    "circulating_supply": 765396740.3663101,
+    "total_supply": 996446574.5821201,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "gigachad-2",
+    "circulating_supply": 9604136902.35,
+    "total_supply": 9604136902.35,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "agentfun-ai",
+    "circulating_supply": 100000000.0,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "uxlink",
+    "circulating_supply": 408956731.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "holotoken",
+    "circulating_supply": 177619433541.1413,
+    "total_supply": 177619433541.1413,
+    "max_supply": null
+  },
+  {
+    "id": "rekt-4",
+    "circulating_supply": 420690000000000.0,
+    "total_supply": 420690000000000.0,
+    "max_supply": 420690000000000.0
+  },
+  {
+    "id": "stargate-finance",
+    "circulating_supply": 971464728.370142,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "stasis-eurs",
+    "circulating_supply": 124125940.0,
+    "total_supply": 124125940.0,
+    "max_supply": 124125940.0
+  },
+  {
+    "id": "nxm",
+    "circulating_supply": 2451776.637863787,
+    "total_supply": 2451776.637863787,
+    "max_supply": 2451776.637863787
+  },
+  {
+    "id": "zano",
+    "circulating_supply": 14840068.99,
+    "total_supply": 14842895.98,
+    "max_supply": null
+  },
+  {
+    "id": "cronos-bridged-usdc-cronos",
+    "circulating_supply": 144445548.315541,
+    "total_supply": 144445548.315541,
+    "max_supply": null
+  },
+  {
+    "id": "prometeus",
+    "circulating_supply": 18250000.0,
+    "total_supply": 19250000.0,
+    "max_supply": 19250000.0
+  },
+  {
+    "id": "cow-protocol",
+    "circulating_supply": 488482797.1245109,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "gmx",
+    "circulating_supply": 10200614.12311152,
+    "total_supply": 10200614.1440189,
+    "max_supply": 13250000.0
+  },
+  {
+    "id": "ankr",
+    "circulating_supply": 10000000000.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "ethereum-pow-iou",
+    "circulating_supply": 107818717.04993,
+    "total_supply": 107818717.04993,
+    "max_supply": null
+  },
+  {
+    "id": "kinesis-silver",
+    "circulating_supply": 3820061.6828,
+    "total_supply": 3820061.6828,
+    "max_supply": null
+  },
+  {
+    "id": "freysa-ai",
+    "circulating_supply": 8189700000.0,
+    "total_supply": 8189700000.0,
+    "max_supply": 8189700000.0
+  },
+  {
+    "id": "infrared-bera",
+    "circulating_supply": 85330019.5180481,
+    "total_supply": 85330019.5180481,
+    "max_supply": null
+  },
+  {
+    "id": "casper-network",
+    "circulating_supply": 13220921905.0,
+    "total_supply": 13687975779.0,
+    "max_supply": null
+  },
+  {
+    "id": "humanity",
+    "circulating_supply": 1825000000.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "origin-ether",
+    "circulating_supply": 54812.66627940178,
+    "total_supply": 54812.66627940178,
+    "max_supply": 54812.66627940178
+  },
+  {
+    "id": "solo-coin",
+    "circulating_supply": 399198717.0,
+    "total_supply": 399198717.0,
+    "max_supply": 400000000.0
+  },
+  {
+    "id": "snek",
+    "circulating_supply": 74567997943.0,
+    "total_supply": 75319904570.0,
+    "max_supply": 76715880000.0
+  },
+  {
+    "id": "chia",
+    "circulating_supply": 14624580.79909135,
+    "total_supply": 32999582.31700182,
+    "max_supply": null
+  },
+  {
+    "id": "harmony",
+    "circulating_supply": 14648548592.76291,
+    "total_supply": 14648602342.26291,
+    "max_supply": null
+  },
+  {
+    "id": "mag7-ssi",
+    "circulating_supply": 177408346.5348958,
+    "total_supply": 177408346.5348958,
+    "max_supply": null
+  },
+  {
+    "id": "funfair",
+    "circulating_supply": 10598879189.265394,
+    "total_supply": 10999873621.0,
+    "max_supply": null
+  },
+  {
+    "id": "drift-protocol",
+    "circulating_supply": 340000987.623462,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "digibyte",
+    "circulating_supply": 17776924476.17715,
+    "total_supply": 17783935722.59039,
+    "max_supply": 21000000000.0
+  },
+  {
+    "id": "coinex-token",
+    "circulating_supply": 2662193614.4,
+    "total_supply": 2662194074.4,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "tdccp",
+    "circulating_supply": 639999980.9,
+    "total_supply": 639999980.9,
+    "max_supply": 639999980.9
+  },
+  {
+    "id": "bitkub-coin",
+    "circulating_supply": 88850000.0,
+    "total_supply": 110000000.0,
+    "max_supply": 110000000.0
+  },
+  {
+    "id": "vana",
+    "circulating_supply": 30800000.0,
+    "total_supply": 120000000.0,
+    "max_supply": 120000000.0
+  },
+  {
+    "id": "ai-companions",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "ignition-fbtc",
+    "circulating_supply": 1203.3895297,
+    "total_supply": 13898.43699022,
+    "max_supply": null
+  },
+  {
+    "id": "resolv-rlp",
+    "circulating_supply": 108322645.2288288,
+    "total_supply": 108322645.2288288,
+    "max_supply": null
+  },
+  {
+    "id": "agora-dollar",
+    "circulating_supply": 129922567.454603,
+    "total_supply": 129922567.454603,
+    "max_supply": null
+  },
+  {
+    "id": "icon",
+    "circulating_supply": 1069437847.973007,
+    "total_supply": 1083380777.673282,
+    "max_supply": null
+  },
+  {
+    "id": "solayer",
+    "circulating_supply": 210000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "conscious-token",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "compound-ether",
+    "circulating_supply": 2520053.12617633,
+    "total_supply": 2520053.12617633,
+    "max_supply": null
+  },
+  {
+    "id": "woo-network",
+    "circulating_supply": 1909243570.037396,
+    "total_supply": 2209243570.037396,
+    "max_supply": 2209243570.037396
+  },
+  {
+    "id": "noble-dollar-usdn",
+    "circulating_supply": 127981861.0,
+    "total_supply": 127981861.0,
+    "max_supply": null
+  },
+  {
+    "id": "gohome",
+    "circulating_supply": 524619.433192,
+    "total_supply": 9999619.433192,
+    "max_supply": 9999619.45
+  },
+  {
+    "id": "coinshift-usdl-morpho-vault",
+    "circulating_supply": 123410619.6621824,
+    "total_supply": 123410619.6621824,
+    "max_supply": null
+  },
+  {
+    "id": "aura-on-sol",
+    "circulating_supply": 963286619.273063,
+    "total_supply": 963286619.273063,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "kamino",
+    "circulating_supply": 2262328813.0,
+    "total_supply": 9999964218.057196,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "xyo-network",
+    "circulating_supply": 13931216938.01129,
+    "total_supply": 13931216938.01129,
+    "max_supply": 13931216938.01129
+  },
+  {
+    "id": "melania-meme",
+    "circulating_supply": 644997968.527054,
+    "total_supply": 999997968.527507,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "aixbt",
+    "circulating_supply": 952707462.7971805,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "stepn",
+    "circulating_supply": 2934480908.681438,
+    "total_supply": 5097480908.681438,
+    "max_supply": 6000000000.0
+  },
+  {
+    "id": "kadena",
+    "circulating_supply": 323614333.7165,
+    "total_supply": 323617420.29265,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "zignaly",
+    "circulating_supply": 1408940795.2396517,
+    "total_supply": 1953940795.2396517,
+    "max_supply": 1953940795.2396517
+  },
+  {
+    "id": "enjincoin",
+    "circulating_supply": 1858722723.274324,
+    "total_supply": 1908012978.451728,
+    "max_supply": null
+  },
+  {
+    "id": "mask-network",
+    "circulating_supply": 100000000.0,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "anzen-usdz",
+    "circulating_supply": 122943276.2416693,
+    "total_supply": 122943276.2416693,
+    "max_supply": null
+  },
+  {
+    "id": "non-playable-coin",
+    "circulating_supply": 8050126520.0,
+    "total_supply": 8050126520.0,
+    "max_supply": 8050126520.0
+  },
+  {
+    "id": "echelon-prime",
+    "circulating_supply": 51816215.3272,
+    "total_supply": 111111111.0,
+    "max_supply": 111111111.0
+  },
+  {
+    "id": "chex-token",
+    "circulating_supply": 998917864.4976206,
+    "total_supply": 998921967.0430785,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "resolv-wstusr",
+    "circulating_supply": 109178453.6698809,
+    "total_supply": 109178453.6698809,
+    "max_supply": null
+  },
+  {
+    "id": "zencash",
+    "circulating_supply": 16118631.25,
+    "total_supply": 16119934.375,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "orca",
+    "circulating_supply": 59957263.811367,
+    "total_supply": 74999686.779506,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "liquity",
+    "circulating_supply": 97579801.42862058,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "subsquid",
+    "circulating_supply": 735085739.6396909,
+    "total_supply": 1337000000.0,
+    "max_supply": 1337000000.0
+  },
+  {
+    "id": "sushi",
+    "circulating_supply": 192789255.8554817,
+    "total_supply": 284313582.0316028,
+    "max_supply": null
+  },
+  {
+    "id": "ben-pasternak",
+    "circulating_supply": 999872813.5744121,
+    "total_supply": 999872813.5744121,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "spiko-us-t-bills-money-market-fund",
+    "circulating_supply": 109683723.37934,
+    "total_supply": 109315113.30772,
+    "max_supply": null
+  },
+  {
+    "id": "purr-2",
+    "circulating_supply": 596609022.65907,
+    "total_supply": 596609036.85954,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "crvusd",
+    "circulating_supply": 114470800.2233345,
+    "total_supply": 114470800.2233345,
+    "max_supply": null
+  },
+  {
+    "id": "io",
+    "circulating_supply": 168769140.0931821,
+    "total_supply": 799999759.024362,
+    "max_supply": 800000000.0
+  },
+  {
+    "id": "osmosis",
+    "circulating_supply": 735620160.0,
+    "total_supply": 996748160.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "solayer-staked-sol",
+    "circulating_supply": 681821.135648476,
+    "total_supply": 681821.135648476,
+    "max_supply": null
+  },
+  {
+    "id": "nano",
+    "circulating_supply": 133248290.0,
+    "total_supply": 133248290.0,
+    "max_supply": 133248290.0
+  },
+  {
+    "id": "babylon",
+    "circulating_supply": 2294036491.0,
+    "total_supply": 10015636491.0,
+    "max_supply": null
+  },
+  {
+    "id": "alchemist-ai",
+    "circulating_supply": 850000000.0,
+    "total_supply": 999955249.833301,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "swipe",
+    "circulating_supply": 647202407.0090421,
+    "total_supply": 648652812.0809001,
+    "max_supply": null
+  },
+  {
+    "id": "ontology",
+    "circulating_supply": 914697857.0,
+    "total_supply": 1000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "bora",
+    "circulating_supply": 1152750000.0,
+    "total_supply": 1205750000.0,
+    "max_supply": 1205750000.0
+  },
+  {
+    "id": "amnis-aptos",
+    "circulating_supply": 25203628.7157081,
+    "total_supply": 25208967.9349,
+    "max_supply": null
+  },
+  {
+    "id": "lorenzo-stbtc",
+    "circulating_supply": 1026.208256612314,
+    "total_supply": 1026.208256612314,
+    "max_supply": null
+  },
+  {
+    "id": "vicicoin",
+    "circulating_supply": 5696260.0782642,
+    "total_supply": 10000000.0,
+    "max_supply": 10000000.0
+  },
+  {
+    "id": "world-mobile-token",
+    "circulating_supply": 746598900.898187,
+    "total_supply": 2000000000.0,
+    "max_supply": 2000000000.0
+  },
+  {
+    "id": "level-usd",
+    "circulating_supply": 110325861.5791316,
+    "total_supply": 110325861.5791316,
+    "max_supply": null
+  },
+  {
+    "id": "magic-eden",
+    "circulating_supply": 150105622.689437,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "wrapped-zenbtc",
+    "circulating_supply": 1000.0,
+    "total_supply": 1000.0,
+    "max_supply": null
+  },
+  {
+    "id": "coti",
+    "circulating_supply": 2214113158.339777,
+    "total_supply": 2214118404.985737,
+    "max_supply": 4910000000.0
+  },
+  {
+    "id": "centrifuge",
+    "circulating_supply": 560747740.0,
+    "total_supply": 567117099.0,
+    "max_supply": null
+  },
+  {
+    "id": "apollo-diversified-credit-securitize-fund",
+    "circulating_supply": 104920.259159,
+    "total_supply": 104920.259159,
+    "max_supply": null
+  },
+  {
+    "id": "stp-network",
+    "circulating_supply": 1942420283.0270672,
+    "total_supply": 1942420283.0270672,
+    "max_supply": 2000000000.0
+  },
+  {
+    "id": "book-of-meme",
+    "circulating_supply": 68999659569.0,
+    "total_supply": 68999659569.0,
+    "max_supply": 68999659569.0
+  },
+  {
+    "id": "sbtc-2",
+    "circulating_supply": 1000.0,
+    "total_supply": 1000.0,
+    "max_supply": null
+  },
+  {
+    "id": "ozone-chain",
+    "circulating_supply": 832572188.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "undeads-games",
+    "circulating_supply": 101079290.125,
+    "total_supply": 250000000.0,
+    "max_supply": 250000000.0
+  },
+  {
+    "id": "pay-coin",
+    "circulating_supply": 1022576439.87845,
+    "total_supply": 1900000000.0,
+    "max_supply": 1900000000.0
+  },
+  {
+    "id": "status",
+    "circulating_supply": 3960483788.3096976,
+    "total_supply": 6804870174.0,
+    "max_supply": null
+  },
+  {
+    "id": "lcx",
+    "circulating_supply": 940989527.0,
+    "total_supply": 950000000.0,
+    "max_supply": 950000000.0
+  },
+  {
+    "id": "acet-token",
+    "circulating_supply": 1709870215.734518,
+    "total_supply": 2230764830.365691,
+    "max_supply": null
+  },
+  {
+    "id": "request-network",
+    "circulating_supply": 744291192.2591633,
+    "total_supply": 999420218.1759434,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "spacen",
+    "circulating_supply": 40010000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "rocket-pool",
+    "circulating_supply": 21545353.3409132,
+    "total_supply": 21545353.3409132,
+    "max_supply": null
+  },
+  {
+    "id": "entangle",
+    "circulating_supply": 611374803927.5022,
+    "total_supply": 843000000000.0,
+    "max_supply": 843000000000.0
+  },
+  {
+    "id": "terra-luna-2",
+    "circulating_supply": 687660230.0,
+    "total_supply": 1078518456.25778,
+    "max_supply": null
+  },
+  {
+    "id": "reallink",
+    "circulating_supply": 2810743975.0,
+    "total_supply": 2810743975.0,
+    "max_supply": null
+  },
+  {
+    "id": "incrypt",
+    "circulating_supply": 6459600000.0,
+    "total_supply": 20999999758.3073,
+    "max_supply": 21000000000.0
+  },
+  {
+    "id": "hive",
+    "circulating_supply": 481135422.767,
+    "total_supply": null,
+    "max_supply": null
+  },
+  {
+    "id": "swftcoin",
+    "circulating_supply": 10000000000.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "solv-protocol-solvbtc-jupiter",
+    "circulating_supply": 888.5865841562562,
+    "total_supply": 888.5865841562562,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "tradable-singapore-fintech-ssl-2",
+    "circulating_supply": 100846154.0,
+    "total_supply": 100846154.0,
+    "max_supply": 114500000.0
+  },
+  {
+    "id": "onyc",
+    "circulating_supply": 100000000.0,
+    "total_supply": 100000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "qusdt",
+    "circulating_supply": 100000000.0,
+    "total_supply": 100000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "moonwell-artemis",
+    "circulating_supply": 3502171562.0,
+    "total_supply": 5000000000.0,
+    "max_supply": 5000000000.0
+  },
+  {
+    "id": "altlayer",
+    "circulating_supply": 3755208331.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "blast",
+    "circulating_supply": 41377771472.76129,
+    "total_supply": 100000000000.0,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "onfa",
+    "circulating_supply": 114517770.2609897,
+    "total_supply": 282774190.2609897,
+    "max_supply": 300000000.0
+  },
+  {
+    "id": "venus",
+    "circulating_supply": 16661030.01962199,
+    "total_supply": 29745109.398045786,
+    "max_supply": 30000000.0
+  },
+  {
+    "id": "bitmart-token",
+    "circulating_supply": 339412030.0,
+    "total_supply": 639412030.0,
+    "max_supply": 881679315.0
+  },
+  {
+    "id": "tellor",
+    "circulating_supply": 2687832.8606209722,
+    "total_supply": 2766863.353107786,
+    "max_supply": null
+  },
+  {
+    "id": "optimism-bridged-wbtc-optimism",
+    "circulating_supply": 900.36185131,
+    "total_supply": 900.36185131,
+    "max_supply": null
+  },
+  {
+    "id": "goatseus-maximus",
+    "circulating_supply": 999992699.022431,
+    "total_supply": 999992699.022431,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "big-time",
+    "circulating_supply": 1908245059.7925065,
+    "total_supply": 5000000000.0,
+    "max_supply": 5000000000.0
+  },
+  {
+    "id": "six",
+    "circulating_supply": 1499999996.93072,
+    "total_supply": 1499999996.930719,
+    "max_supply": 1500000000.0
+  },
+  {
+    "id": "constellation-labs",
+    "circulating_supply": 2853190903.28963,
+    "total_supply": 3550000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "illuvium",
+    "circulating_supply": 9475046.68789818,
+    "total_supply": 9598051.939837366,
+    "max_supply": null
+  },
+  {
+    "id": "waves",
+    "circulating_supply": 100000000.0,
+    "total_supply": 100000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "lagrange",
+    "circulating_supply": 193000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "lift-dollar",
+    "circulating_supply": 96114916.78926171,
+    "total_supply": 96114916.78926171,
+    "max_supply": null
+  },
+  {
+    "id": "skale",
+    "circulating_supply": 5775852671.0,
+    "total_supply": 6076000000.0,
+    "max_supply": 7000000000.0
+  },
+  {
+    "id": "velo",
+    "circulating_supply": 7390475595.0,
+    "total_supply": 23999856633.25275,
+    "max_supply": null
+  },
+  {
+    "id": "l2-standard-bridged-frxusd",
+    "circulating_supply": 94764513.10769281,
+    "total_supply": 94764513.10769281,
+    "max_supply": null
+  },
+  {
+    "id": "aleo",
+    "circulating_supply": 428618662.669565,
+    "total_supply": 1771411346.246134,
+    "max_supply": null
+  },
+  {
+    "id": "sui-bridged-usdt-sui",
+    "circulating_supply": 94757000.48561,
+    "total_supply": 94757000.48561,
+    "max_supply": null
+  },
+  {
+    "id": "metis-token",
+    "circulating_supply": 6434534.342,
+    "total_supply": 10000000.0,
+    "max_supply": 10000000.0
+  },
+  {
+    "id": "uma",
+    "circulating_supply": 88214114.28073624,
+    "total_supply": 125371103.9574201,
+    "max_supply": null
+  },
+  {
+    "id": "alchemy-pay",
+    "circulating_supply": 4943691067.145604,
+    "total_supply": 9999999999.999987,
+    "max_supply": 9999999999.999987
+  },
+  {
+    "id": "unit-00-rei",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "nkyc-token",
+    "circulating_supply": 4000000.0,
+    "total_supply": 4000000.0,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "elixir-staked-deusd",
+    "circulating_supply": 88412870.69046691,
+    "total_supply": 88439179.98805411,
+    "max_supply": null
+  },
+  {
+    "id": "swop-2",
+    "circulating_supply": 9999999400.66588,
+    "total_supply": 9999999400.66588,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "bio-protocol",
+    "circulating_supply": 1804862909.98136,
+    "total_supply": 3320000000.0,
+    "max_supply": 3320000000.0
+  },
+  {
+    "id": "dola-usd",
+    "circulating_supply": 91964180.59447774,
+    "total_supply": 198739604.0894882,
+    "max_supply": null
+  },
+  {
+    "id": "stratis",
+    "circulating_supply": 1982301697.706435,
+    "total_supply": 2057301697.706435,
+    "max_supply": null
+  },
+  {
+    "id": "vvs-finance",
+    "circulating_supply": 48632076569985.11,
+    "total_supply": 94451044598325.48,
+    "max_supply": 100000000000000.0
+  },
+  {
+    "id": "bugscoin",
+    "circulating_supply": 11563499503.0,
+    "total_supply": 29441427996.89087,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "verasity",
+    "circulating_supply": 82914533945.1697,
+    "total_supply": 96681499326.1697,
+    "max_supply": null
+  },
+  {
+    "id": "rollbit-coin",
+    "circulating_supply": 2031796601.403145,
+    "total_supply": 2031796601.403145,
+    "max_supply": 5000000000.0
+  },
+  {
+    "id": "clearpool",
+    "circulating_supply": 784836183.2031598,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "constitutiondao",
+    "circulating_supply": 5066425112.014003,
+    "total_supply": 5066425112.014003,
+    "max_supply": 5066425112.014003
+  },
+  {
+    "id": "anime",
+    "circulating_supply": 5538604656.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "loopring",
+    "circulating_supply": 1245991468.94246,
+    "total_supply": 1373873397.442457,
+    "max_supply": 1374513896.0
+  },
+  {
+    "id": "paal-ai",
+    "circulating_supply": 897491580.7199504,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "band-protocol",
+    "circulating_supply": 155942920.54912,
+    "total_supply": 163248612.656417,
+    "max_supply": null
+  },
+  {
+    "id": "project-galaxy",
+    "circulating_supply": 127749331.18734433,
+    "total_supply": 200000000.0,
+    "max_supply": 200000000.0
+  },
+  {
+    "id": "nexusmind",
+    "circulating_supply": 10247500.0,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "restaked-swell-eth",
+    "circulating_supply": 35214.89386722866,
+    "total_supply": 35214.89386722866,
+    "max_supply": null
+  },
+  {
+    "id": "cookie",
+    "circulating_supply": 547656078.6307731,
+    "total_supply": 999930212.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "delysium",
+    "circulating_supply": 1786143522.843942,
+    "total_supply": 3000000000.0,
+    "max_supply": 3000000000.0
+  },
+  {
+    "id": "biconomy",
+    "circulating_supply": 964120557.2949423,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "cronos-bridged-usdt-cronos",
+    "circulating_supply": 87824964.111949,
+    "total_supply": 87824964.111949,
+    "max_supply": null
+  },
+  {
+    "id": "iostoken",
+    "circulating_supply": 26210702937.0,
+    "total_supply": 26210702937.0,
+    "max_supply": 90000000000.0
+  },
+  {
+    "id": "orbs",
+    "circulating_supply": 4675008454.1173,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "singularitynet",
+    "circulating_supply": 298688310.6887556,
+    "total_supply": 437323757.4758107,
+    "max_supply": 2000000000.0
+  },
+  {
+    "id": "usd-coin-ethereum-bridged",
+    "circulating_supply": 86483101.988878,
+    "total_supply": 86483101.988878,
+    "max_supply": null
+  },
+  {
+    "id": "the-grays-currency",
+    "circulating_supply": 291627977150.1501,
+    "total_supply": 291627977150.1501,
+    "max_supply": 333333333333.0
+  },
+  {
+    "id": "diamond-launch",
+    "circulating_supply": 890000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "proton",
+    "circulating_supply": 27701858342.0187,
+    "total_supply": 30600410697.1188,
+    "max_supply": null
+  },
+  {
+    "id": "venice-token",
+    "circulating_supply": 31694010.34960125,
+    "total_supply": 72786220.6255004,
+    "max_supply": null
+  },
+  {
+    "id": "metaplex",
+    "circulating_supply": 829478024.348706,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "tokenlon",
+    "circulating_supply": 122505626.958685,
+    "total_supply": 140451028.838767,
+    "max_supply": 200000000.0
+  },
+  {
+    "id": "verge",
+    "circulating_supply": 16521951235.74134,
+    "total_supply": 16555000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "beets-staked-sonic",
+    "circulating_supply": 268462747.4651761,
+    "total_supply": 268462747.4651761,
+    "max_supply": null
+  },
+  {
+    "id": "oec-token",
+    "circulating_supply": 17847259.5,
+    "total_supply": 17847259.5,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "g-token",
+    "circulating_supply": 7232700000.0,
+    "total_supply": 12000000000.0,
+    "max_supply": 12000000000.0
+  },
+  {
+    "id": "yu",
+    "circulating_supply": 83606285.28763038,
+    "total_supply": 83606285.28763038,
+    "max_supply": null
+  },
+  {
+    "id": "mythos",
+    "circulating_supply": 796416525.92,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "metal-blockchain",
+    "circulating_supply": 507639839.0528355,
+    "total_supply": 666666666.0,
+    "max_supply": 666666666.0
+  },
+  {
+    "id": "coreum",
+    "circulating_supply": 649694844.343832,
+    "total_supply": 649694844.343832,
+    "max_supply": null
+  },
+  {
+    "id": "infinitar-governance-token",
+    "circulating_supply": 388936189.3,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "mass-vehicle-ledger",
+    "circulating_supply": 26902958863.10265,
+    "total_supply": 27802958863.0,
+    "max_supply": 30000000000.0
+  },
+  {
+    "id": "avant-usd",
+    "circulating_supply": 81917803.65914278,
+    "total_supply": 81917803.65914278,
+    "max_supply": null
+  },
+  {
+    "id": "babyboomtoken",
+    "circulating_supply": 114801684.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "relend-usdc",
+    "circulating_supply": 76508887.79365255,
+    "total_supply": 76508887.79365255,
+    "max_supply": null
+  },
+  {
+    "id": "l2-standard-bridged-weth-optimism",
+    "circulating_supply": 32253.06466308769,
+    "total_supply": 32369.58562312246,
+    "max_supply": null
+  },
+  {
+    "id": "power-ledger",
+    "circulating_supply": 529761884.726046,
+    "total_supply": 999506122.99937,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "neiro-on-eth",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "quantixai",
+    "circulating_supply": 804122.8067160958,
+    "total_supply": 10000000.0,
+    "max_supply": 10000000.0
+  },
+  {
+    "id": "temple",
+    "circulating_supply": 23722422.590706147,
+    "total_supply": 23769704.54225455,
+    "max_supply": 23769704.54225455
+  },
+  {
+    "id": "0x0-ai-ai-smart-contract",
+    "circulating_supply": 891250000.0,
+    "total_supply": 891250000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "everipedia",
+    "circulating_supply": 22346226264.929,
+    "total_supply": 22346226264.929,
+    "max_supply": 60000000000.0
+  },
+  {
+    "id": "tokenize-xchange",
+    "circulating_supply": 79995997.76037452,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "songbird",
+    "circulating_supply": 15807329465.36938,
+    "total_supply": 18743187203.16204,
+    "max_supply": null
+  },
+  {
+    "id": "sats-ordinals",
+    "circulating_supply": 2100000000000000.0,
+    "total_supply": 2100000000000000.0,
+    "max_supply": 2100000000000000.0
+  },
+  {
+    "id": "ribbita-by-virtuals",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "pocket-network",
+    "circulating_supply": 2011680128.050819,
+    "total_supply": 2351355446.249961,
+    "max_supply": null
+  },
+  {
+    "id": "sign-global",
+    "circulating_supply": 1200000000.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "straitsx-xusd",
+    "circulating_supply": 78690400.611,
+    "total_supply": 78690400.611,
+    "max_supply": null
+  },
+  {
+    "id": "zelcash",
+    "circulating_supply": 387344234.4991484,
+    "total_supply": 387344984.4991484,
+    "max_supply": 440000000.0
+  },
+  {
+    "id": "dkargo",
+    "circulating_supply": 5000000000.0,
+    "total_supply": 5000000000.0,
+    "max_supply": 5000000000.0
+  },
+  {
+    "id": "degen-base",
+    "circulating_supply": 22799008242.13076,
+    "total_supply": 36965935954.0,
+    "max_supply": 36965935954.0
+  },
+  {
+    "id": "redstone-oracles",
+    "circulating_supply": 280000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "hashkey-ecopoints",
+    "circulating_supply": 132500000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "ardor",
+    "circulating_supply": 998466231.0,
+    "total_supply": 998466231.0,
+    "max_supply": null
+  },
+  {
+    "id": "yield-guild-games",
+    "circulating_supply": 527453796.411356,
+    "total_supply": 999720114.322777,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "hivemapper",
+    "circulating_supply": 4477871610.246777,
+    "total_supply": 6467957131.901515,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "merlin-chain",
+    "circulating_supply": 725000000.0,
+    "total_supply": 2100000000.0,
+    "max_supply": 2100000000.0
+  },
+  {
+    "id": "pha",
+    "circulating_supply": 801910589.5724742,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "bridged-wrapped-ether-starkgate",
+    "circulating_supply": 30594.336181424,
+    "total_supply": 30594.336181424,
+    "max_supply": null
+  },
+  {
+    "id": "usdx",
+    "circulating_supply": 111568045.0,
+    "total_supply": 111568045.0,
+    "max_supply": null
+  },
+  {
+    "id": "felix-feusd",
+    "circulating_supply": 76992713.24155502,
+    "total_supply": 76942451.11188972,
+    "max_supply": null
+  },
+  {
+    "id": "radix",
+    "circulating_supply": 11784521492.64507,
+    "total_supply": 13184523870.71509,
+    "max_supply": 24000000000.0
+  },
+  {
+    "id": "f-x-protocol-fxusd",
+    "circulating_supply": 77149389.14906895,
+    "total_supply": 77149389.14906895,
+    "max_supply": null
+  },
+  {
+    "id": "chaingpt",
+    "circulating_supply": 839176731.0,
+    "total_supply": 997835166.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "renzo-restaked-lst",
+    "circulating_supply": 25153.88123962677,
+    "total_supply": 25153.88123962677,
+    "max_supply": null
+  },
+  {
+    "id": "pundi-x-2",
+    "circulating_supply": 258386541.0999244,
+    "total_supply": 258386541.0999244,
+    "max_supply": 258386541.0999244
+  },
+  {
+    "id": "memecoin-2",
+    "circulating_supply": 50211518248.68436,
+    "total_supply": 69000000000.0,
+    "max_supply": 69000000000.0
+  },
+  {
+    "id": "peaq-2",
+    "circulating_supply": 992017976.3279335,
+    "total_supply": 4292085654.009876,
+    "max_supply": null
+  },
+  {
+    "id": "bonfida",
+    "circulating_supply": 990911456.702224,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "sonic-svm",
+    "circulating_supply": 360000000.0,
+    "total_supply": 2400000000.0,
+    "max_supply": 2400000000.0
+  },
+  {
+    "id": "ergo",
+    "circulating_supply": 81330948.0,
+    "total_supply": 97739924.0,
+    "max_supply": null
+  },
+  {
+    "id": "moonwell-flagship-eth-morpho-vault",
+    "circulating_supply": 30040.0,
+    "total_supply": 30040.0,
+    "max_supply": null
+  },
+  {
+    "id": "manta-network",
+    "circulating_supply": 418895926.5846873,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "avant-staked-usd",
+    "circulating_supply": 71699582.68655603,
+    "total_supply": 71699582.68655603,
+    "max_supply": null
+  },
+  {
+    "id": "ark",
+    "circulating_supply": 188316326.0,
+    "total_supply": 189807088.0,
+    "max_supply": null
+  },
+  {
+    "id": "susda",
+    "circulating_supply": 74718009.61710903,
+    "total_supply": 74718009.61710903,
+    "max_supply": null
+  },
+  {
+    "id": "solv-protocol-solvbtc-core",
+    "circulating_supply": 699.8976364394363,
+    "total_supply": 699.8976364394363,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "api3",
+    "circulating_supply": 124135765.7757604,
+    "total_supply": 149398929.0234485,
+    "max_supply": 149398929.0234485
+  },
+  {
+    "id": "osaka-protocol",
+    "circulating_supply": 761459784660251.2,
+    "total_supply": 761459784660251.2,
+    "max_supply": 1000000000000000.0
+  },
+  {
+    "id": "audius",
+    "circulating_supply": 1336941761.0,
+    "total_supply": 1336941761.019873,
+    "max_supply": 1336941761.019873
+  },
+  {
+    "id": "spell-token",
+    "circulating_supply": 163609005848.2357,
+    "total_supply": 196008739620.0,
+    "max_supply": 210000000000.0
+  },
+  {
+    "id": "aevo-exchange",
+    "circulating_supply": 907606690.4785507,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "lisk",
+    "circulating_supply": 194268855.8710795,
+    "total_supply": 400000000.0,
+    "max_supply": 400000000.0
+  },
+  {
+    "id": "dymension",
+    "circulating_supply": 321378387.0,
+    "total_supply": 1000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "civic",
+    "circulating_supply": 802000010.0,
+    "total_supply": 1000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "l2-standard-bridged-weth-blast",
+    "circulating_supply": 28194.01737651243,
+    "total_supply": 28194.01737651243,
+    "max_supply": null
+  },
+  {
+    "id": "bitdca",
+    "circulating_supply": 74933750.46675143,
+    "total_supply": 142665333.0,
+    "max_supply": 150000000.0
+  },
+  {
+    "id": "cetus-protocol",
+    "circulating_supply": 808333333.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "reservoir-rusd",
+    "circulating_supply": 70983230.73889382,
+    "total_supply": 70983230.73889382,
+    "max_supply": null
+  },
+  {
+    "id": "milk-alliance",
+    "circulating_supply": 475315159.0,
+    "total_supply": 986245419.0,
+    "max_supply": 1300000000.0
+  },
+  {
+    "id": "ong",
+    "circulating_supply": 418811011.0414432,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "usual",
+    "circulating_supply": 1048646608.5744761,
+    "total_supply": 1182933273.425502,
+    "max_supply": 4000000000.0
+  },
+  {
+    "id": "terrausd",
+    "circulating_supply": 5594002229.540456,
+    "total_supply": 6094969303.667267,
+    "max_supply": null
+  },
+  {
+    "id": "btu-protocol",
+    "circulating_supply": 80000000.0,
+    "total_supply": 100000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "paxos-standard",
+    "circulating_supply": 69953449.28477143,
+    "total_supply": 69953449.28477143,
+    "max_supply": null
+  },
+  {
+    "id": "wax",
+    "circulating_supply": 3504099552.3982,
+    "total_supply": 3770303327.0,
+    "max_supply": 3770303327.0
+  },
+  {
+    "id": "newton-protocol",
+    "circulating_supply": 215000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "resupply-usd",
+    "circulating_supply": 70047737.34568162,
+    "total_supply": 70047737.34568162,
+    "max_supply": null
+  },
+  {
+    "id": "bancor",
+    "circulating_supply": 114218760.3411937,
+    "total_supply": 114218760.3411937,
+    "max_supply": 114218760.3411937
+  },
+  {
+    "id": "ronin-bridged-weth-ronin",
+    "circulating_supply": 27281.71182156975,
+    "total_supply": 368529.3834601674,
+    "max_supply": null
+  },
+  {
+    "id": "b3",
+    "circulating_supply": 27267009247.727253,
+    "total_supply": 99999999999.99998,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "staked-frax",
+    "circulating_supply": 61106248.21271767,
+    "total_supply": 61106248.21271767,
+    "max_supply": null
+  },
+  {
+    "id": "banana-gun",
+    "circulating_supply": 3996747.6878895634,
+    "total_supply": 8453299.524639849,
+    "max_supply": 10000000.0
+  },
+  {
+    "id": "level-staked-usd",
+    "circulating_supply": 63742148.90909491,
+    "total_supply": 63742148.90909491,
+    "max_supply": null
+  },
+  {
+    "id": "ponke",
+    "circulating_supply": 555474672.3636253,
+    "total_supply": 555536767.6264796,
+    "max_supply": 555555555.0
+  },
+  {
+    "id": "rings-scbtc",
+    "circulating_supply": 635.26129759,
+    "total_supply": 635.26129759,
+    "max_supply": null
+  },
+  {
+    "id": "fimarkcoin-com",
+    "circulating_supply": 25784869818.0,
+    "total_supply": 128318618918.0,
+    "max_supply": null
+  },
+  {
+    "id": "carv",
+    "circulating_supply": 293436095.82,
+    "total_supply": 404.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "across-protocol",
+    "circulating_supply": 493227481.6583478,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "steem",
+    "circulating_supply": 517654065.419,
+    "total_supply": 517786074.555,
+    "max_supply": null
+  },
+  {
+    "id": "shuffle-2",
+    "circulating_supply": 307706769.1923218,
+    "total_supply": 949375277.084615,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "kelp-gain",
+    "circulating_supply": 25349.88948830695,
+    "total_supply": 25349.88948830695,
+    "max_supply": null
+  },
+  {
+    "id": "bridged-wrapped-steth-gnosis",
+    "circulating_supply": 21670.90601810956,
+    "total_supply": 21670.90601810956,
+    "max_supply": null
+  },
+  {
+    "id": "chromaway",
+    "circulating_supply": 844331914.378197,
+    "total_supply": 844331914.378197,
+    "max_supply": 978064789.0
+  },
+  {
+    "id": "iexec-rlc",
+    "circulating_supply": 72382548.06525737,
+    "total_supply": 86999784.9868455,
+    "max_supply": 86999784.9868455
+  },
+  {
+    "id": "apu-s-club",
+    "circulating_supply": 337892157625.5295,
+    "total_supply": 337892157625.5295,
+    "max_supply": 420690000000.0
+  },
+  {
+    "id": "quantum-resistant-ledger",
+    "circulating_supply": 78392960.0,
+    "total_supply": 78392960.0,
+    "max_supply": 105000000.0
+  },
+  {
+    "id": "arcblock",
+    "circulating_supply": 98580000.0,
+    "total_supply": 186000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "goldfinch",
+    "circulating_supply": 92912233.78707805,
+    "total_supply": 114285714.0,
+    "max_supply": 114285714.0
+  },
+  {
+    "id": "dogs-2",
+    "circulating_supply": 516750000000.0,
+    "total_supply": 550000000000.0,
+    "max_supply": 550000000000.0
+  },
+  {
+    "id": "space-id",
+    "circulating_supply": 430506132.0,
+    "total_supply": 1996617244.0,
+    "max_supply": 2000000000.0
+  },
+  {
+    "id": "connex",
+    "circulating_supply": 1150000.0,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "adventure-gold",
+    "circulating_supply": 92810001.0,
+    "total_supply": 92810001.0,
+    "max_supply": 96000000.0
+  },
+  {
+    "id": "global-commercial-business",
+    "circulating_supply": 1201844746.3740873,
+    "total_supply": 1201844746.3740873,
+    "max_supply": 2500000000.0
+  },
+  {
+    "id": "sosovalue",
+    "circulating_supply": 115133243.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "layerzero-bridged-weeth-swellchain",
+    "circulating_supply": 23727.80547499999,
+    "total_supply": 23727.80547499999,
+    "max_supply": null
+  },
+  {
+    "id": "hydradx",
+    "circulating_supply": 5776623276.967478,
+    "total_supply": 6421833471.168886,
+    "max_supply": 6500000000.0
+  },
+  {
+    "id": "marlin",
+    "circulating_supply": 8194011342.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "dogelon-mars",
+    "circulating_supply": 549649971723242.3,
+    "total_supply": 1000000000000000.0,
+    "max_supply": 1000000000000000.0
+  },
+  {
+    "id": "cobak-token",
+    "circulating_supply": 95127057.0,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "satoshi-stablecoin",
+    "circulating_supply": 63465554.00349852,
+    "total_supply": 63465554.00349852,
+    "max_supply": null
+  },
+  {
+    "id": "zeus-network",
+    "circulating_supply": 382778230.010249,
+    "total_supply": 999996913.931822,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "mindwavedao",
+    "circulating_supply": 792766176.55,
+    "total_supply": 1057021569.0,
+    "max_supply": 1057021569.0
+  },
+  {
+    "id": "xai-blockchain",
+    "circulating_supply": 1280634068.763018,
+    "total_supply": 1956245084.056676,
+    "max_supply": 2500000000.0
+  },
+  {
+    "id": "hosico-cat",
+    "circulating_supply": 999887703.667532,
+    "total_supply": 999887703.667532,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "bifrost",
+    "circulating_supply": 1391269925.662982,
+    "total_supply": 2368584074.0,
+    "max_supply": null
+  },
+  {
+    "id": "vaneck-treasury-fund",
+    "circulating_supply": 62244890.03,
+    "total_supply": 62272014.15,
+    "max_supply": null
+  },
+  {
+    "id": "puff-the-dragon",
+    "circulating_supply": 888888888.0,
+    "total_supply": 888888888.0,
+    "max_supply": 888888888.0
+  },
+  {
+    "id": "initia",
+    "circulating_supply": 159186511.788233,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "balancer",
+    "circulating_supply": 64219763.58735903,
+    "total_supply": 68965420.59090777,
+    "max_supply": 96150704.0
+  },
+  {
+    "id": "tokamak-network",
+    "circulating_supply": 52799856.45817483,
+    "total_supply": 94903195.47697863,
+    "max_supply": null
+  },
+  {
+    "id": "moonbeam",
+    "circulating_supply": 990182330.0,
+    "total_supply": 1181596153.0,
+    "max_supply": null
+  },
+  {
+    "id": "solv-protocol",
+    "circulating_supply": 1482600000.0,
+    "total_supply": 8400000000.0,
+    "max_supply": 9660000000.0
+  },
+  {
+    "id": "sophon",
+    "circulating_supply": 2000000000.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "bucket-protocol-buck-stablecoin",
+    "circulating_supply": 61604539.35251514,
+    "total_supply": 61604539.35251514,
+    "max_supply": null
+  },
+  {
+    "id": "m2-global-wealth-limited-mmx",
+    "circulating_supply": 163102255.889973,
+    "total_supply": 499897237.889973,
+    "max_supply": 500000000.0
+  },
+  {
+    "id": "solidus-aitech",
+    "circulating_supply": 1541491557.0,
+    "total_supply": 1987856462.0,
+    "max_supply": 2000000000.0
+  },
+  {
+    "id": "blockv",
+    "circulating_supply": 3646271241.200255,
+    "total_supply": 3646271241.200255,
+    "max_supply": 3646271241.0
+  },
+  {
+    "id": "astherus-usdf",
+    "circulating_supply": 60704124.92292505,
+    "total_supply": 60702968.71292506,
+    "max_supply": null
+  },
+  {
+    "id": "energy-web-token",
+    "circulating_supply": 60581997.78113572,
+    "total_supply": 69017450.9455633,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "anvil",
+    "circulating_supply": 27279253619.856335,
+    "total_supply": 98667066238.80089,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "numeraire",
+    "circulating_supply": 8007701.310704102,
+    "total_supply": 10667517.53977264,
+    "max_supply": 11000000.0
+  },
+  {
+    "id": "comedian",
+    "circulating_supply": 999961859.27,
+    "total_supply": 999961859.27,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "qanplatform",
+    "circulating_supply": 1700000000.0,
+    "total_supply": 2099550000.0,
+    "max_supply": 3333333000.0
+  },
+  {
+    "id": "chutes",
+    "circulating_supply": 1274227.302660601,
+    "total_supply": 1274227.302660601,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "auction",
+    "circulating_supply": 6590144.312257191,
+    "total_supply": 7640820.856658065,
+    "max_supply": 10000000.0
+  },
+  {
+    "id": "ocean-protocol",
+    "circulating_supply": 200081034.9720072,
+    "total_supply": 274810576.92980254,
+    "max_supply": 1410000000.0
+  },
+  {
+    "id": "taiko",
+    "circulating_supply": 155662918.9944452,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "debridge",
+    "circulating_supply": 2910769231.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "wrapped-centrifuge",
+    "circulating_supply": 301205399.606484,
+    "total_supply": 301205399.606484,
+    "max_supply": 301205399.606484
+  },
+  {
+    "id": "harrypotterobamasonic10in",
+    "circulating_supply": 999798155.0,
+    "total_supply": 999798155.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "metal",
+    "circulating_supply": 86147287.0,
+    "total_supply": 86147287.0,
+    "max_supply": null
+  },
+  {
+    "id": "game-by-virtuals",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "binance-usd",
+    "circulating_supply": 57792684.11594552,
+    "total_supply": 57792684.11594552,
+    "max_supply": null
+  },
+  {
+    "id": "joe",
+    "circulating_supply": 398139381.8452133,
+    "total_supply": 499707962.2721376,
+    "max_supply": 500000000.0
+  },
+  {
+    "id": "medibloc",
+    "circulating_supply": 10080089735.0,
+    "total_supply": 10870532647.0,
+    "max_supply": null
+  },
+  {
+    "id": "geodnet",
+    "circulating_supply": 317164483.0,
+    "total_supply": 989289568.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "dent",
+    "circulating_supply": 95654960452.73587,
+    "total_supply": 100000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "pepeontron",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "looped-hype",
+    "circulating_supply": 1397859.456173615,
+    "total_supply": 1397859.456173615,
+    "max_supply": null
+  },
+  {
+    "id": "islamic-coin",
+    "circulating_supply": 1935647107.821731,
+    "total_supply": 20218905089.39522,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "saga-2",
+    "circulating_supply": 269977588.0,
+    "total_supply": 1070258709.0,
+    "max_supply": null
+  },
+  {
+    "id": "nillion",
+    "circulating_supply": 195150000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "connect-token-wct",
+    "circulating_supply": 186200000.0,
+    "total_supply": 999999207.8594807,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "pundi-aifx",
+    "circulating_supply": 8489256.835362129,
+    "total_supply": 8489297.774095714,
+    "max_supply": 18930226.25
+  },
+  {
+    "id": "sundog",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "magic-internet-money",
+    "circulating_supply": 55611860.7491842,
+    "total_supply": 174903452.464271,
+    "max_supply": null
+  },
+  {
+    "id": "polyhedra-network",
+    "circulating_supply": 323916667.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "bridged-tether-opbnb",
+    "circulating_supply": 55147790.91178457,
+    "total_supply": 55147790.91178457,
+    "max_supply": null
+  },
+  {
+    "id": "zentry",
+    "circulating_supply": 7111278718.262713,
+    "total_supply": 9706992814.355925,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "huma-finance",
+    "circulating_supply": 1733333333.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "railgun",
+    "circulating_supply": 57500000.0,
+    "total_supply": 57500000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "stronghold-token",
+    "circulating_supply": 5374948822.95804,
+    "total_supply": null,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "gamebuild",
+    "circulating_supply": 17725979453.0,
+    "total_supply": 21419639400.0,
+    "max_supply": 21419639400.0
+  },
+  {
+    "id": "hippo-protocol",
+    "circulating_supply": 1134267272.92576,
+    "total_supply": 1134325833.304334,
+    "max_supply": null
+  },
+  {
+    "id": "ao-computer",
+    "circulating_supply": 4397299.548388,
+    "total_supply": 4397299.548388,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "cronos-bridged-wbtc-cronos",
+    "circulating_supply": 504.39,
+    "total_supply": 504.39,
+    "max_supply": null
+  },
+  {
+    "id": "chill-guy",
+    "circulating_supply": 999952197.384744,
+    "total_supply": 999952197.384744,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "concordium",
+    "circulating_supply": 11582395492.18087,
+    "total_supply": 13988258117.67118,
+    "max_supply": null
+  },
+  {
+    "id": "omni-network",
+    "circulating_supply": 37782959.0,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "aergo",
+    "circulating_supply": 472499995.7689212,
+    "total_supply": 500000000.0,
+    "max_supply": 500000000.0
+  },
+  {
+    "id": "ekubo-protocol",
+    "circulating_supply": 10000000.0,
+    "total_supply": 10000000.0,
+    "max_supply": 10000000.0
+  },
+  {
+    "id": "unipoly",
+    "circulating_supply": 279230000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "hashflow",
+    "circulating_supply": 585707180.9652,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "bridged-usd-coin-optimism",
+    "circulating_supply": 53130966.913067,
+    "total_supply": 53130966.913067,
+    "max_supply": null
+  },
+  {
+    "id": "home",
+    "circulating_supply": 2720004630.01,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "metfi-2",
+    "circulating_supply": 243773150.24444976,
+    "total_supply": 481256171.556871,
+    "max_supply": 500000000.0
+  },
+  {
+    "id": "mantle-bridged-usde-mantle",
+    "circulating_supply": 52882597.867802,
+    "total_supply": 52882597.867802,
+    "max_supply": null
+  },
+  {
+    "id": "rif-token",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "access-protocol",
+    "circulating_supply": 41839505733.39296,
+    "total_supply": 89065637672.85934,
+    "max_supply": null
+  },
+  {
+    "id": "skyai",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "ssv-network",
+    "circulating_supply": 7085672.647228521,
+    "total_supply": 13371822.37302498,
+    "max_supply": null
+  },
+  {
+    "id": "moonriver",
+    "circulating_supply": 9761331.0,
+    "total_supply": 11982542.0,
+    "max_supply": null
+  },
+  {
+    "id": "tutorial",
+    "circulating_supply": 838150362.9625217,
+    "total_supply": 838150362.9625217,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "andy-the-wisguy",
+    "circulating_supply": 1000000000000.0,
+    "total_supply": 1000000000000.0,
+    "max_supply": 1000000000000.0
+  },
+  {
+    "id": "marinade",
+    "circulating_supply": 411078027.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "helder",
+    "circulating_supply": 496751504.5239827,
+    "total_supply": 496751504.5239827,
+    "max_supply": 497090000.0
+  },
+  {
+    "id": "zedxion",
+    "circulating_supply": 122323849.6518,
+    "total_supply": 4756558137.0,
+    "max_supply": 4756558137.0
+  },
+  {
+    "id": "cyberconnect",
+    "circulating_supply": 43762567.06,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "zircuit",
+    "circulating_supply": 2194923458.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "cartesi",
+    "circulating_supply": 873076431.7900137,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "neutron-3",
+    "circulating_supply": 598061788.083429,
+    "total_supply": 999783497.809855,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "scroll",
+    "circulating_supply": 190000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "vanar-chain",
+    "circulating_supply": 1936065081.0,
+    "total_supply": 1991220770.0,
+    "max_supply": 2400000000.0
+  },
+  {
+    "id": "escoin-token",
+    "circulating_supply": 184209191.10459575,
+    "total_supply": 250000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "avail",
+    "circulating_supply": 2532936649.0,
+    "total_supply": 10505436649.0,
+    "max_supply": null
+  },
+  {
+    "id": "web-3-dollar",
+    "circulating_supply": 47655221.37196949,
+    "total_supply": 47655221.37196949,
+    "max_supply": null
+  },
+  {
+    "id": "humans-ai",
+    "circulating_supply": 7800000000.0,
+    "total_supply": 7800000000.0,
+    "max_supply": 7800000000.0
+  },
+  {
+    "id": "oraichain-token",
+    "circulating_supply": 18934986.0,
+    "total_supply": 19173383.0,
+    "max_supply": 19779272.0
+  },
+  {
+    "id": "propy",
+    "circulating_supply": 57896591.39105386,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "wink",
+    "circulating_supply": 993701859243.3864,
+    "total_supply": 999000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "secret",
+    "circulating_supply": 312151406.134345,
+    "total_supply": 328098253.5761,
+    "max_supply": null
+  },
+  {
+    "id": "joe-coin",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "ecomi",
+    "circulating_supply": 270951644947.129,
+    "total_supply": 310882499574.018,
+    "max_supply": 750000000000.0
+  },
+  {
+    "id": "societe-generale-forge-eurcv",
+    "circulating_supply": 41806375.0,
+    "total_supply": 41806375.0,
+    "max_supply": null
+  },
+  {
+    "id": "savings-crvusd",
+    "circulating_supply": 46592714.29935434,
+    "total_supply": 46592714.29935434,
+    "max_supply": null
+  },
+  {
+    "id": "t-mac-dao",
+    "circulating_supply": 1750000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "honey-3",
+    "circulating_supply": 48842624.73791602,
+    "total_supply": 48842625.25340403,
+    "max_supply": null
+  },
+  {
+    "id": "kyber-network-crystal",
+    "circulating_supply": 170152851.23024455,
+    "total_supply": 240235056.056516,
+    "max_supply": 252301550.0
+  },
+  {
+    "id": "quark-chain",
+    "circulating_supply": 7138300678.0,
+    "total_supply": 10000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "gains-network",
+    "circulating_supply": 29365049.0,
+    "total_supply": 29364831.0,
+    "max_supply": null
+  },
+  {
+    "id": "hunt-token",
+    "circulating_supply": 198912688.0,
+    "total_supply": 198912688.0,
+    "max_supply": 198912688.0
+  },
+  {
+    "id": "oasys",
+    "circulating_supply": 4480178659.021287,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "high-growth-eth",
+    "circulating_supply": 20146.89859059517,
+    "total_supply": 20146.89859059517,
+    "max_supply": null
+  },
+  {
+    "id": "sygnum-fiusd-liquidity-fund",
+    "circulating_supply": 4196.0,
+    "total_supply": 4196.0,
+    "max_supply": null
+  },
+  {
+    "id": "sui-bridged-ether-sui",
+    "circulating_supply": 19023.53294692,
+    "total_supply": 19023.53294692,
+    "max_supply": null
+  },
+  {
+    "id": "usd",
+    "circulating_supply": 48085096.3705041,
+    "total_supply": 48085096.3705041,
+    "max_supply": null
+  },
+  {
+    "id": "gemini-dollar",
+    "circulating_supply": 48048064.95,
+    "total_supply": 48048064.95,
+    "max_supply": null
+  },
+  {
+    "id": "fuel-network",
+    "circulating_supply": 5293614050.062507,
+    "total_supply": 10109782248.45233,
+    "max_supply": null
+  },
+  {
+    "id": "mountain-protocol-usdm",
+    "circulating_supply": 48000500.64,
+    "total_supply": 48000500.64,
+    "max_supply": null
+  },
+  {
+    "id": "bone-shibaswap",
+    "circulating_supply": 249892915.42549542,
+    "total_supply": 249999401.8248471,
+    "max_supply": 250000000.0
+  },
+  {
+    "id": "bim-2",
+    "circulating_supply": 30000000.0,
+    "total_supply": 30000000.0,
+    "max_supply": 30000000.0
+  },
+  {
+    "id": "avalanche-bridged-weth-avalanche",
+    "circulating_supply": 18578.54067287343,
+    "total_supply": 18578.54067287343,
+    "max_supply": null
+  },
+  {
+    "id": "renzo-restaked-sol",
+    "circulating_supply": 254950.193171593,
+    "total_supply": 254950.002336389,
+    "max_supply": null
+  },
+  {
+    "id": "avalanche-old-bridged-wbtc-avalanche",
+    "circulating_supply": 433.77876842,
+    "total_supply": 433.77876842,
+    "max_supply": null
+  },
+  {
+    "id": "impossible-cloud-network-token",
+    "circulating_supply": 187600000.0,
+    "total_supply": 700000000.0,
+    "max_supply": 700000000.0
+  },
+  {
+    "id": "simon-s-cat",
+    "circulating_supply": 6749783055123.635,
+    "total_supply": 8098287225597.698,
+    "max_supply": 9000000000000.0
+  },
+  {
+    "id": "seraph",
+    "circulating_supply": 239503404.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "tars-protocol",
+    "circulating_supply": 586681333.5321538,
+    "total_supply": 894996126.4121538,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "frax-usd",
+    "circulating_supply": 45996977.79106431,
+    "total_supply": 45996977.79106431,
+    "max_supply": null
+  },
+  {
+    "id": "usd-coin-avalanche-bridged-usdc-e",
+    "circulating_supply": 45400115.94256,
+    "total_supply": 45400115.94256,
+    "max_supply": null
+  },
+  {
+    "id": "smooth-love-potion",
+    "circulating_supply": 35959130888.0,
+    "total_supply": 35959130888.0,
+    "max_supply": null
+  },
+  {
+    "id": "gods-unchained",
+    "circulating_supply": 381250002.0649,
+    "total_supply": 500000000.0,
+    "max_supply": 500000000.0
+  },
+  {
+    "id": "autonolas",
+    "circulating_supply": 178872646.81667915,
+    "total_supply": 470010456.3919866,
+    "max_supply": null
+  },
+  {
+    "id": "matrixdock-gold",
+    "circulating_supply": 13502.37034694744,
+    "total_supply": 13502.37034694744,
+    "max_supply": null
+  },
+  {
+    "id": "wmatic",
+    "circulating_supply": 242397491.5656234,
+    "total_supply": 242397491.5656234,
+    "max_supply": null
+  },
+  {
+    "id": "devve",
+    "circulating_supply": 87389949.09224322,
+    "total_supply": 120000000.0,
+    "max_supply": 300000000.0
+  },
+  {
+    "id": "tagger",
+    "circulating_supply": 108404572594.17,
+    "total_supply": 405380800000.0,
+    "max_supply": 405380800000.0
+  },
+  {
+    "id": "dia-data",
+    "circulating_supply": 119676104.0,
+    "total_supply": 168817248.0,
+    "max_supply": 200000000.0
+  },
+  {
+    "id": "trufin-staked-apt",
+    "circulating_supply": 9900759.77586582,
+    "total_supply": 9900759.77586582,
+    "max_supply": null
+  },
+  {
+    "id": "socean-staked-sol",
+    "circulating_supply": 218184.16910874,
+    "total_supply": 668264.0,
+    "max_supply": 668264.0
+  },
+  {
+    "id": "bc-token",
+    "circulating_supply": 9990222913.301111,
+    "total_supply": 9990222913.301111,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "ski-mask-dog",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "imagen-ai",
+    "circulating_supply": 5000000000.0,
+    "total_supply": 5000000000.0,
+    "max_supply": 5000000000.0
+  },
+  {
+    "id": "heyanon",
+    "circulating_supply": 13434465.054133,
+    "total_supply": 21000000.0,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "velodrome-finance",
+    "circulating_supply": 961646960.247725,
+    "total_supply": 2136379757.343032,
+    "max_supply": 2136379757.343032
+  },
+  {
+    "id": "nosana",
+    "circulating_supply": 83400000.0,
+    "total_supply": 100000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "goplus-security",
+    "circulating_supply": 1813400000.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "aurora-near",
+    "circulating_supply": 617853564.0,
+    "total_supply": 999861318.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "phantom-staked-sol",
+    "circulating_supply": 281837.268797676,
+    "total_supply": 281837.268797676,
+    "max_supply": null
+  },
+  {
+    "id": "liquity-bold-2",
+    "circulating_supply": 43381628.61610098,
+    "total_supply": 43381990.36311269,
+    "max_supply": null
+  },
+  {
+    "id": "tokpie",
+    "circulating_supply": 79293847.0,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "hamster-kombat",
+    "circulating_supply": 64375000000.0,
+    "total_supply": 100000000000.0,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "iagon",
+    "circulating_supply": 376020434.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "sx-network-2",
+    "circulating_supply": 562443455.1591176,
+    "total_supply": 999253979.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "forta",
+    "circulating_supply": 600748546.8271165,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "stargate-bridged-usdc-plume",
+    "circulating_supply": 42598507.654718,
+    "total_supply": 42598507.654718,
+    "max_supply": null
+  },
+  {
+    "id": "alethea-artificial-liquid-intelligence-token",
+    "circulating_supply": 9118091184.0,
+    "total_supply": 9870903732.81426,
+    "max_supply": 9870903732.81426
+  },
+  {
+    "id": "researchcoin",
+    "circulating_supply": 114619403.59850883,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "moviebloc",
+    "circulating_supply": 18639887214.0,
+    "total_supply": 30000000000.0,
+    "max_supply": 30000000000.0
+  },
+  {
+    "id": "certik",
+    "circulating_supply": 147094274.0,
+    "total_supply": 147835516.0,
+    "max_supply": null
+  },
+  {
+    "id": "austin-capitals",
+    "circulating_supply": 9786000.0,
+    "total_supply": 9786000.0,
+    "max_supply": 9786000.0
+  },
+  {
+    "id": "griffain",
+    "circulating_supply": 999864022.598893,
+    "total_supply": 999864022.598893,
+    "max_supply": 999880903.89
+  },
+  {
+    "id": "wrapped-quil",
+    "circulating_supply": 902285400.373132,
+    "total_supply": 902285400.373132,
+    "max_supply": null
+  },
+  {
+    "id": "deso",
+    "circulating_supply": 10532253.8854,
+    "total_supply": 10808492.6854,
+    "max_supply": 10808492.6854
+  },
+  {
+    "id": "wrapped-xrp",
+    "circulating_supply": 17947559.108324,
+    "total_supply": 17947559.108324,
+    "max_supply": null
+  },
+  {
+    "id": "maxi-payfi-strategy-token",
+    "circulating_supply": 41044471.638114,
+    "total_supply": 41044471.638114,
+    "max_supply": null
+  },
+  {
+    "id": "optio",
+    "circulating_supply": 5705713255.276879,
+    "total_supply": 7473246916.9577,
+    "max_supply": 30000000000.0
+  },
+  {
+    "id": "benqi",
+    "circulating_supply": 6995334957.0,
+    "total_supply": 7200000000.0,
+    "max_supply": 7200000000.0
+  },
+  {
+    "id": "wilder-world",
+    "circulating_supply": 324323545.47983027,
+    "total_supply": 500000000.0,
+    "max_supply": 500000000.0
+  },
+  {
+    "id": "marblex",
+    "circulating_supply": 213821134.4028674,
+    "total_supply": 321366541.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "celer-network",
+    "circulating_supply": 5645454935.82688,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "liquity-usd",
+    "circulating_supply": 40964143.05947306,
+    "total_supply": 40964143.05947306,
+    "max_supply": null
+  },
+  {
+    "id": "boba-network",
+    "circulating_supply": 455323310.7180413,
+    "total_supply": 500000000.0,
+    "max_supply": 500000000.0
+  },
+  {
+    "id": "w-coin",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "usualx",
+    "circulating_supply": 427365053.9595173,
+    "total_supply": 427365053.9595173,
+    "max_supply": 4000000000.0
+  },
+  {
+    "id": "hashai",
+    "circulating_supply": 89456965951.0,
+    "total_supply": 94999383050.0,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "smardex",
+    "circulating_supply": 9201973324.10065,
+    "total_supply": 9977474842.605888,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "liquidlaunch",
+    "circulating_supply": 1198919050.52243,
+    "total_supply": 1198919050.52243,
+    "max_supply": 1200000000.0
+  },
+  {
+    "id": "keep-network",
+    "circulating_supply": 549716300.2685891,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "seedify-fund",
+    "circulating_supply": 63562839.95,
+    "total_supply": 100000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "huobi-token",
+    "circulating_supply": 159406077.0,
+    "total_supply": 201050000.0,
+    "max_supply": 201050000.0
+  },
+  {
+    "id": "superrare",
+    "circulating_supply": 819303620.7018294,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "tomochain",
+    "circulating_supply": 121630912.4,
+    "total_supply": 210000000.0,
+    "max_supply": 210000000.0
+  },
+  {
+    "id": "bilira",
+    "circulating_supply": 1592518156.411926,
+    "total_supply": 536845309.989033,
+    "max_supply": null
+  },
+  {
+    "id": "mansory-token",
+    "circulating_supply": 899993842.0,
+    "total_supply": 899993842.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "coin98",
+    "circulating_supply": 966944168.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "superwalk",
+    "circulating_supply": 678024273.05,
+    "total_supply": 987522926.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "czs-dog",
+    "circulating_supply": 972652022.1120937,
+    "total_supply": 972652022.1120937,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "strikecoin",
+    "circulating_supply": 847976290.02959,
+    "total_supply": 886812043.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "liqwid-finance",
+    "circulating_supply": 20094480.928212,
+    "total_supply": 21000000.0,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "supra",
+    "circulating_supply": 15051922642.24319,
+    "total_supply": 80019629587.16762,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "ai-analysis-token",
+    "circulating_supply": 110347623.6743895,
+    "total_supply": 500000000.0,
+    "max_supply": 500000000.0
+  },
+  {
+    "id": "derive",
+    "circulating_supply": 817793048.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "particle-network",
+    "circulating_supply": 233000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "corgiai",
+    "circulating_supply": 343529196449.3685,
+    "total_supply": 372500000000.0,
+    "max_supply": 500000000000.0
+  },
+  {
+    "id": "whiteheart",
+    "circulating_supply": 8888.0,
+    "total_supply": 8888.0,
+    "max_supply": 8888.0
+  },
+  {
+    "id": "tharwa",
+    "circulating_supply": 7000000000.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "nusd",
+    "circulating_supply": 41276020.26624554,
+    "total_supply": 41276020.26624554,
+    "max_supply": 41276020.26624554
+  },
+  {
+    "id": "test-3",
+    "circulating_supply": 946874090.4528657,
+    "total_supply": 946874090.4528657,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "bonk-level-saviour-2",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "deapcoin",
+    "circulating_supply": 27526332268.328953,
+    "total_supply": 29892900001.328953,
+    "max_supply": 30000000000.0
+  },
+  {
+    "id": "unity-2",
+    "circulating_supply": 37989380.4274,
+    "total_supply": 37989380.4274,
+    "max_supply": null
+  },
+  {
+    "id": "xpla",
+    "circulating_supply": 824514780.9275501,
+    "total_supply": 1999922489.6049,
+    "max_supply": 2000000000.0
+  },
+  {
+    "id": "celium",
+    "circulating_supply": 1356403.466710584,
+    "total_supply": 1356403.466710584,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "tensor",
+    "circulating_supply": 334607238.97717,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "metadium",
+    "circulating_supply": 1715008720.0,
+    "total_supply": 2000000000.0,
+    "max_supply": 2000000000.0
+  },
+  {
+    "id": "tokenbot-2",
+    "circulating_supply": 1000000.0,
+    "total_supply": 1000000.0,
+    "max_supply": 1000000.0
+  },
+  {
+    "id": "helio-protocol-hay",
+    "circulating_supply": 37599049.8493389,
+    "total_supply": 38624581.9692841,
+    "max_supply": 44000000.0
+  },
+  {
+    "id": "fwog",
+    "circulating_supply": 975635328.0,
+    "total_supply": 975635328.0,
+    "max_supply": 975635328.0
+  },
+  {
+    "id": "wrapped-nxm",
+    "circulating_supply": 642444.1023674216,
+    "total_supply": 642444.1023674216,
+    "max_supply": 642444.1023674216
+  },
+  {
+    "id": "dodo",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "miu-2",
+    "circulating_supply": 900000000000000.0,
+    "total_supply": 900000000000000.0,
+    "max_supply": 900000000000000.0
+  },
+  {
+    "id": "mubarak",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "chain-key-bitcoin",
+    "circulating_supply": 342.0992663,
+    "total_supply": 342.35411027,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "magic",
+    "circulating_supply": 307613826.1385946,
+    "total_supply": 347687044.0430891,
+    "max_supply": 347714007.0
+  },
+  {
+    "id": "universal-eth",
+    "circulating_supply": 13253.04511829283,
+    "total_supply": 13253.04511829283,
+    "max_supply": null
+  },
+  {
+    "id": "myshell",
+    "circulating_supply": 270000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "act-i-the-ai-prophecy",
+    "circulating_supply": 948244847.031382,
+    "total_supply": 948244847.031382,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "bankercoin-2",
+    "circulating_supply": 99999999999.99998,
+    "total_supply": 99999999999.99998,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "strike",
+    "circulating_supply": 5610274.075102607,
+    "total_supply": 6540888.0,
+    "max_supply": 6540888.0
+  },
+  {
+    "id": "roam-token",
+    "circulating_supply": 297763865.762671,
+    "total_supply": 1017684670.862671,
+    "max_supply": 1023182045.061328
+  },
+  {
+    "id": "crypto-trading-fund",
+    "circulating_supply": 119899972.6222748,
+    "total_supply": 119899972.6222748,
+    "max_supply": 120000000.0
+  },
+  {
+    "id": "parcl",
+    "circulating_supply": 408597448.073953,
+    "total_supply": 999998292.575205,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "peapods-finance",
+    "circulating_supply": 9938113.38045473,
+    "total_supply": 9938113.38045473,
+    "max_supply": 9938113.38045473
+  },
+  {
+    "id": "bedrock-btc",
+    "circulating_supply": 340.5409936,
+    "total_supply": 340.5409936,
+    "max_supply": null
+  },
+  {
+    "id": "binance-peg-avalanche",
+    "circulating_supply": 2000000.0,
+    "total_supply": 2000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "binance-peg-dai",
+    "circulating_supply": 35999971.51735277,
+    "total_supply": 35999971.51735277,
+    "max_supply": null
+  },
+  {
+    "id": "sai",
+    "circulating_supply": 2682010.544227931,
+    "total_supply": 2682010.544227931,
+    "max_supply": 2682010.544227931
+  },
+  {
+    "id": "coinmetro",
+    "circulating_supply": 302267836.2815,
+    "total_supply": 318307282.8974864,
+    "max_supply": null
+  },
+  {
+    "id": "alephium",
+    "circulating_supply": 115781375.0455248,
+    "total_supply": 212327695.2300684,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "keyboard-cat-base",
+    "circulating_supply": 10000000000.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "cudos",
+    "circulating_supply": 7375147428.0,
+    "total_supply": 9317568774.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "uquid-coin",
+    "circulating_supply": 10000000.0,
+    "total_supply": 40000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "plume-usd",
+    "circulating_supply": 35740257.826409,
+    "total_supply": 35740257.826409,
+    "max_supply": null
+  },
+  {
+    "id": "snowbank",
+    "circulating_supply": 159640.027327531,
+    "total_supply": 159640.027327531,
+    "max_supply": null
+  },
+  {
+    "id": "origin-protocol",
+    "circulating_supply": 699584779.0,
+    "total_supply": 1409664846.0,
+    "max_supply": 1409664846.0
+  },
+  {
+    "id": "celo-dollar",
+    "circulating_supply": 35553466.1769185,
+    "total_supply": 35553967.1844835,
+    "max_supply": null
+  },
+  {
+    "id": "storj",
+    "circulating_supply": 143787438.7,
+    "total_supply": 424999998.0,
+    "max_supply": null
+  },
+  {
+    "id": "my-neighbor-alice",
+    "circulating_supply": 92083333.0,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "saasgo",
+    "circulating_supply": 800000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "tornado-cash",
+    "circulating_supply": 3810550.883649667,
+    "total_supply": 9999997.526814999,
+    "max_supply": 10000000.0
+  },
+  {
+    "id": "vaderai-by-virtuals",
+    "circulating_supply": 996739513.1977307,
+    "total_supply": 996739513.1977307,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "landwolf-0x67",
+    "circulating_supply": 902159505150.0,
+    "total_supply": 902159505150.0,
+    "max_supply": 1000000000000.0
+  },
+  {
+    "id": "pythia",
+    "circulating_supply": 999528336.608849,
+    "total_supply": 999528336.608849,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "hive_dollar",
+    "circulating_supply": 34737124.051,
+    "total_supply": 34737153.374,
+    "max_supply": null
+  },
+  {
+    "id": "startup",
+    "circulating_supply": 990286247.1602763,
+    "total_supply": 990286247.1602763,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "bitmex-token",
+    "circulating_supply": 99749999.99974,
+    "total_supply": 450000000.0,
+    "max_supply": 450000000.0
+  },
+  {
+    "id": "tokenfi",
+    "circulating_supply": 2659231660.197602,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "ice",
+    "circulating_supply": 6792780005.41,
+    "total_supply": 21150537435.26,
+    "max_supply": 21150537435.26
+  },
+  {
+    "id": "compound-usd-coin",
+    "circulating_supply": 1393857265.374929,
+    "total_supply": 1393857265.374929,
+    "max_supply": null
+  },
+  {
+    "id": "lista",
+    "circulating_supply": 172723898.08909667,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "mavryk-network",
+    "circulating_supply": 300000000.0,
+    "total_supply": 300000000.0,
+    "max_supply": 300000000.0
+  },
+  {
+    "id": "magic-internet-money-runes",
+    "circulating_supply": 21000000000.0,
+    "total_supply": 21000000000.0,
+    "max_supply": 21000000000.0
+  },
+  {
+    "id": "thunder-token",
+    "circulating_supply": 12367663596.0,
+    "total_supply": 12367663596.0,
+    "max_supply": null
+  },
+  {
+    "id": "polyswarm",
+    "circulating_supply": 1885500781.9581056,
+    "total_supply": 1885913076.0,
+    "max_supply": 1885913076.0
+  },
+  {
+    "id": "auki-labs",
+    "circulating_supply": 2231571519.5793834,
+    "total_supply": 9995954311.776567,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "pinlink",
+    "circulating_supply": 80000000.0,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "concierge-io",
+    "circulating_supply": 68832267.0,
+    "total_supply": 68832267.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "big-dog-fink",
+    "circulating_supply": 148939273946.4416,
+    "total_supply": 148939273946.4416,
+    "max_supply": 148942491000.0
+  },
+  {
+    "id": "slerf",
+    "circulating_supply": 499997750.5,
+    "total_supply": 499997750.5,
+    "max_supply": 499997750.5
+  },
+  {
+    "id": "aintivirus",
+    "circulating_supply": 999892613.68592,
+    "total_supply": 999892613.68592,
+    "max_supply": 999998814.0
+  },
+  {
+    "id": "siren-2",
+    "circulating_supply": 731338675.6622788,
+    "total_supply": 731338675.6622788,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "ecoin-2",
+    "circulating_supply": 461121735617.0,
+    "total_supply": 1000000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "doginme",
+    "circulating_supply": 67619308450.61841,
+    "total_supply": 67619308450.61841,
+    "max_supply": 69000000000.0
+  },
+  {
+    "id": "token-pocket",
+    "circulating_supply": 3466457401.0,
+    "total_supply": 3466457401.0,
+    "max_supply": null
+  },
+  {
+    "id": "trufin-staked-matic",
+    "circulating_supply": 164876831.6082663,
+    "total_supply": 164876831.6082663,
+    "max_supply": null
+  },
+  {
+    "id": "yneth-max",
+    "circulating_supply": 12518.34374648346,
+    "total_supply": 12518.34374648346,
+    "max_supply": null
+  },
+  {
+    "id": "creatorbid",
+    "circulating_supply": 268466796.9,
+    "total_supply": 999979940.9,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "apollox-2",
+    "circulating_supply": 434585698.45472044,
+    "total_supply": 4016263469.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "resolv",
+    "circulating_supply": 244724566.705988,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "axondao-governance-token",
+    "circulating_supply": 449028967.3406569,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "xtusd",
+    "circulating_supply": 32800030.0,
+    "total_supply": 32800030.0,
+    "max_supply": 32800030.0
+  },
+  {
+    "id": "everybody",
+    "circulating_supply": 27780713256.829243,
+    "total_supply": 27780713256.829243,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "rss3",
+    "circulating_supply": 794060612.9217447,
+    "total_supply": 1015782835.872922,
+    "max_supply": null
+  },
+  {
+    "id": "edu-coin",
+    "circulating_supply": 260104168.67965,
+    "total_supply": 1000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "openserv",
+    "circulating_supply": 684000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "hex-trust-usdx",
+    "circulating_supply": 32698866.78,
+    "total_supply": 32698866.78,
+    "max_supply": null
+  },
+  {
+    "id": "truefi",
+    "circulating_supply": 1329345685.345992,
+    "total_supply": 1344195693.204672,
+    "max_supply": 1344195693.204672
+  },
+  {
+    "id": "mnee-usd-stablecoin",
+    "circulating_supply": 32691339.2833,
+    "total_supply": 32691339.2833,
+    "max_supply": 32691339.2833
+  },
+  {
+    "id": "nym",
+    "circulating_supply": 814217218.11281,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "targon",
+    "circulating_supply": 1672182.969225405,
+    "total_supply": 1672182.969225405,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "pepecoin-2",
+    "circulating_supply": 93160825.85804974,
+    "total_supply": 107741691.90682898,
+    "max_supply": 133769420.0
+  },
+  {
+    "id": "ampleforth",
+    "circulating_supply": 27345066.120455973,
+    "total_supply": 29483500.04424894,
+    "max_supply": null
+  },
+  {
+    "id": "standx-dusd",
+    "circulating_supply": 32352343.052303,
+    "total_supply": 32352343.052303,
+    "max_supply": null
+  },
+  {
+    "id": "bit2me",
+    "circulating_supply": 2958525929.22,
+    "total_supply": 4947258499.16,
+    "max_supply": 5000000000.0
+  },
+  {
+    "id": "coinshift-usdc",
+    "circulating_supply": 31318745.71710901,
+    "total_supply": 31318745.71710901,
+    "max_supply": null
+  },
+  {
+    "id": "coq-inu",
+    "circulating_supply": 69420000000000.0,
+    "total_supply": 69420000000000.0,
+    "max_supply": 69420000000000.0
+  },
+  {
+    "id": "milady-meme-coin",
+    "circulating_supply": 888000888000888.0,
+    "total_supply": 888000888000888.0,
+    "max_supply": 888000888000888.0
+  },
+  {
+    "id": "bobo-coin",
+    "circulating_supply": 66400699866474.0,
+    "total_supply": 66484444313649.0,
+    "max_supply": 69000000000000.0
+  },
+  {
+    "id": "ava-ai",
+    "circulating_supply": 999832451.890043,
+    "total_supply": 999832451.890043,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "law-blocks",
+    "circulating_supply": 244997999.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "eth0",
+    "circulating_supply": 12631.10839248966,
+    "total_supply": 12631.10839248966,
+    "max_supply": null
+  },
+  {
+    "id": "bouncebit",
+    "circulating_supply": 409500000.0,
+    "total_supply": 2100000000.0,
+    "max_supply": 2100000000.0
+  },
+  {
+    "id": "defiway",
+    "circulating_supply": 100000000.0,
+    "total_supply": 100000000.0,
+    "max_supply": 190000000.0
+  },
+  {
+    "id": "cargox",
+    "circulating_supply": 167160147.72525844,
+    "total_supply": 215119016.0,
+    "max_supply": null
+  },
+  {
+    "id": "sanctum-2",
+    "circulating_supply": 330679783.42,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "orchid-protocol",
+    "circulating_supply": 591544728.9516798,
+    "total_supply": 1000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "endurance",
+    "circulating_supply": 65582298.0,
+    "total_supply": 146307870.0,
+    "max_supply": 147000000.0
+  },
+  {
+    "id": "zksync-bridged-usdc-zksync",
+    "circulating_supply": 31340510.237163,
+    "total_supply": 31340510.237163,
+    "max_supply": null
+  },
+  {
+    "id": "radicle",
+    "circulating_supply": 49829110.566345654,
+    "total_supply": 99998580.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "tree-capital",
+    "circulating_supply": 101361867.09737062,
+    "total_supply": 117410811.82788448,
+    "max_supply": 200000000.0
+  },
+  {
+    "id": "xion-2",
+    "circulating_supply": 37346990.027499,
+    "total_supply": 200000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "acala",
+    "circulating_supply": 1166666660.0,
+    "total_supply": 1600000000.0,
+    "max_supply": 1600000000.0
+  },
+  {
+    "id": "thala-apt",
+    "circulating_supply": 7075140.2,
+    "total_supply": 7075140.2,
+    "max_supply": null
+  },
+  {
+    "id": "airtor-protocol",
+    "circulating_supply": 79937689.60971649,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "dacxi",
+    "circulating_supply": 10000000000.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "lofi-2",
+    "circulating_supply": 1000000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "veraone",
+    "circulating_supply": 291709.57555892,
+    "total_supply": 291709.57555892,
+    "max_supply": null
+  },
+  {
+    "id": "kokok-the-roach",
+    "circulating_supply": 199997909.13,
+    "total_supply": 199997909.13,
+    "max_supply": 199997909.13
+  },
+  {
+    "id": "international-meme-fund",
+    "circulating_supply": 31188908.77891933,
+    "total_supply": 33000000.0,
+    "max_supply": 33000000.0
+  },
+  {
+    "id": "hegic",
+    "circulating_supply": 1077684725.0,
+    "total_supply": 1077684725.0,
+    "max_supply": 1077684725.0
+  },
+  {
+    "id": "suilend",
+    "circulating_supply": 70547755.67,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "slash-vision-labs",
+    "circulating_supply": 4939640210.64,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "build-on-bnb",
+    "circulating_supply": 420690000000000.0,
+    "total_supply": 420690000000000.0,
+    "max_supply": 420690000000000.0
+  },
+  {
+    "id": "gamebitcoin-power",
+    "circulating_supply": 1093678866.1369364,
+    "total_supply": 5000000000.0,
+    "max_supply": 20000000000.0
+  },
+  {
+    "id": "nobody-sausage",
+    "circulating_supply": 936066540.3453757,
+    "total_supply": 936066540.3453757,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "zeus-netwok-zbtc",
+    "circulating_supply": 280.24026098,
+    "total_supply": 280.24026098,
+    "max_supply": 21000000.0
+  },
+  {
+    "id": "soon-2",
+    "circulating_supply": 186900000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "ancient8",
+    "circulating_supply": 300140303.7,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "paraswap",
+    "circulating_supply": 1552281489.7656646,
+    "total_supply": 1800000000.0,
+    "max_supply": 2000000000.0
+  },
+  {
+    "id": "aquarius",
+    "circulating_supply": 34879182278.5148,
+    "total_supply": 99971232585.0,
+    "max_supply": 100000000000.0
+  },
+  {
+    "id": "tether-rainbow-bridge",
+    "circulating_supply": 30131756.0,
+    "total_supply": 30131756.0,
+    "max_supply": null
+  },
+  {
+    "id": "nodeai",
+    "circulating_supply": 97153156.22085401,
+    "total_supply": 99573272.7323965,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "stader-maticx",
+    "circulating_supply": 139754965.9328287,
+    "total_supply": 139754965.9328287,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "sdola",
+    "circulating_supply": 26429319.41758689,
+    "total_supply": 26669648.225432,
+    "max_supply": null
+  },
+  {
+    "id": "spark-2",
+    "circulating_supply": 941384354.4748789,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "groestlcoin",
+    "circulating_supply": 87910958.88736624,
+    "total_supply": 87924703.88736624,
+    "max_supply": 105000000.0
+  },
+  {
+    "id": "dao-maker",
+    "circulating_supply": 250926000.0,
+    "total_supply": 277524000.0,
+    "max_supply": 277524000.0
+  },
+  {
+    "id": "gearbox",
+    "circulating_supply": 10000000000.0,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "polygon-hermez-bridged-usdt-x-layer",
+    "circulating_supply": 29802804.961311,
+    "total_supply": 29802804.961311,
+    "max_supply": null
+  },
+  {
+    "id": "wojak",
+    "circulating_supply": 69420000000.0,
+    "total_supply": 69420000000.0,
+    "max_supply": 69420000000.0
+  },
+  {
+    "id": "ix-swap",
+    "circulating_supply": 180000000.0,
+    "total_supply": 180000000.0,
+    "max_supply": 180000000.0
+  },
+  {
+    "id": "agi-alpha-agent",
+    "circulating_supply": 999988567.480415,
+    "total_supply": 999988567.480415,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "lorenzo-protocol",
+    "circulating_supply": 425250000.0,
+    "total_supply": 425250000.0,
+    "max_supply": 2100000000.0
+  },
+  {
+    "id": "kyros-restaked-sol",
+    "circulating_supply": 160587.636686002,
+    "total_supply": 160587.636686002,
+    "max_supply": null
+  },
+  {
+    "id": "astherus-staked-usdf",
+    "circulating_supply": 28810138.01,
+    "total_supply": 28810138.01,
+    "max_supply": null
+  },
+  {
+    "id": "elysia",
+    "circulating_supply": 6803300704.688,
+    "total_supply": 6803300704.688,
+    "max_supply": 7000000000.0
+  },
+  {
+    "id": "elastos",
+    "circulating_supply": 22807942.0,
+    "total_supply": 25993267.0,
+    "max_supply": 28219999.0
+  },
+  {
+    "id": "messier",
+    "circulating_supply": 884846293943.9,
+    "total_supply": 884846293943.9,
+    "max_supply": 884846293943.9
+  },
+  {
+    "id": "mister-miggles",
+    "circulating_supply": 958764687.5052289,
+    "total_supply": 958764687.5052289,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "layer3",
+    "circulating_supply": 659367501.2900008,
+    "total_supply": 3333333333.0,
+    "max_supply": 3333333333.0
+  },
+  {
+    "id": "bridged-usd-coin-starkgate",
+    "circulating_supply": 28894920.123572,
+    "total_supply": 28894920.123572,
+    "max_supply": null
+  },
+  {
+    "id": "firmachain",
+    "circulating_supply": 1019788306.804057,
+    "total_supply": 1032776634.975372,
+    "max_supply": null
+  },
+  {
+    "id": "oho-blockchain",
+    "circulating_supply": 24143656936.70992,
+    "total_supply": 45000000000.0,
+    "max_supply": 45000000000.0
+  },
+  {
+    "id": "quai-network",
+    "circulating_supply": 500708204.0,
+    "total_supply": 3000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "puffer-finance",
+    "circulating_supply": 175949105.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "wayfinder",
+    "circulating_supply": 223900304.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "kujira",
+    "circulating_supply": 122343777.804296,
+    "total_supply": 122374481.990696,
+    "max_supply": 122398170.0
+  },
+  {
+    "id": "vine",
+    "circulating_supply": 999982283.666949,
+    "total_supply": 999982283.666949,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "shardus",
+    "circulating_supply": 439556760.33010703,
+    "total_supply": 1000000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "metamui",
+    "circulating_supply": 476259078.092127,
+    "total_supply": 800000000.0,
+    "max_supply": 800000000.0
+  },
+  {
+    "id": "wibegram",
+    "circulating_supply": 20385664.0,
+    "total_supply": 300000000.0,
+    "max_supply": 300000000.0
+  },
+  {
+    "id": "mossland",
+    "circulating_supply": 431489688.0,
+    "total_supply": 500000000.0,
+    "max_supply": 500000000.0
+  },
+  {
+    "id": "myria",
+    "circulating_supply": 28293011843.0,
+    "total_supply": 50000000000.0,
+    "max_supply": 50000000000.0
+  },
+  {
+    "id": "tao-bot",
+    "circulating_supply": 80034999.99,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "verse-world",
+    "circulating_supply": 99999991.408638,
+    "total_supply": 999999822.460491,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "gems-vip",
+    "circulating_supply": 458295472.59002817,
+    "total_supply": 838793459.2524238,
+    "max_supply": null
+  },
+  {
+    "id": "neuralai",
+    "circulating_supply": 10000000.0,
+    "total_supply": 10000000.0,
+    "max_supply": 10000000.0
+  },
+  {
+    "id": "alpha-quark-token",
+    "circulating_supply": 26806201.0,
+    "total_supply": 30000000.0,
+    "max_supply": 30000000.0
+  },
+  {
+    "id": "marcopolo",
+    "circulating_supply": 5900959181.704679,
+    "total_supply": 9697223991.055454,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "hypurr-fun",
+    "circulating_supply": 996376.54109394,
+    "total_supply": 996376.58484604,
+    "max_supply": 1000000.0
+  },
+  {
+    "id": "meow",
+    "circulating_supply": 89999902395.87439,
+    "total_supply": 89999902395.87439,
+    "max_supply": 90000000000.0
+  },
+  {
+    "id": "novem-gold",
+    "circulating_supply": 211882.5196071621,
+    "total_supply": 211882.5196071621,
+    "max_supply": null
+  },
+  {
+    "id": "mimatic",
+    "circulating_supply": 27563986.7347571,
+    "total_supply": 302380931.6144716,
+    "max_supply": null
+  },
+  {
+    "id": "saucerswap",
+    "circulating_supply": 835798876.482138,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "automata",
+    "circulating_supply": 587792028.2579365,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "seth",
+    "circulating_supply": 11584.25414847524,
+    "total_supply": 11584.25414847524,
+    "max_supply": 11584.25414847524
+  },
+  {
+    "id": "syscoin",
+    "circulating_supply": 822889591.4337623,
+    "total_supply": 823021886.4512916,
+    "max_supply": null
+  },
+  {
+    "id": "pirate-chain",
+    "circulating_supply": 196213797.97055,
+    "total_supply": 200000000.0,
+    "max_supply": null
+  },
+  {
+    "id": "vitadao",
+    "circulating_supply": 25340946.97821589,
+    "total_supply": 27219552.0,
+    "max_supply": 64298880.0
+  },
+  {
+    "id": "bedrock-token",
+    "circulating_supply": 210000000.0,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "the-arena",
+    "circulating_supply": 2661164839.1011634,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "ankreth",
+    "circulating_supply": 8772.550219398394,
+    "total_supply": 8772.550219398394,
+    "max_supply": null
+  },
+  {
+    "id": "strike-2",
+    "circulating_supply": 18000000.0,
+    "total_supply": 25000000.0,
+    "max_supply": 25000000.0
+  },
+  {
+    "id": "monerium-eur-money-2",
+    "circulating_supply": 22782498.10806839,
+    "total_supply": 22800128.10806839,
+    "max_supply": null
+  },
+  {
+    "id": "staked-frax-usd",
+    "circulating_supply": 23383424.9198992,
+    "total_supply": 23383424.9198992,
+    "max_supply": null
+  },
+  {
+    "id": "mcdull",
+    "circulating_supply": 8888887521443.168,
+    "total_supply": 8888887521443.168,
+    "max_supply": 8888888881996.0
+  },
+  {
+    "id": "limewire-token",
+    "circulating_supply": 348295366.61402553,
+    "total_supply": 633045269.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "thought",
+    "circulating_supply": 531054011.48,
+    "total_supply": 1556342018.0,
+    "max_supply": 1618033988.0
+  },
+  {
+    "id": "stake-link",
+    "circulating_supply": 58022333.74,
+    "total_supply": 100000000.0,
+    "max_supply": 100000000.0
+  },
+  {
+    "id": "zerebro",
+    "circulating_supply": 999956259.546956,
+    "total_supply": 999956259.546956,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "netmind-token",
+    "circulating_supply": 50038512.45990732,
+    "total_supply": 144080375.2,
+    "max_supply": 144080375.2
+  },
+  {
+    "id": "ampleforth-governance-token",
+    "circulating_supply": 11453546.447170038,
+    "total_supply": 15297897.14455933,
+    "max_supply": null
+  },
+  {
+    "id": "revox",
+    "circulating_supply": 2021659479.0,
+    "total_supply": 3000000000.0,
+    "max_supply": 3000000000.0
+  },
+  {
+    "id": "ai-rig-complex",
+    "circulating_supply": 999993234.112964,
+    "total_supply": 999993234.112964,
+    "max_supply": 999998319.33
+  },
+  {
+    "id": "fair-and-free",
+    "circulating_supply": 935814213.09638,
+    "total_supply": 935814213.09638,
+    "max_supply": 935814213.09638
+  },
+  {
+    "id": "dusk-network",
+    "circulating_supply": 500000000.0,
+    "total_supply": 500000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "dforce-token",
+    "circulating_supply": 999926146.6275177,
+    "total_supply": 999926146.6275177,
+    "max_supply": 999926146.6275177
+  },
+  {
+    "id": "nfprompt-token",
+    "circulating_supply": 472796409.4379452,
+    "total_supply": 1000000000.0,
+    "max_supply": 1000000000.0
+  },
+  {
+    "id": "a-hunters-dream",
+    "circulating_supply": 636666666666666.0,
+    "total_supply": 666666666666666.0,
+    "max_supply": 666666666666666.0
+  },
+  {
+    "id": "maverick-protocol",
+    "circulating_supply": 656561680.1811638,
+    "total_supply": 2000000000.0,
+    "max_supply": 2000000000.0
+  },
+  {
+    "id": "bakerytoken",
+    "circulating_supply": 288705144.0,
+    "total_supply": 289770497.63421583,
+    "max_supply": 731535869.956306
+  },
+  {
+    "id": "zora",
+    "circulating_supply": 3150140553.156582,
+    "total_supply": 10000000000.0,
+    "max_supply": 10000000000.0
+  },
+  {
+    "id": "aegis-yusd",
+    "circulating_supply": 25560039.11137762,
+    "total_supply": 25560039.11137762,
+    "max_supply": null
+  },
+  {
+    "id": "stader",
+    "circulating_supply": 60677037.73519339,
+    "total_supply": 120000000.0,
+    "max_supply": 150000000.0
+  },
+  {
+    "id": "electronic-usd",
+    "circulating_supply": 25483581.87770205,
+    "total_supply": 25483581.87770205,
+    "max_supply": null
+  },
+  {
+    "id": "pangolin",
+    "circulating_supply": 220373971.0,
+    "total_supply": 538000000.0,
+    "max_supply": 538000000.0
+  },
+  {
+    "id": "pixels",
+    "circulating_supply": 771041667.0,
+    "total_supply": 5000000000.0,
+    "max_supply": 5000000000.0
+  },
+  {
+    "id": "pinksale",
+    "circulating_supply": 100000.0,
+    "total_supply": 100000.0,
+    "max_supply": 100000.0
+  },
+  {
+    "id": "fuzzybear",
+    "circulating_supply": 317770791933.93085,
+    "total_supply": 320999751125.9999,
+    "max_supply": 321000000000.0
+  },
+  {
+    "id": "bxn",
+    "circulating_supply": 15544376864.95759,
+    "total_supply": 49999999999.0,
+    "max_supply": 49999999999.0
+  }
+]

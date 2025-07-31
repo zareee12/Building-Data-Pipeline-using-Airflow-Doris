@@ -1,0 +1,134 @@
+[2025-07-30T14:13:08.513+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-07-30T14:13:08.540+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_json_to_doris.truncate_supply_data manual__2025-07-30T14:13:04.204461+00:00 [queued]>
+[2025-07-30T14:13:08.548+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_json_to_doris.truncate_supply_data manual__2025-07-30T14:13:04.204461+00:00 [queued]>
+[2025-07-30T14:13:08.548+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 2
+[2025-07-30T14:13:08.560+0000] {taskinstance.py:2888} INFO - Executing <Task(SQLExecuteQueryOperator): truncate_supply_data> on 2025-07-30 14:13:04.204461+00:00
+[2025-07-30T14:13:08.578+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=775) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-07-30T14:13:08.584+0000] {standard_task_runner.py:72} INFO - Started process 786 to run task
+[2025-07-30T14:13:08.584+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'dag_json_to_doris', 'truncate_supply_data', 'manual__2025-07-30T14:13:04.204461+00:00', '--job-id', '118', '--raw', '--subdir', 'DAGS_FOLDER/dag_json_to_doris.py', '--cfg-path', '/tmp/tmp_ot1dz31']
+[2025-07-30T14:13:08.602+0000] {standard_task_runner.py:105} INFO - Job 118: Subtask truncate_supply_data
+[2025-07-30T14:13:08.912+0000] {task_command.py:467} INFO - Running <TaskInstance: dag_json_to_doris.truncate_supply_data manual__2025-07-30T14:13:04.204461+00:00 [running]> on host 980658594ec0
+[2025-07-30T14:13:18.208+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='reza' AIRFLOW_CTX_DAG_ID='dag_json_to_doris' AIRFLOW_CTX_TASK_ID='truncate_supply_data' AIRFLOW_CTX_EXECUTION_DATE='2025-07-30T14:13:04.204461+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-07-30T14:13:04.204461+00:00'
+[2025-07-30T14:13:18.246+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-07-30T14:13:18.248+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-07-30T14:13:18.253+0000] {logging_mixin.py:190} INFO - Current task name:truncate_supply_data state:running start_date:2025-07-30 14:13:08.540596+00:00
+[2025-07-30T14:13:18.255+0000] {logging_mixin.py:190} INFO - Dag name:dag_json_to_doris and current dag run status:running
+[2025-07-30T14:13:18.263+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-07-30T14:13:18.267+0000] {sql.py:266} INFO - Executing: truncate table raw.supply_data
+[2025-07-30T14:13:18.395+0000] {base.py:84} INFO - Retrieving connection 'mysql_doris_conn'
+[2025-07-30T14:13:18.466+0000] {base.py:84} INFO - Retrieving connection 'mysql_doris_conn'
+[2025-07-30T14:13:53.591+0000] {job.py:229} INFO - Heartbeat recovered after 25.19 seconds
+[2025-07-30T14:14:41.955+0000] {job.py:229} INFO - Heartbeat recovered after 11.43 seconds
+[2025-07-30T14:15:34.190+0000] {taskinstance.py:3310} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 767, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 733, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 406, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/common/sql/operators/sql.py", line 272, in execute
+    output = hook.run(
+             ^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/common/sql/hooks/sql.py", line 452, in run
+    with self._create_autocommit_connection(autocommit) as conn:
+  File "/usr/local/lib/python3.12/contextlib.py", line 137, in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/common/sql/hooks/sql.py", line 574, in _create_autocommit_connection
+    with closing(self.get_conn()) as conn:
+                 ^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/mysql/hooks/mysql.py", line 196, in get_conn
+    return MySQLdb.connect(**conn_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/MySQLdb/__init__.py", line 121, in Connect
+    return Connection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/MySQLdb/connections.py", line 195, in __init__
+    super().__init__(*args, **kwargs2)
+MySQLdb.OperationalError: (2002, "Can't connect to server on '172.20.80.2' (115)")
+[2025-07-30T14:16:16.035+0000] {job.py:229} INFO - Heartbeat recovered after 47.10 seconds
+[2025-07-30T14:16:16.965+0000] {logging_mixin.py:190} INFO - Task instance in failure state
+[2025-07-30T14:16:17.082+0000] {logging_mixin.py:190} INFO - Task start:2025-07-30 14:13:08.540596+00:00 end:2025-07-30 14:16:16.928032+00:00 duration:188.387436
+[2025-07-30T14:16:17.266+0000] {logging_mixin.py:190} INFO - Task:<Task(SQLExecuteQueryOperator): truncate_supply_data> dag:<DAG: dag_json_to_doris> dagrun:<DagRun dag_json_to_doris @ 2025-07-30 14:13:04.204461+00:00: manual__2025-07-30T14:13:04.204461+00:00, state:running, queued_at: 2025-07-30 14:13:04.238294+00:00. externally triggered: True>
+[2025-07-30T14:16:17.532+0000] {logging_mixin.py:190} INFO - Failure caused by (2002, "Can't connect to server on '172.20.80.2' (115)")
+[2025-07-30T14:16:18.366+0000] {taskinstance.py:1225} INFO - Marking task as UP_FOR_RETRY. dag_id=dag_json_to_doris, task_id=truncate_supply_data, run_id=manual__2025-07-30T14:13:04.204461+00:00, execution_date=20250730T141304, start_date=20250730T141308, end_date=20250730T141616
+[2025-07-30T14:17:04.771+0000] {job.py:229} INFO - Heartbeat recovered after 55.95 seconds
+[2025-07-30T14:17:31.599+0000] {job.py:229} INFO - Heartbeat recovered after 27.81 seconds
+[2025-07-30T14:17:32.008+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-07-30T14:17:32.081+0000] {standard_task_runner.py:124} ERROR - Failed to execute job 118 for task truncate_supply_data ((2002, "Can't connect to server on '172.20.80.2' (115)"); 786)
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py", line 117, in _start_by_fork
+    ret = args.func(args, dag=self.dag)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/cli_config.py", line 49, in command
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/cli.py", line 115, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 483, in task_run
+    task_return_code = _run_task_by_selected_method(args, _dag, ti)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 256, in _run_task_by_selected_method
+    return _run_raw_task(args, ti)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 341, in _run_raw_task
+    return ti._run_raw_task(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3004, in _run_raw_task
+    return _run_raw_task(
+           ^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 273, in _run_raw_task
+    TaskInstance._execute_task_with_callbacks(
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3158, in _execute_task_with_callbacks
+    result = self._execute_task(context, task_orig)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3182, in _execute_task
+    return _execute_task(self, context, task_orig)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 767, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 733, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 406, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/common/sql/operators/sql.py", line 272, in execute
+    output = hook.run(
+             ^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/common/sql/hooks/sql.py", line 452, in run
+    with self._create_autocommit_connection(autocommit) as conn:
+  File "/usr/local/lib/python3.12/contextlib.py", line 137, in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/common/sql/hooks/sql.py", line 574, in _create_autocommit_connection
+    with closing(self.get_conn()) as conn:
+                 ^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/mysql/hooks/mysql.py", line 196, in get_conn
+    return MySQLdb.connect(**conn_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/MySQLdb/__init__.py", line 121, in Connect
+    return Connection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/MySQLdb/connections.py", line 195, in __init__
+    super().__init__(*args, **kwargs2)
+MySQLdb.OperationalError: (2002, "Can't connect to server on '172.20.80.2' (115)")
+[2025-07-30T14:17:33.044+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 1
+[2025-07-30T14:17:33.452+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

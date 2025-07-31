@@ -1,0 +1,53 @@
+[2025-07-30T17:08:58.904+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-07-30T17:08:58.933+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_refined_to_business.exec_sql_supply_metrics manual__2025-07-30T17:08:20.152735+00:00 [queued]>
+[2025-07-30T17:08:58.938+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_refined_to_business.exec_sql_supply_metrics manual__2025-07-30T17:08:20.152735+00:00 [queued]>
+[2025-07-30T17:08:58.939+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 2
+[2025-07-30T17:08:58.955+0000] {taskinstance.py:2888} INFO - Executing <Task(SQLExecuteQueryOperator): exec_sql_supply_metrics> on 2025-07-30 17:08:20.152735+00:00
+[2025-07-30T17:08:58.998+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=1375) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-07-30T17:08:59.004+0000] {standard_task_runner.py:72} INFO - Started process 1381 to run task
+[2025-07-30T17:08:59.006+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'dag_refined_to_business', 'exec_sql_supply_metrics', 'manual__2025-07-30T17:08:20.152735+00:00', '--job-id', '212', '--raw', '--subdir', 'DAGS_FOLDER/dag_redined_to_business.py', '--cfg-path', '/tmp/tmpggorsxeu']
+[2025-07-30T17:08:59.009+0000] {standard_task_runner.py:105} INFO - Job 212: Subtask exec_sql_supply_metrics
+[2025-07-30T17:08:59.087+0000] {task_command.py:467} INFO - Running <TaskInstance: dag_refined_to_business.exec_sql_supply_metrics manual__2025-07-30T17:08:20.152735+00:00 [running]> on host 7609641ebe00
+[2025-07-30T17:08:59.194+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='reza' AIRFLOW_CTX_DAG_ID='dag_refined_to_business' AIRFLOW_CTX_TASK_ID='exec_sql_supply_metrics' AIRFLOW_CTX_EXECUTION_DATE='2025-07-30T17:08:20.152735+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-07-30T17:08:20.152735+00:00'
+[2025-07-30T17:08:59.200+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-07-30T17:08:59.201+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-07-30T17:08:59.201+0000] {logging_mixin.py:190} INFO - Current task name:exec_sql_supply_metrics state:running start_date:2025-07-30 17:08:58.933513+00:00
+[2025-07-30T17:08:59.202+0000] {logging_mixin.py:190} INFO - Dag name:dag_refined_to_business and current dag run status:running
+[2025-07-30T17:08:59.203+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-07-30T17:08:59.204+0000] {sql.py:266} INFO - Executing: INSERT INTO business.supply_metrics
+SELECT
+  symbol,
+  circulating_supply,
+  total_supply,
+  max_supply,
+  CASE
+    WHEN max_supply = 0 THEN NULL
+    ELSE (circulating_supply / max_supply) * 100
+  END AS supply_utilization_pct
+FROM refined.coingecko_flat;
+
+[2025-07-30T17:08:59.227+0000] {base.py:84} INFO - Retrieving connection 'mysql_doris_conn'
+[2025-07-30T17:08:59.240+0000] {base.py:84} INFO - Retrieving connection 'mysql_doris_conn'
+[2025-07-30T17:08:59.451+0000] {sql.py:509} INFO - Running statement: INSERT INTO business.supply_metrics
+SELECT
+  symbol,
+  circulating_supply,
+  total_supply,
+  max_supply,
+  CASE
+    WHEN max_supply = 0 THEN NULL
+    ELSE (circulating_supply / max_supply) * 100
+  END AS supply_utilization_pct
+FROM refined.coingecko_flat;
+, parameters: None
+[2025-07-30T17:09:00.031+0000] {sql.py:518} INFO - Rows affected: 1000
+[2025-07-30T17:09:00.180+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-07-30T17:09:00.187+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=dag_refined_to_business, task_id=exec_sql_supply_metrics, run_id=manual__2025-07-30T17:08:20.152735+00:00, execution_date=20250730T170820, start_date=20250730T170858, end_date=20250730T170900
+[2025-07-30T17:09:00.283+0000] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-07-30T17:09:00.284+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-07-30T17:09:00.285+0000] {logging_mixin.py:190} INFO - Dag name:dag_refined_to_business queued_at:2025-07-30 17:08:20.197823+00:00
+[2025-07-30T17:09:00.286+0000] {logging_mixin.py:190} INFO - Task hostname:7609641ebe00 operator:SQLExecuteQueryOperator
+[2025-07-30T17:09:00.354+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-07-30T17:09:00.451+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

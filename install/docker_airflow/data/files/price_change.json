@@ -1,0 +1,7002 @@
+[
+  {
+    "id": "bitcoin",
+    "price_change_24h": -461.55638508214906,
+    "price_change_percentage_24h": -0.42417,
+    "ath": 111814,
+    "atl": 67.81
+  },
+  {
+    "id": "ethereum",
+    "price_change_24h": -22.771972489187647,
+    "price_change_percentage_24h": -0.89016,
+    "ath": 4878.26,
+    "atl": 0.432979
+  },
+  {
+    "id": "tether",
+    "price_change_24h": -0.000188737184002807,
+    "price_change_percentage_24h": -0.01887,
+    "ath": 1.32,
+    "atl": 0.572521
+  },
+  {
+    "id": "ripple",
+    "price_change_24h": 0.051739,
+    "price_change_percentage_24h": 2.27884,
+    "ath": 3.4,
+    "atl": 0.00268621
+  },
+  {
+    "id": "binancecoin",
+    "price_change_24h": -2.4030820568586932,
+    "price_change_percentage_24h": -0.36299,
+    "ath": 788.84,
+    "atl": 0.0398177
+  },
+  {
+    "id": "solana",
+    "price_change_24h": 0.252619,
+    "price_change_percentage_24h": 0.16675,
+    "ath": 293.31,
+    "atl": 0.500801
+  },
+  {
+    "id": "usd-coin",
+    "price_change_24h": -2.13018113704e-07,
+    "price_change_percentage_24h": -2e-05,
+    "ath": 1.17,
+    "atl": 0.877647
+  },
+  {
+    "id": "tron",
+    "price_change_24h": 0.00136165,
+    "price_change_percentage_24h": 0.47708,
+    "ath": 0.431288,
+    "atl": 0.00180434
+  },
+  {
+    "id": "dogecoin",
+    "price_change_24h": -0.002137533151355092,
+    "price_change_percentage_24h": -1.2528,
+    "ath": 0.731578,
+    "atl": 8.69e-05
+  },
+  {
+    "id": "staked-ether",
+    "price_change_24h": -23.086244363571495,
+    "price_change_percentage_24h": -0.90272,
+    "ath": 4829.57,
+    "atl": 482.9
+  },
+  {
+    "id": "cardano",
+    "price_change_24h": 0.00010398,
+    "price_change_percentage_24h": 0.01781,
+    "ath": 3.09,
+    "atl": 0.01925275
+  },
+  {
+    "id": "wrapped-bitcoin",
+    "price_change_24h": -695.2194323003059,
+    "price_change_percentage_24h": -0.63841,
+    "ath": 111685,
+    "atl": 3139.17
+  },
+  {
+    "id": "hyperliquid",
+    "price_change_24h": 0.372031,
+    "price_change_percentage_24h": 0.94895,
+    "ath": 45.57,
+    "atl": 3.81
+  },
+  {
+    "id": "wrapped-steth",
+    "price_change_24h": -18.533233872073197,
+    "price_change_percentage_24h": -0.60173,
+    "ath": 7256.02,
+    "atl": 558.54
+  },
+  {
+    "id": "sui",
+    "price_change_24h": -0.02934027744017431,
+    "price_change_percentage_24h": -1.00673,
+    "ath": 5.35,
+    "atl": 0.364846
+  },
+  {
+    "id": "bitcoin-cash",
+    "price_change_24h": 3.82,
+    "price_change_percentage_24h": 0.7767,
+    "ath": 3785.82,
+    "atl": 76.93
+  },
+  {
+    "id": "chainlink",
+    "price_change_24h": 0.0933,
+    "price_change_percentage_24h": 0.69537,
+    "ath": 52.7,
+    "atl": 0.148183
+  },
+  {
+    "id": "leo-token",
+    "price_change_24h": 0.03507954,
+    "price_change_percentage_24h": 0.38827,
+    "ath": 10.14,
+    "atl": 0.799859
+  },
+  {
+    "id": "stellar",
+    "price_change_24h": 0.00967835,
+    "price_change_percentage_24h": 3.97892,
+    "ath": 0.875563,
+    "atl": 0.00047612
+  },
+  {
+    "id": "avalanche-2",
+    "price_change_24h": -0.11750543841890604,
+    "price_change_percentage_24h": -0.64733,
+    "ath": 144.96,
+    "atl": 2.8
+  },
+  {
+    "id": "usds",
+    "price_change_24h": -0.000145188944438934,
+    "price_change_percentage_24h": -0.01452,
+    "ath": 1.057,
+    "atl": 0.948265
+  },
+  {
+    "id": "the-open-network",
+    "price_change_24h": -0.10248629500847617,
+    "price_change_percentage_24h": -3.54683,
+    "ath": 8.25,
+    "atl": 0.519364
+  },
+  {
+    "id": "shiba-inu",
+    "price_change_24h": -1.78694743085e-07,
+    "price_change_percentage_24h": -1.51606,
+    "ath": 8.616e-05,
+    "atl": 5.6366e-11
+  },
+  {
+    "id": "wrapped-eeth",
+    "price_change_24h": -23.3980219581822,
+    "price_change_percentage_24h": -0.85396,
+    "ath": 4311.81,
+    "atl": 1505.24
+  },
+  {
+    "id": "hedera-hashgraph",
+    "price_change_24h": 0.00194074,
+    "price_change_percentage_24h": 1.23499,
+    "ath": 0.569229,
+    "atl": 0.00986111
+  },
+  {
+    "id": "weth",
+    "price_change_24h": -21.957475843579687,
+    "price_change_percentage_24h": -0.8585,
+    "ath": 4799.89,
+    "atl": 82.1
+  },
+  {
+    "id": "litecoin",
+    "price_change_24h": -1.4469866062451615,
+    "price_change_percentage_24h": -1.64571,
+    "ath": 410.26,
+    "atl": 1.15
+  },
+  {
+    "id": "whitebit",
+    "price_change_24h": -0.02246750182504087,
+    "price_change_percentage_24h": -0.04986,
+    "ath": 52.27,
+    "atl": 3.06
+  },
+  {
+    "id": "binance-bridged-usdt-bnb-smart-chain",
+    "price_change_24h": 0.0017786,
+    "price_change_percentage_24h": 0.17796,
+    "ath": 1.05,
+    "atl": 0.942186
+  },
+  {
+    "id": "monero",
+    "price_change_24h": -1.9058864741501225,
+    "price_change_percentage_24h": -0.6024,
+    "ath": 542.33,
+    "atl": 0.216177
+  },
+  {
+    "id": "coinbase-wrapped-btc",
+    "price_change_24h": -262.54361947480356,
+    "price_change_percentage_24h": -0.24164,
+    "ath": 112129,
+    "atl": 57439
+  },
+  {
+    "id": "ethena-usde",
+    "price_change_24h": 1.09447e-07,
+    "price_change_percentage_24h": 1e-05,
+    "ath": 1.032,
+    "atl": 0.929486
+  },
+  {
+    "id": "polkadot",
+    "price_change_24h": -0.003609275028968462,
+    "price_change_percentage_24h": -0.10645,
+    "ath": 54.98,
+    "atl": 2.7
+  },
+  {
+    "id": "bitget-token",
+    "price_change_24h": -0.07740862728572306,
+    "price_change_percentage_24h": -1.76073,
+    "ath": 8.45,
+    "atl": 0.0142795
+  },
+  {
+    "id": "uniswap",
+    "price_change_24h": -0.07916172324157422,
+    "price_change_percentage_24h": -1.07112,
+    "ath": 44.92,
+    "atl": 1.03
+  },
+  {
+    "id": "aave",
+    "price_change_24h": 10.42,
+    "price_change_percentage_24h": 3.76247,
+    "ath": 661.69,
+    "atl": 26.02
+  },
+  {
+    "id": "pepe",
+    "price_change_24h": -8.0428448829e-08,
+    "price_change_percentage_24h": -0.80374,
+    "ath": 2.803e-05,
+    "atl": 5.5142e-08
+  },
+  {
+    "id": "dai",
+    "price_change_24h": 5.85e-06,
+    "price_change_percentage_24h": 0.00058,
+    "ath": 1.22,
+    "atl": 0.88196
+  },
+  {
+    "id": "pi-network",
+    "price_change_24h": 0.00186099,
+    "price_change_percentage_24h": 0.40704,
+    "ath": 2.99,
+    "atl": 0.406999
+  },
+  {
+    "id": "ethena-staked-usde",
+    "price_change_24h": -2.829441642538e-06,
+    "price_change_percentage_24h": -0.00024,
+    "ath": 1.29,
+    "atl": 1.012
+  },
+  {
+    "id": "okb",
+    "price_change_24h": -0.4868312171708311,
+    "price_change_percentage_24h": -0.99658,
+    "ath": 73.8,
+    "atl": 0.580608
+  },
+  {
+    "id": "bittensor",
+    "price_change_24h": -4.493155919587366,
+    "price_change_percentage_24h": -1.37511,
+    "ath": 757.6,
+    "atl": 30.83
+  },
+  {
+    "id": "aptos",
+    "price_change_24h": -0.02339555043956132,
+    "price_change_percentage_24h": -0.52461,
+    "ath": 19.92,
+    "atl": 3.08
+  },
+  {
+    "id": "blackrock-usd-institutional-digital-liquidity-fund",
+    "price_change_24h": 0.0,
+    "price_change_percentage_24h": 0.0,
+    "ath": 1.0,
+    "atl": 1.0
+  },
+  {
+    "id": "jito-staked-sol",
+    "price_change_24h": 0.665132,
+    "price_change_percentage_24h": 0.36129,
+    "ath": 339.52,
+    "atl": 0.57898
+  },
+  {
+    "id": "near",
+    "price_change_24h": -0.00571459421692877,
+    "price_change_percentage_24h": -0.26373,
+    "ath": 20.44,
+    "atl": 0.526762
+  },
+  {
+    "id": "internet-computer",
+    "price_change_24h": -0.03438015358739577,
+    "price_change_percentage_24h": -0.71425,
+    "ath": 700.65,
+    "atl": 2.87
+  },
+  {
+    "id": "crypto-com-chain",
+    "price_change_24h": -0.000298870497509499,
+    "price_change_percentage_24h": -0.36694,
+    "ath": 0.965407,
+    "atl": 0.0121196
+  },
+  {
+    "id": "ethereum-classic",
+    "price_change_24h": -0.10345312292000841,
+    "price_change_percentage_24h": -0.62252,
+    "ath": 167.09,
+    "atl": 0.615038
+  },
+  {
+    "id": "ondo-finance",
+    "price_change_24h": -0.006607249764056577,
+    "price_change_percentage_24h": -0.83517,
+    "ath": 2.14,
+    "atl": 0.082171
+  },
+  {
+    "id": "susds",
+    "price_change_24h": 0.00027865,
+    "price_change_percentage_24h": 0.02634,
+    "ath": 1.088,
+    "atl": 0.961716
+  },
+  {
+    "id": "usd1-wlfi",
+    "price_change_24h": 0.00046324,
+    "price_change_percentage_24h": 0.04634,
+    "ath": 1.025,
+    "atl": 0.989703
+  },
+  {
+    "id": "kaspa",
+    "price_change_24h": -0.00107452312876985,
+    "price_change_percentage_24h": -1.40104,
+    "ath": 0.207411,
+    "atl": 0.00017105
+  },
+  {
+    "id": "mantle",
+    "price_change_24h": -0.002778584102117732,
+    "price_change_percentage_24h": -0.48476,
+    "ath": 1.54,
+    "atl": 0.307978
+  },
+  {
+    "id": "fasttoken",
+    "price_change_24h": 0.00349149,
+    "price_change_percentage_24h": 0.07872,
+    "ath": 4.46,
+    "atl": 0.398142
+  },
+  {
+    "id": "cosmos",
+    "price_change_24h": 0.01552911,
+    "price_change_percentage_24h": 0.38329,
+    "ath": 44.45,
+    "atl": 1.16
+  },
+  {
+    "id": "gatechain-token",
+    "price_change_24h": 0.159571,
+    "price_change_percentage_24h": 1.03497,
+    "ath": 25.94,
+    "atl": 0.25754
+  },
+  {
+    "id": "vechain",
+    "price_change_24h": -0.000340374379812384,
+    "price_change_percentage_24h": -1.62828,
+    "ath": 0.280991,
+    "atl": 0.00191713
+  },
+  {
+    "id": "fetch-ai",
+    "price_change_24h": -0.007580050600439425,
+    "price_change_percentage_24h": -1.12514,
+    "ath": 3.45,
+    "atl": 0.00816959
+  },
+  {
+    "id": "bonk",
+    "price_change_24h": -1.09148527886e-07,
+    "price_change_percentage_24h": -0.48681,
+    "ath": 5.825e-05,
+    "atl": 8.6142e-08
+  },
+  {
+    "id": "official-trump",
+    "price_change_24h": 0.0295239,
+    "price_change_percentage_24h": 0.3443,
+    "ath": 73.43,
+    "atl": 4.29
+  },
+  {
+    "id": "sky",
+    "price_change_24h": 0.0009023,
+    "price_change_percentage_24h": 1.16367,
+    "ath": 0.100535,
+    "atl": 0.03582727
+  },
+  {
+    "id": "polygon-ecosystem-token",
+    "price_change_24h": 0.00094413,
+    "price_change_percentage_24h": 0.51409,
+    "ath": 1.29,
+    "atl": 0.153392
+  },
+  {
+    "id": "ethena",
+    "price_change_24h": -0.000880421036446866,
+    "price_change_percentage_24h": -0.3393,
+    "ath": 1.52,
+    "atl": 0.195078
+  },
+  {
+    "id": "render-token",
+    "price_change_24h": -0.051553931043549994,
+    "price_change_percentage_24h": -1.59779,
+    "ath": 13.53,
+    "atl": 0.03665669
+  },
+  {
+    "id": "lombard-staked-btc",
+    "price_change_24h": -770.6428266683943,
+    "price_change_percentage_24h": -0.70785,
+    "ath": 114576,
+    "atl": 52119
+  },
+  {
+    "id": "arbitrum",
+    "price_change_24h": -0.002783936789473418,
+    "price_change_percentage_24h": -0.83856,
+    "ath": 2.39,
+    "atl": 0.245747
+  },
+  {
+    "id": "quant-network",
+    "price_change_24h": -1.734031553435841,
+    "price_change_percentage_24h": -1.58623,
+    "ath": 427.42,
+    "atl": 0.215773
+  },
+  {
+    "id": "filecoin",
+    "price_change_24h": -0.01958447946569386,
+    "price_change_percentage_24h": -0.85648,
+    "ath": 236.84,
+    "atl": 1.98
+  },
+  {
+    "id": "binance-peg-weth",
+    "price_change_24h": -20.459417428816778,
+    "price_change_percentage_24h": -0.79949,
+    "ath": 4098.26,
+    "atl": 1394.32
+  },
+  {
+    "id": "jupiter-perpetuals-liquidity-provider-token",
+    "price_change_24h": 0.00534543,
+    "price_change_percentage_24h": 0.11866,
+    "ath": 5.03,
+    "atl": 0.146839
+  },
+  {
+    "id": "algorand",
+    "price_change_24h": -0.001484060524041125,
+    "price_change_percentage_24h": -0.83946,
+    "ath": 3.56,
+    "atl": 0.087513
+  },
+  {
+    "id": "worldcoin-wld",
+    "price_change_24h": -0.007831979037106973,
+    "price_change_percentage_24h": -0.88862,
+    "ath": 11.74,
+    "atl": 0.583741
+  },
+  {
+    "id": "usdtb",
+    "price_change_24h": -8.1952542477559e-05,
+    "price_change_percentage_24h": -0.0082,
+    "ath": 1.018,
+    "atl": 0.986986
+  },
+  {
+    "id": "first-digital-usd",
+    "price_change_24h": 0.00142681,
+    "price_change_percentage_24h": 0.14314,
+    "ath": 1.15,
+    "atl": 0.940377
+  },
+  {
+    "id": "sei-network",
+    "price_change_24h": -0.006086672025682138,
+    "price_change_percentage_24h": -2.30896,
+    "ath": 1.14,
+    "atl": 0.095364
+  },
+  {
+    "id": "binance-staked-sol",
+    "price_change_24h": 0.293162,
+    "price_change_percentage_24h": 0.18229,
+    "ath": 297.96,
+    "atl": 100.21
+  },
+  {
+    "id": "kucoin-shares",
+    "price_change_24h": -0.07000746514128586,
+    "price_change_percentage_24h": -0.63369,
+    "ath": 28.83,
+    "atl": 0.342863
+  },
+  {
+    "id": "usdt0",
+    "price_change_24h": -0.000143377149882218,
+    "price_change_percentage_24h": -0.01435,
+    "ath": 1.052,
+    "atl": 0.975737
+  },
+  {
+    "id": "jupiter-exchange-solana",
+    "price_change_24h": -0.006715787610956536,
+    "price_change_percentage_24h": -1.50524,
+    "ath": 2.0,
+    "atl": 0.306358
+  },
+  {
+    "id": "kelp-dao-restaked-eth",
+    "price_change_24h": -23.269635700478375,
+    "price_change_percentage_24h": -0.86793,
+    "ath": 4216.2,
+    "atl": 1459.69
+  },
+  {
+    "id": "nexo",
+    "price_change_24h": -0.017679933859508612,
+    "price_change_percentage_24h": -1.435,
+    "ath": 4.07,
+    "atl": 0.04515276
+  },
+  {
+    "id": "spx6900",
+    "price_change_24h": 0.03723789,
+    "price_change_percentage_24h": 2.97346,
+    "ath": 1.73,
+    "atl": 0.00131808
+  },
+  {
+    "id": "rocket-pool-eth",
+    "price_change_24h": -25.42428404607017,
+    "price_change_percentage_24h": -0.87218,
+    "ath": 4814.31,
+    "atl": 887.26
+  },
+  {
+    "id": "fartcoin",
+    "price_change_24h": -0.015531363880358029,
+    "price_change_percentage_24h": -1.30645,
+    "ath": 2.48,
+    "atl": 0.02002855
+  },
+  {
+    "id": "flare-networks",
+    "price_change_24h": -0.000139798677670552,
+    "price_change_percentage_24h": -0.84138,
+    "ath": 0.150073,
+    "atl": 0.00827405
+  },
+  {
+    "id": "celestia",
+    "price_change_24h": 0.07067,
+    "price_change_percentage_24h": 4.66777,
+    "ath": 20.85,
+    "atl": 1.32
+  },
+  {
+    "id": "polygon-bridged-usdt-polygon",
+    "price_change_24h": -0.000135441006864245,
+    "price_change_percentage_24h": -0.01354,
+    "ath": 1.027,
+    "atl": 0.945933
+  },
+  {
+    "id": "xdce-crowd-sale",
+    "price_change_24h": -0.000339544492859889,
+    "price_change_percentage_24h": -0.51959,
+    "ath": 0.192754,
+    "atl": 0.00039532
+  },
+  {
+    "id": "injective-protocol",
+    "price_change_24h": -0.40121599216088555,
+    "price_change_percentage_24h": -3.70334,
+    "ath": 52.62,
+    "atl": 0.657401
+  },
+  {
+    "id": "binance-bridged-usdc-bnb-smart-chain",
+    "price_change_24h": 0.00081321,
+    "price_change_percentage_24h": 0.08133,
+    "ath": 1.031,
+    "atl": 0.942892
+  },
+  {
+    "id": "blockstack",
+    "price_change_24h": -0.01096531855444749,
+    "price_change_percentage_24h": -1.66297,
+    "ath": 3.86,
+    "atl": 0.04559639
+  },
+  {
+    "id": "sonic-3",
+    "price_change_24h": -0.003633284962500427,
+    "price_change_percentage_24h": -1.16912,
+    "ath": 1.029,
+    "atl": 0.250194
+  },
+  {
+    "id": "virtual-protocol",
+    "price_change_24h": -0.05592242579379869,
+    "price_change_percentage_24h": -3.59449,
+    "ath": 5.07,
+    "atl": 0.00748604
+  },
+  {
+    "id": "mantle-staked-ether",
+    "price_change_24h": -22.182553061220005,
+    "price_change_percentage_24h": -0.81197,
+    "ath": 4729.53,
+    "atl": 1485.62
+  },
+  {
+    "id": "syrupusdc",
+    "price_change_24h": 0.00053105,
+    "price_change_percentage_24h": 0.04785,
+    "ath": 1.11,
+    "atl": 1.07
+  },
+  {
+    "id": "stakewise-v3-oseth",
+    "price_change_24h": -23.86033328240319,
+    "price_change_percentage_24h": -0.88799,
+    "ath": 4228.59,
+    "atl": 1459.73
+  },
+  {
+    "id": "optimism",
+    "price_change_24h": -0.001879927267144588,
+    "price_change_percentage_24h": -0.34744,
+    "ath": 4.84,
+    "atl": 0.402159
+  },
+  {
+    "id": "pax-gold",
+    "price_change_24h": -14.537096954075878,
+    "price_change_percentage_24h": -0.43527,
+    "ath": 3518.57,
+    "atl": 1399.64
+  },
+  {
+    "id": "pudgy-penguins",
+    "price_change_24h": -0.001086527205765098,
+    "price_change_percentage_24h": -6.89544,
+    "ath": 0.068447,
+    "atl": 0.00371517
+  },
+  {
+    "id": "solv-btc",
+    "price_change_24h": -586.7126433374215,
+    "price_change_percentage_24h": -0.53861,
+    "ath": 111685,
+    "atl": 49058
+  },
+  {
+    "id": "arbitrum-bridged-wbtc-arbitrum-one",
+    "price_change_24h": -845.0248162552307,
+    "price_change_percentage_24h": -0.77617,
+    "ath": 111929,
+    "atl": 49594
+  },
+  {
+    "id": "story-2",
+    "price_change_24h": 0.03961499,
+    "price_change_percentage_24h": 1.29342,
+    "ath": 7.31,
+    "atl": 1.0
+  },
+  {
+    "id": "wbnb",
+    "price_change_24h": -1.8346508986242043,
+    "price_change_percentage_24h": -0.27705,
+    "ath": 789.32,
+    "atl": 23.6
+  },
+  {
+    "id": "kaia",
+    "price_change_24h": -0.001861010981703826,
+    "price_change_percentage_24h": -1.22733,
+    "ath": 0.406698,
+    "atl": 0.090737
+  },
+  {
+    "id": "paypal-usd",
+    "price_change_24h": -0.000371146628700747,
+    "price_change_percentage_24h": -0.03712,
+    "ath": 1.021,
+    "atl": 0.959426
+  },
+  {
+    "id": "renzo-restaked-eth",
+    "price_change_24h": -24.711642910011506,
+    "price_change_percentage_24h": -0.91915,
+    "ath": 4207.05,
+    "atl": 1454.43
+  },
+  {
+    "id": "dogwifcoin",
+    "price_change_24h": -0.04463476792235144,
+    "price_change_percentage_24h": -5.00373,
+    "ath": 4.83,
+    "atl": 0.00155464
+  },
+  {
+    "id": "clbtc",
+    "price_change_24h": -1114.4932480723655,
+    "price_change_percentage_24h": -1.01202,
+    "ath": 114212,
+    "atl": 51493
+  },
+  {
+    "id": "the-graph",
+    "price_change_24h": -0.000740992917697178,
+    "price_change_percentage_24h": -0.87779,
+    "ath": 2.84,
+    "atl": 0.052051
+  },
+  {
+    "id": "tether-gold",
+    "price_change_24h": -17.75536229760337,
+    "price_change_percentage_24h": -0.53261,
+    "ath": 3530.16,
+    "atl": 1447.84
+  },
+  {
+    "id": "jupiter-staked-sol",
+    "price_change_24h": 0.555847,
+    "price_change_percentage_24h": 0.32678,
+    "ath": 309.67,
+    "atl": 105.7
+  },
+  {
+    "id": "floki",
+    "price_change_24h": -1.262494993139e-06,
+    "price_change_percentage_24h": -1.51772,
+    "ath": 0.00034495,
+    "atl": 8.428e-08
+  },
+  {
+    "id": "pancakeswap-token",
+    "price_change_24h": -0.011423451079176417,
+    "price_change_percentage_24h": -0.50304,
+    "ath": 43.96,
+    "atl": 0.194441
+  },
+  {
+    "id": "immutable-x",
+    "price_change_24h": -0.007605722425961858,
+    "price_change_percentage_24h": -1.78905,
+    "ath": 9.52,
+    "atl": 0.343711
+  },
+  {
+    "id": "msol",
+    "price_change_24h": 0.570577,
+    "price_change_percentage_24h": 0.28815,
+    "ath": 363.77,
+    "atl": 8.93
+  },
+  {
+    "id": "vaulta",
+    "price_change_24h": -0.006110401934890153,
+    "price_change_percentage_24h": -1.26347,
+    "ath": 0.778734,
+    "atl": 0.455113
+  },
+  {
+    "id": "liquid-staked-ethereum",
+    "price_change_24h": -22.36865716550392,
+    "price_change_percentage_24h": -0.80916,
+    "ath": 4332.67,
+    "atl": 1384.61
+  },
+  {
+    "id": "ousg",
+    "price_change_24h": 0.0,
+    "price_change_percentage_24h": 0.0,
+    "ath": 111.69,
+    "atl": 95.09
+  },
+  {
+    "id": "theta-token",
+    "price_change_24h": -0.005857397556225163,
+    "price_change_percentage_24h": -0.83969,
+    "ath": 15.72,
+    "atl": 0.04039979
+  },
+  {
+    "id": "superstate-short-duration-us-government-securities-fund-ustb",
+    "price_change_24h": 0.001173,
+    "price_change_percentage_24h": 0.01093,
+    "ath": 10.74,
+    "atl": 10.29
+  },
+  {
+    "id": "curve-dao-token",
+    "price_change_24h": 0.00469718,
+    "price_change_percentage_24h": 0.94354,
+    "ath": 15.37,
+    "atl": 0.180354
+  },
+  {
+    "id": "usdx-money-usdx",
+    "price_change_24h": 6.29e-05,
+    "price_change_percentage_24h": 0.0063,
+    "ath": 1.057,
+    "atl": 0.944423
+  },
+  {
+    "id": "lido-dao",
+    "price_change_24h": -0.006270335398038118,
+    "price_change_percentage_24h": -0.84963,
+    "ath": 7.3,
+    "atl": 0.40615
+  },
+  {
+    "id": "jito-governance-token",
+    "price_change_24h": -0.08013876596903224,
+    "price_change_percentage_24h": -4.10865,
+    "ath": 6.01,
+    "atl": 1.43
+  },
+  {
+    "id": "gala",
+    "price_change_24h": -2.1990549178614e-05,
+    "price_change_percentage_24h": -0.15529,
+    "ath": 0.824837,
+    "atl": 0.00013475
+  },
+  {
+    "id": "ondo-us-dollar-yield",
+    "price_change_24h": 8.178e-05,
+    "price_change_percentage_24h": 0.00749,
+    "ath": 1.26,
+    "atl": 0.934184
+  },
+  {
+    "id": "zcash",
+    "price_change_24h": -0.30712374205634063,
+    "price_change_percentage_24h": -0.79172,
+    "ath": 3191.93,
+    "atl": 16.08
+  },
+  {
+    "id": "ethereum-name-service",
+    "price_change_24h": -0.1021885366536388,
+    "price_change_percentage_24h": -0.54754,
+    "ath": 83.4,
+    "atl": 6.69
+  },
+  {
+    "id": "saros-finance",
+    "price_change_24h": 0.01611585,
+    "price_change_percentage_24h": 7.38655,
+    "ath": 0.244821,
+    "atl": 0.00101093
+  },
+  {
+    "id": "wrapped-hype",
+    "price_change_24h": 0.347935,
+    "price_change_percentage_24h": 0.88784,
+    "ath": 45.59,
+    "atl": 9.43
+  },
+  {
+    "id": "iota",
+    "price_change_24h": -0.000351418882658411,
+    "price_change_percentage_24h": -0.2215,
+    "ath": 5.25,
+    "atl": 0.081637
+  },
+  {
+    "id": "bittorrent",
+    "price_change_24h": 6.3499e-10,
+    "price_change_percentage_24h": 0.10449,
+    "ath": 3.43e-06,
+    "atl": 3.65368e-07
+  },
+  {
+    "id": "the-sandbox",
+    "price_change_24h": -0.001014830328147559,
+    "price_change_percentage_24h": -0.41391,
+    "ath": 8.4,
+    "atl": 0.02897764
+  },
+  {
+    "id": "solv-protocol-solvbtc-bbn",
+    "price_change_24h": -312.69048047643446,
+    "price_change_percentage_24h": -0.28844,
+    "ath": 117077,
+    "atl": 11402.13
+  },
+  {
+    "id": "aerodrome-finance",
+    "price_change_24h": -0.020342711932670454,
+    "price_change_percentage_24h": -2.85864,
+    "ath": 2.32,
+    "atl": 1.861e-05
+  },
+  {
+    "id": "jasmycoin",
+    "price_change_24h": -0.000126186238611561,
+    "price_change_percentage_24h": -1.02614,
+    "ath": 4.79,
+    "atl": 0.00275026
+  },
+  {
+    "id": "raydium",
+    "price_change_24h": 0.05066,
+    "price_change_percentage_24h": 2.36048,
+    "ath": 16.83,
+    "atl": 0.134391
+  },
+  {
+    "id": "usual-usd",
+    "price_change_24h": -0.000241880931037608,
+    "price_change_percentage_24h": -0.02424,
+    "ath": 1.33,
+    "atl": 0.962885
+  },
+  {
+    "id": "super-oeth",
+    "price_change_24h": -18.69970400056036,
+    "price_change_percentage_24h": -0.732,
+    "ath": 4099.87,
+    "atl": 1312.97
+  },
+  {
+    "id": "syrup",
+    "price_change_24h": -0.02067428443065733,
+    "price_change_percentage_24h": -3.76543,
+    "ath": 0.653229,
+    "atl": 0.085229
+  },
+  {
+    "id": "tbtc",
+    "price_change_24h": -861.0186164764746,
+    "price_change_percentage_24h": -0.79132,
+    "ath": 111782,
+    "atl": 10104.3
+  },
+  {
+    "id": "pyth-network",
+    "price_change_24h": -0.001449928715142657,
+    "price_change_percentage_24h": -1.47302,
+    "ath": 1.2,
+    "atl": 0.081442
+  },
+  {
+    "id": "pendle",
+    "price_change_24h": -0.006138695433800745,
+    "price_change_percentage_24h": -0.18135,
+    "ath": 7.5,
+    "atl": 0.03377729
+  },
+  {
+    "id": "walrus-2",
+    "price_change_24h": -0.01644265318240412,
+    "price_change_percentage_24h": -3.95749,
+    "ath": 0.759179,
+    "atl": 0.360051
+  },
+  {
+    "id": "newton-project",
+    "price_change_24h": 0.00015049,
+    "price_change_percentage_24h": 1.85376,
+    "ath": 0.01727373,
+    "atl": 3.8e-06
+  },
+  {
+    "id": "tezos",
+    "price_change_24h": -0.005695196262471169,
+    "price_change_percentage_24h": -1.08025,
+    "ath": 9.12,
+    "atl": 0.350476
+  },
+  {
+    "id": "l2-standard-bridged-weth-base",
+    "price_change_24h": -21.588908154920773,
+    "price_change_percentage_24h": -0.84388,
+    "ath": 4096.05,
+    "atl": 1394.17
+  },
+  {
+    "id": "mantle-restaked-eth",
+    "price_change_24h": -22.492595972294566,
+    "price_change_percentage_24h": -0.82404,
+    "ath": 4298.87,
+    "atl": 1480.7
+  },
+  {
+    "id": "falcon-finance",
+    "price_change_24h": 4.648e-05,
+    "price_change_percentage_24h": 0.00465,
+    "ath": 1.075,
+    "atl": 0.94524
+  },
+  {
+    "id": "cgeth-hashkey-cloud",
+    "price_change_24h": 36.69,
+    "price_change_percentage_24h": 1.37174,
+    "ath": 3129.19,
+    "atl": 1430.7
+  },
+  {
+    "id": "flow",
+    "price_change_24h": -0.001775360297080864,
+    "price_change_percentage_24h": -0.54092,
+    "ath": 42.4,
+    "atl": 0.292024
+  },
+  {
+    "id": "bitcoin-avalanche-bridged-btc-b",
+    "price_change_24h": -353.69808728439966,
+    "price_change_percentage_24h": -0.32516,
+    "ath": 111931,
+    "atl": 7806.11
+  },
+  {
+    "id": "decentraland",
+    "price_change_24h": -0.001198411149568812,
+    "price_change_percentage_24h": -0.45032,
+    "ath": 5.85,
+    "atl": 0.00923681
+  },
+  {
+    "id": "venom",
+    "price_change_24h": 0.00937134,
+    "price_change_percentage_24h": 4.00991,
+    "ath": 0.782403,
+    "atl": 0.03459851
+  },
+  {
+    "id": "arbitrum-bridged-weth-arbitrum-one",
+    "price_change_24h": -22.969340555219787,
+    "price_change_percentage_24h": -0.89781,
+    "ath": 4097.16,
+    "atl": 1395.31
+  },
+  {
+    "id": "staked-hype",
+    "price_change_24h": 0.32609,
+    "price_change_percentage_24h": 0.83163,
+    "ath": 45.52,
+    "atl": 9.33
+  },
+  {
+    "id": "true-usd",
+    "price_change_24h": 0.00050188,
+    "price_change_percentage_24h": 0.05028,
+    "ath": 1.62,
+    "atl": 0.88355
+  },
+  {
+    "id": "bitcoin-cash-sv",
+    "price_change_24h": 0.483134,
+    "price_change_percentage_24h": 1.99339,
+    "ath": 489.75,
+    "atl": 21.43
+  },
+  {
+    "id": "coredaoorg",
+    "price_change_24h": -0.009897405575027218,
+    "price_change_percentage_24h": -1.98397,
+    "ath": 6.14,
+    "atl": 0.334237
+  },
+  {
+    "id": "apecoin",
+    "price_change_24h": -0.002578060668763427,
+    "price_change_percentage_24h": -0.42328,
+    "ath": 26.7,
+    "atl": 0.354833
+  },
+  {
+    "id": "ripple-usd",
+    "price_change_24h": -0.00014383102722626,
+    "price_change_percentage_24h": -0.01439,
+    "ath": 1.073,
+    "atl": 0.962292
+  },
+  {
+    "id": "bridged-usdc-polygon-pos-bridge",
+    "price_change_24h": 3.587e-08,
+    "price_change_percentage_24h": 0.0,
+    "ath": 1.028,
+    "atl": 0.975633
+  },
+  {
+    "id": "chain-2",
+    "price_change_24h": -4.3936612743734e-05,
+    "price_change_percentage_24h": -0.31699,
+    "ath": 0.184139,
+    "atl": 0.0007055
+  },
+  {
+    "id": "thorchain",
+    "price_change_24h": -0.012979952557376162,
+    "price_change_percentage_24h": -0.96947,
+    "ath": 20.87,
+    "atl": 0.00851264
+  },
+  {
+    "id": "dog-go-to-the-moon-rune",
+    "price_change_24h": 0.00020495,
+    "price_change_percentage_24h": 4.77695,
+    "ath": 0.0099237,
+    "atl": 0.00100496
+  },
+  {
+    "id": "beldex",
+    "price_change_24h": 0.00111871,
+    "price_change_percentage_24h": 1.85622,
+    "ath": 0.450785,
+    "atl": 0.00027519
+  },
+  {
+    "id": "dexe",
+    "price_change_24h": 0.04187888,
+    "price_change_percentage_24h": 0.55065,
+    "ath": 32.38,
+    "atl": 0.671563
+  },
+  {
+    "id": "apenft",
+    "price_change_24h": 1.892e-09,
+    "price_change_percentage_24h": 0.43192,
+    "ath": 7.53e-06,
+    "atl": 2.98737e-07
+  },
+  {
+    "id": "morpho",
+    "price_change_24h": -0.003055697298161464,
+    "price_change_percentage_24h": -0.22416,
+    "ath": 4.17,
+    "atl": 0.713151
+  },
+  {
+    "id": "helium",
+    "price_change_24h": 0.091841,
+    "price_change_percentage_24h": 4.07148,
+    "ath": 54.88,
+    "atl": 0.113248
+  },
+  {
+    "id": "binance-peg-dogecoin",
+    "price_change_24h": -0.001706602532338092,
+    "price_change_percentage_24h": -1.00104,
+    "ath": 0.480585,
+    "atl": 0.04955727
+  },
+  {
+    "id": "usdd",
+    "price_change_24h": -0.000177823292618617,
+    "price_change_percentage_24h": -0.01778,
+    "ath": 1.052,
+    "atl": 0.928067
+  },
+  {
+    "id": "based-brett",
+    "price_change_24h": -0.00103042202228816,
+    "price_change_percentage_24h": -2.3419,
+    "ath": 0.234204,
+    "atl": 0.00084753
+  },
+  {
+    "id": "kava",
+    "price_change_24h": -0.003288565975486712,
+    "price_change_percentage_24h": -0.82898,
+    "ath": 9.12,
+    "atl": 0.247359
+  },
+  {
+    "id": "reserve-rights-token",
+    "price_change_24h": -1.4642813014256e-05,
+    "price_change_percentage_24h": -0.20603,
+    "ath": 0.117424,
+    "atl": 0.00121354
+  },
+  {
+    "id": "hashnote-usyc",
+    "price_change_24h": null,
+    "price_change_percentage_24h": null,
+    "ath": 1.12,
+    "atl": 1.026
+  },
+  {
+    "id": "starknet",
+    "price_change_24h": -0.000450977516530018,
+    "price_change_percentage_24h": -0.39754,
+    "ath": 4.41,
+    "atl": 0.097027
+  },
+  {
+    "id": "usdb",
+    "price_change_24h": -0.001520089584028383,
+    "price_change_percentage_24h": -0.15208,
+    "ath": 1.088,
+    "atl": 0.882623
+  },
+  {
+    "id": "movement",
+    "price_change_24h": -0.003890659372578903,
+    "price_change_percentage_24h": -2.51111,
+    "ath": 1.45,
+    "atl": 0.112218
+  },
+  {
+    "id": "stader-ethx",
+    "price_change_24h": -23.78800016734749,
+    "price_change_percentage_24h": -0.87448,
+    "ath": 4275.3,
+    "atl": 1474.49
+  },
+  {
+    "id": "dydx-chain",
+    "price_change_24h": -0.005044251485294304,
+    "price_change_percentage_24h": -0.96194,
+    "ath": 4.52,
+    "atl": 0.418236
+  },
+  {
+    "id": "build-on",
+    "price_change_24h": 0.02175527,
+    "price_change_percentage_24h": 5.95607,
+    "ath": 0.461593,
+    "atl": 0.175498
+  },
+  {
+    "id": "neo",
+    "price_change_24h": 0.01265981,
+    "price_change_percentage_24h": 0.23196,
+    "ath": 198.38,
+    "atl": 0.078349
+  },
+  {
+    "id": "mog-coin",
+    "price_change_24h": -3.8011022233e-08,
+    "price_change_percentage_24h": -3.71868,
+    "ath": 4.02e-06,
+    "atl": 4.526e-09
+  },
+  {
+    "id": "compound-governance-token",
+    "price_change_24h": -0.6068115506281515,
+    "price_change_percentage_24h": -1.47117,
+    "ath": 910.54,
+    "atl": 25.74
+  },
+  {
+    "id": "elrond-erd-2",
+    "price_change_24h": -0.07651631001603576,
+    "price_change_percentage_24h": -0.57075,
+    "ath": 545.64,
+    "atl": 6.51
+  },
+  {
+    "id": "mantle-bridged-usdt-mantle",
+    "price_change_24h": -0.000265350796085251,
+    "price_change_percentage_24h": -0.02656,
+    "ath": 1.26,
+    "atl": 0.869914
+  },
+  {
+    "id": "conflux-token",
+    "price_change_24h": -0.000607821574155204,
+    "price_change_percentage_24h": -0.82053,
+    "ath": 1.7,
+    "atl": 0.02199898
+  },
+  {
+    "id": "ecash",
+    "price_change_24h": -9.0668636591e-08,
+    "price_change_percentage_24h": -0.48822,
+    "ath": 0.00038001,
+    "atl": 1.604e-05
+  },
+  {
+    "id": "ether-fi-staked-btc",
+    "price_change_24h": -215.2775587929209,
+    "price_change_percentage_24h": -0.19853,
+    "ath": 112644,
+    "atl": 58795
+  },
+  {
+    "id": "ether-fi-staked-eth",
+    "price_change_24h": -20.72866125737255,
+    "price_change_percentage_24h": -0.81129,
+    "ath": 5307.23,
+    "atl": 1394.71
+  },
+  {
+    "id": "kaito",
+    "price_change_24h": -0.025188831499467712,
+    "price_change_percentage_24h": -1.64135,
+    "ath": 2.88,
+    "atl": 0.674693
+  },
+  {
+    "id": "aioz-network",
+    "price_change_24h": -0.008326254968566593,
+    "price_change_percentage_24h": -2.65389,
+    "ath": 2.65,
+    "atl": 0.01099588
+  },
+  {
+    "id": "deep",
+    "price_change_24h": -0.00142874223392167,
+    "price_change_percentage_24h": -0.97636,
+    "ath": 0.341085,
+    "atl": 0.01073218
+  },
+  {
+    "id": "ether-fi",
+    "price_change_24h": 0.01766387,
+    "price_change_percentage_24h": 1.86122,
+    "ath": 8.53,
+    "atl": 0.40432
+  },
+  {
+    "id": "polygon-pos-bridged-dai-polygon-pos",
+    "price_change_24h": -6.5135574153996e-05,
+    "price_change_percentage_24h": -0.00651,
+    "ath": 1.025,
+    "atl": 0.957024
+  },
+  {
+    "id": "eigenlayer",
+    "price_change_24h": -0.009032270877106896,
+    "price_change_percentage_24h": -0.79329,
+    "ath": 5.65,
+    "atl": 0.668501
+  },
+  {
+    "id": "axie-infinity",
+    "price_change_24h": -0.049520891391138466,
+    "price_change_percentage_24h": -2.27154,
+    "ath": 164.9,
+    "atl": 0.123718
+  },
+  {
+    "id": "telcoin",
+    "price_change_24h": -8.8521088141959e-05,
+    "price_change_percentage_24h": -2.27063,
+    "ath": 0.064483,
+    "atl": 6.474e-05
+  },
+  {
+    "id": "grass",
+    "price_change_24h": 0.103449,
+    "price_change_percentage_24h": 9.32113,
+    "ath": 3.89,
+    "atl": 0.654959
+  },
+  {
+    "id": "coinbase-wrapped-staked-eth",
+    "price_change_24h": -21.012457156116852,
+    "price_change_percentage_24h": -0.74542,
+    "ath": 4434.57,
+    "atl": 1036.96
+  },
+  {
+    "id": "chiliz",
+    "price_change_24h": -0.000211092009179785,
+    "price_change_percentage_24h": -0.59278,
+    "ath": 0.878633,
+    "atl": 0.00410887
+  },
+  {
+    "id": "eos",
+    "price_change_24h": -0.00638089727805663,
+    "price_change_percentage_24h": -1.32026,
+    "ath": 22.71,
+    "atl": 0.402746
+  },
+  {
+    "id": "just",
+    "price_change_24h": -0.00027400345492172,
+    "price_change_percentage_24h": -0.7898,
+    "ath": 0.193254,
+    "atl": 0.00476275
+  },
+  {
+    "id": "sweth",
+    "price_change_24h": -21.92496173771042,
+    "price_change_percentage_24h": -0.78444,
+    "ath": 4395.57,
+    "atl": 1516.13
+  },
+  {
+    "id": "olympus",
+    "price_change_24h": -0.12752665283505138,
+    "price_change_percentage_24h": -0.62337,
+    "ath": 1415.26,
+    "atl": 7.54
+  },
+  {
+    "id": "arweave",
+    "price_change_24h": -0.07721190402838118,
+    "price_change_percentage_24h": -1.49502,
+    "ath": 89.24,
+    "atl": 0.298788
+  },
+  {
+    "id": "global-dollar",
+    "price_change_24h": 0.00065222,
+    "price_change_percentage_24h": 0.06526,
+    "ath": 1.65,
+    "atl": 0.907561
+  },
+  {
+    "id": "sun-token",
+    "price_change_24h": 0.00011417,
+    "price_change_percentage_24h": 0.66407,
+    "ath": 66.45,
+    "atl": 0.00462303
+  },
+  {
+    "id": "polygon-bridged-wbtc-polygon-pos",
+    "price_change_24h": -371.2010717128287,
+    "price_change_percentage_24h": -0.34144,
+    "ath": 111643,
+    "atl": 49937
+  },
+  {
+    "id": "zksync",
+    "price_change_24h": -0.000813340250700421,
+    "price_change_percentage_24h": -1.76217,
+    "ath": 0.320983,
+    "atl": 0.03697818
+  },
+  {
+    "id": "polygon-pos-bridged-weth-polygon-pos",
+    "price_change_24h": -20.18785910266797,
+    "price_change_percentage_24h": -0.78982,
+    "ath": 4090.99,
+    "atl": 1390.73
+  },
+  {
+    "id": "ket",
+    "price_change_24h": -0.010247995172169733,
+    "price_change_percentage_24h": -3.12589,
+    "ath": 0.61664,
+    "atl": 0.0085598
+  },
+  {
+    "id": "axelar",
+    "price_change_24h": -0.002287466897216039,
+    "price_change_percentage_24h": -0.71938,
+    "ath": 2.64,
+    "atl": 0.274681
+  },
+  {
+    "id": "beam-2",
+    "price_change_24h": 4.668e-05,
+    "price_change_percentage_24h": 0.7858,
+    "ath": 0.04416304,
+    "atl": 0.00429024
+  },
+  {
+    "id": "frax",
+    "price_change_24h": -0.00018018872652914,
+    "price_change_percentage_24h": -0.01804,
+    "ath": 1.14,
+    "atl": 0.874536
+  },
+  {
+    "id": "ronin",
+    "price_change_24h": -0.00903595019566894,
+    "price_change_percentage_24h": -1.87041,
+    "ath": 4.45,
+    "atl": 0.196601
+  },
+  {
+    "id": "binance-peg-busd",
+    "price_change_24h": 0.00111965,
+    "price_change_percentage_24h": 0.112,
+    "ath": 1.064,
+    "atl": 0.954278
+  },
+  {
+    "id": "terra-luna",
+    "price_change_24h": -2.17283600724e-07,
+    "price_change_percentage_24h": -0.38551,
+    "ath": 119.18,
+    "atl": 9.99967e-07
+  },
+  {
+    "id": "frax-ether",
+    "price_change_24h": -23.90374572146993,
+    "price_change_percentage_24h": -0.93446,
+    "ath": 4084.25,
+    "atl": 1137.25
+  },
+  {
+    "id": "trip",
+    "price_change_24h": -0.001900483381160001,
+    "price_change_percentage_24h": -0.01838,
+    "ath": 10.41,
+    "atl": 4.92
+  },
+  {
+    "id": "bybit-staked-sol",
+    "price_change_24h": 0.345626,
+    "price_change_percentage_24h": 0.2088,
+    "ath": 308.6,
+    "atl": 103.09
+  },
+  {
+    "id": "wormhole",
+    "price_change_24h": -0.001849888481297066,
+    "price_change_percentage_24h": -2.76877,
+    "ath": 1.66,
+    "atl": 0.051583
+  },
+  {
+    "id": "gho",
+    "price_change_24h": -0.000184133733484915,
+    "price_change_percentage_24h": -0.01842,
+    "ath": 1.03,
+    "atl": 0.917065
+  },
+  {
+    "id": "gnosis",
+    "price_change_24h": -0.026316927288959846,
+    "price_change_percentage_24h": -0.02369,
+    "ath": 644.2,
+    "atl": 6.88
+  },
+  {
+    "id": "openeden-open-dollar",
+    "price_change_24h": -0.000151449051376984,
+    "price_change_percentage_24h": -0.01513,
+    "ath": 2.97,
+    "atl": 0.993904
+  },
+  {
+    "id": "trust-wallet-token",
+    "price_change_24h": -0.007014470232794112,
+    "price_change_percentage_24h": -0.99168,
+    "ath": 2.72,
+    "atl": 0.00277641
+  },
+  {
+    "id": "superfarm",
+    "price_change_24h": -0.012001830036707295,
+    "price_change_percentage_24h": -1.82711,
+    "ath": 4.74,
+    "atl": 0.070397
+  },
+  {
+    "id": "popcat",
+    "price_change_24h": -0.012918958742420217,
+    "price_change_percentage_24h": -4.20146,
+    "ath": 2.05,
+    "atl": 0.00379728
+  },
+  {
+    "id": "amp-token",
+    "price_change_24h": -1.675429103434e-06,
+    "price_change_percentage_24h": -0.049,
+    "ath": 0.120813,
+    "atl": 0.00140933
+  },
+  {
+    "id": "akash-network",
+    "price_change_24h": -0.009554191803487155,
+    "price_change_percentage_24h": -0.89294,
+    "ath": 8.07,
+    "atl": 0.164994
+  },
+  {
+    "id": "abtc",
+    "price_change_24h": -730.5089880732121,
+    "price_change_percentage_24h": -0.67128,
+    "ath": 112862,
+    "atl": 60786
+  },
+  {
+    "id": "treehouse-eth",
+    "price_change_24h": -27.225505875607723,
+    "price_change_percentage_24h": -0.87975,
+    "ath": 4837.52,
+    "atl": 1683.91
+  },
+  {
+    "id": "compounding-open-dollar",
+    "price_change_24h": -0.000248115802056859,
+    "price_change_percentage_24h": -0.02434,
+    "ath": 1.038,
+    "atl": 0.985919
+  },
+  {
+    "id": "wrapped-avax",
+    "price_change_24h": -0.1306191129498977,
+    "price_change_percentage_24h": -0.71883,
+    "ath": 2000.68,
+    "atl": 7.91
+  },
+  {
+    "id": "eutbl",
+    "price_change_24h": -0.004098712456798159,
+    "price_change_percentage_24h": -0.33597,
+    "ath": 1.22,
+    "atl": 1.011
+  },
+  {
+    "id": "cheems-token",
+    "price_change_24h": -3.8048966853e-08,
+    "price_change_percentage_24h": -2.71224,
+    "ath": 2.16e-06,
+    "atl": 5.725e-09
+  },
+  {
+    "id": "plume",
+    "price_change_24h": -0.009888975361083407,
+    "price_change_percentage_24h": -8.41252,
+    "ath": 0.247537,
+    "atl": 0.075937
+  },
+  {
+    "id": "keeta",
+    "price_change_24h": 0.03926277,
+    "price_change_percentage_24h": 6.19483,
+    "ath": 1.68,
+    "atl": 0.0068199
+  },
+  {
+    "id": "useless-3",
+    "price_change_24h": -0.0134866303281867,
+    "price_change_percentage_24h": -4.76495,
+    "ath": 0.303025,
+    "atl": 0.00519952
+  },
+  {
+    "id": "compound-wrapped-btc",
+    "price_change_24h": -8.7049950323767,
+    "price_change_percentage_24h": -0.39841,
+    "ath": 2247.69,
+    "atl": 91.15
+  },
+  {
+    "id": "matic-network",
+    "price_change_24h": 0.00087566,
+    "price_change_percentage_24h": 0.47579,
+    "ath": 2.92,
+    "atl": 0.00314376
+  },
+  {
+    "id": "creditcoin-2",
+    "price_change_24h": -0.002919547301844072,
+    "price_change_percentage_24h": -0.49293,
+    "ath": 8.67,
+    "atl": 0.128298
+  },
+  {
+    "id": "decred",
+    "price_change_24h": 0.171409,
+    "price_change_percentage_24h": 1.10888,
+    "ath": 247.35,
+    "atl": 0.43154
+  },
+  {
+    "id": "btse-token",
+    "price_change_24h": 0.00880759,
+    "price_change_percentage_24h": 0.54302,
+    "ath": 9.21,
+    "atl": 0.369569
+  },
+  {
+    "id": "aethir",
+    "price_change_24h": -0.000121921904297492,
+    "price_change_percentage_24h": -0.4572,
+    "ath": 0.118536,
+    "atl": 0.02439678
+  },
+  {
+    "id": "1inch",
+    "price_change_24h": -0.001308173687633779,
+    "price_change_percentage_24h": -0.68705,
+    "ath": 8.65,
+    "atl": 0.149574
+  },
+  {
+    "id": "pumpbtc",
+    "price_change_24h": -5068.374599867486,
+    "price_change_percentage_24h": -4.77287,
+    "ath": 109781,
+    "atl": 48890
+  },
+  {
+    "id": "turbo",
+    "price_change_24h": -3.6313787301683e-05,
+    "price_change_percentage_24h": -0.95149,
+    "ath": 0.01431669,
+    "atl": 6.518e-05
+  },
+  {
+    "id": "livepeer",
+    "price_change_24h": -0.042352560180491494,
+    "price_change_percentage_24h": -0.68353,
+    "ath": 99.03,
+    "atl": 0.354051
+  },
+  {
+    "id": "safe",
+    "price_change_24h": -0.012427490054780499,
+    "price_change_percentage_24h": -2.85158,
+    "ath": 3.56,
+    "atl": 0.34824
+  },
+  {
+    "id": "universal-btc",
+    "price_change_24h": 305.05,
+    "price_change_percentage_24h": 0.28859,
+    "ath": 111378,
+    "atl": 35703
+  },
+  {
+    "id": "drift-staked-sol",
+    "price_change_24h": 0.330352,
+    "price_change_percentage_24h": 0.19379,
+    "ath": 311.34,
+    "atl": 107.06
+  },
+  {
+    "id": "dash",
+    "price_change_24h": -0.11419623284697167,
+    "price_change_percentage_24h": -0.56782,
+    "ath": 1493.59,
+    "atl": 0.213899
+  },
+  {
+    "id": "reserve-protocol-eth-plus",
+    "price_change_24h": -6.890397615498387,
+    "price_change_percentage_24h": -0.25656,
+    "ath": 4194.11,
+    "atl": 1461.53
+  },
+  {
+    "id": "benqi-liquid-staked-avax",
+    "price_change_24h": -0.17655941938226505,
+    "price_change_percentage_24h": -0.80004,
+    "ath": 103.55,
+    "atl": 9.25
+  },
+  {
+    "id": "memecore",
+    "price_change_24h": 0.080081,
+    "price_change_percentage_24h": 110.16186,
+    "ath": 0.204621,
+    "atl": 0.04746135
+  },
+  {
+    "id": "cat-in-a-dogs-world",
+    "price_change_24h": -7.1171038129639e-05,
+    "price_change_percentage_24h": -2.55808,
+    "ath": 0.01288153,
+    "atl": 0.00091206
+  },
+  {
+    "id": "staked-frax-ether",
+    "price_change_24h": -22.570255454439575,
+    "price_change_percentage_24h": -0.78426,
+    "ath": 7545.09,
+    "atl": 1147.58
+  },
+  {
+    "id": "mx-token",
+    "price_change_24h": 0.01151043,
+    "price_change_percentage_24h": 0.46974,
+    "ath": 5.85,
+    "atl": 0.04218457
+  },
+  {
+    "id": "mocaverse",
+    "price_change_24h": -0.00099632475911271,
+    "price_change_percentage_24h": -1.43632,
+    "ath": 0.477373,
+    "atl": 0.060456
+  },
+  {
+    "id": "theta-fuel",
+    "price_change_24h": 0.00027368,
+    "price_change_percentage_24h": 0.84069,
+    "ath": 0.68159,
+    "atl": 0.00090804
+  },
+  {
+    "id": "golem",
+    "price_change_24h": 0.00099301,
+    "price_change_percentage_24h": 0.43675,
+    "ath": 1.32,
+    "atl": 0.00913753
+  },
+  {
+    "id": "safepal",
+    "price_change_24h": 0.00344979,
+    "price_change_percentage_24h": 0.7676,
+    "ath": 4.19,
+    "atl": 0.269235
+  },
+  {
+    "id": "euler",
+    "price_change_24h": -0.01947503663633654,
+    "price_change_percentage_24h": -0.16391,
+    "ath": 12.78,
+    "atl": 1.44
+  },
+  {
+    "id": "zebec-network",
+    "price_change_24h": 4.249e-05,
+    "price_change_percentage_24h": 1.70351,
+    "ath": 0.00700261,
+    "atl": 0.00069854
+  },
+  {
+    "id": "toshi",
+    "price_change_24h": -8.436042685524e-06,
+    "price_change_percentage_24h": -1.60362,
+    "ath": 0.00226012,
+    "atl": 1.8963e-08
+  },
+  {
+    "id": "peanut-the-squirrel",
+    "price_change_24h": -0.011249173007664315,
+    "price_change_percentage_24h": -4.99307,
+    "ath": 2.44,
+    "atl": 0.03187374
+  },
+  {
+    "id": "resolv-usr",
+    "price_change_24h": 0.00018594,
+    "price_change_percentage_24h": 0.0186,
+    "ath": 1.022,
+    "atl": 0.959194
+  },
+  {
+    "id": "kusama",
+    "price_change_24h": -0.14647307649356733,
+    "price_change_percentage_24h": -1.14885,
+    "ath": 621.71,
+    "atl": 0.876572
+  },
+  {
+    "id": "qtum",
+    "price_change_24h": 0.000143,
+    "price_change_percentage_24h": 0.00724,
+    "ath": 100.22,
+    "atl": 0.783142
+  },
+  {
+    "id": "blockchain-capital",
+    "price_change_24h": 0.0,
+    "price_change_percentage_24h": 0.0,
+    "ath": 24.28,
+    "atl": 17.76
+  },
+  {
+    "id": "mina-protocol",
+    "price_change_24h": -0.001977297212704288,
+    "price_change_percentage_24h": -1.16703,
+    "ath": 9.09,
+    "atl": 0.147567
+  },
+  {
+    "id": "euro-coin",
+    "price_change_24h": -0.004106617422694248,
+    "price_change_percentage_24h": -0.34881,
+    "ath": 1.35,
+    "atl": 0.052848
+  },
+  {
+    "id": "zilliqa",
+    "price_change_24h": -0.000101071046762598,
+    "price_change_percentage_24h": -0.96144,
+    "ath": 0.255376,
+    "atl": 0.00239616
+  },
+  {
+    "id": "mantra-dao",
+    "price_change_24h": -0.000493208996450806,
+    "price_change_percentage_24h": -0.23916,
+    "ath": 8.99,
+    "atl": 0.01726188
+  },
+  {
+    "id": "berachain-bera",
+    "price_change_24h": -0.012279442745639413,
+    "price_change_percentage_24h": -0.73368,
+    "ath": 14.83,
+    "atl": 1.51
+  },
+  {
+    "id": "iotex",
+    "price_change_24h": 3.446e-05,
+    "price_change_percentage_24h": 0.16319,
+    "ath": 0.255593,
+    "atl": 0.00121576
+  },
+  {
+    "id": "layerzero",
+    "price_change_24h": -0.04357484014621926,
+    "price_change_percentage_24h": -2.38484,
+    "ath": 7.47,
+    "atl": 1.5
+  },
+  {
+    "id": "arkham",
+    "price_change_24h": -0.003194459028575625,
+    "price_change_percentage_24h": -0.71141,
+    "ath": 3.98,
+    "atl": 0.287824
+  },
+  {
+    "id": "ravencoin",
+    "price_change_24h": -0.000125332252543398,
+    "price_change_percentage_24h": -0.97454,
+    "ath": 0.285218,
+    "atl": 0.00893232
+  },
+  {
+    "id": "baby-doge-coin",
+    "price_change_24h": -1.6952388e-11,
+    "price_change_percentage_24h": -1.4546,
+    "ath": 6.498e-09,
+    "atl": 9.4771e-11
+  },
+  {
+    "id": "gas",
+    "price_change_24h": 0.091638,
+    "price_change_percentage_24h": 3.18955,
+    "ath": 91.94,
+    "atl": 0.621309
+  },
+  {
+    "id": "wrapped-beacon-eth",
+    "price_change_24h": -22.39312738183571,
+    "price_change_percentage_24h": -0.81556,
+    "ath": 4317.06,
+    "atl": 1501.6
+  },
+  {
+    "id": "wrapped-ether-mantle-bridge",
+    "price_change_24h": -22.568490769183427,
+    "price_change_percentage_24h": -0.88339,
+    "ath": 4597.42,
+    "atl": 1402.44
+  },
+  {
+    "id": "legacy-token",
+    "price_change_24h": -0.00973035145826362,
+    "price_change_percentage_24h": -0.55865,
+    "ath": 2.2,
+    "atl": 1.073
+  },
+  {
+    "id": "havven",
+    "price_change_24h": -0.006941632958380906,
+    "price_change_percentage_24h": -1.22657,
+    "ath": 28.53,
+    "atl": 0.0347864
+  },
+  {
+    "id": "tradable-na-rent-financing-platform-sstn",
+    "price_change_24h": 0.0,
+    "price_change_percentage_24h": 0.0,
+    "ath": 189500000,
+    "atl": 1.0
+  },
+  {
+    "id": "basic-attention-token",
+    "price_change_24h": 7.42e-05,
+    "price_change_percentage_24h": 0.05878,
+    "ath": 1.9,
+    "atl": 0.072394
+  },
+  {
+    "id": "usda-2",
+    "price_change_24h": -0.002486073477643513,
+    "price_change_percentage_24h": -0.25023,
+    "ath": 1.021,
+    "atl": 0.737813
+  },
+  {
+    "id": "swissborg",
+    "price_change_24h": -0.003724518194203358,
+    "price_change_percentage_24h": -1.92649,
+    "ath": 1.64,
+    "atl": 0.00502687
+  },
+  {
+    "id": "0x",
+    "price_change_24h": 4.999e-05,
+    "price_change_percentage_24h": 0.02286,
+    "ath": 2.5,
+    "atl": 0.120667
+  },
+  {
+    "id": "notcoin",
+    "price_change_24h": 3.02e-06,
+    "price_change_percentage_24h": 0.16768,
+    "ath": 0.02836145,
+    "atl": 0.00160895
+  },
+  {
+    "id": "wemix-token",
+    "price_change_24h": -0.015044588282151883,
+    "price_change_percentage_24h": -3.56918,
+    "ath": 24.71,
+    "atl": 0.128398
+  },
+  {
+    "id": "convex-finance",
+    "price_change_24h": -0.013904046242466439,
+    "price_change_percentage_24h": -0.61617,
+    "ath": 60.09,
+    "atl": 1.44
+  },
+  {
+    "id": "frax-share",
+    "price_change_24h": 0.00475424,
+    "price_change_percentage_24h": 0.24345,
+    "ath": 42.8,
+    "atl": 1.26
+  },
+  {
+    "id": "astar",
+    "price_change_24h": -0.00033069039266535,
+    "price_change_percentage_24h": -1.49023,
+    "ath": 0.421574,
+    "atl": 0.0208857
+  },
+  {
+    "id": "moo-deng",
+    "price_change_24h": -0.011411983021325012,
+    "price_change_percentage_24h": -6.01346,
+    "ath": 0.680378,
+    "atl": 0.01544782
+  },
+  {
+    "id": "neiro-3",
+    "price_change_24h": -2.4268848394294e-05,
+    "price_change_percentage_24h": -5.48279,
+    "ath": 0.00301761,
+    "atl": 2.44e-06
+  },
+  {
+    "id": "verus-coin",
+    "price_change_24h": 0.00102128,
+    "price_change_percentage_24h": 0.04628,
+    "ath": 6.74,
+    "atl": 0.00177843
+  },
+  {
+    "id": "oasis-network",
+    "price_change_24h": -0.000282604728597074,
+    "price_change_percentage_24h": -1.18441,
+    "ath": 0.597347,
+    "atl": 0.01952225
+  },
+  {
+    "id": "yearn-finance",
+    "price_change_24h": 7.36,
+    "price_change_percentage_24h": 0.14349,
+    "ath": 90787,
+    "atl": 31.65
+  },
+  {
+    "id": "vethor-token",
+    "price_change_24h": -7.577127670513e-06,
+    "price_change_percentage_24h": -0.39763,
+    "ath": 0.04671227,
+    "atl": 0.00015238
+  },
+  {
+    "id": "tribe-2",
+    "price_change_24h": 0.00787463,
+    "price_change_percentage_24h": 2.1202,
+    "ath": 2.45,
+    "atl": 0.14412
+  },
+  {
+    "id": "gmt-token",
+    "price_change_24h": -0.007036342354358349,
+    "price_change_percentage_24h": -1.6408,
+    "ath": 0.564703,
+    "atl": 0.069487
+  },
+  {
+    "id": "astherus-staked-bnb",
+    "price_change_24h": -3.064468954401491,
+    "price_change_percentage_24h": -0.43781,
+    "ath": 828.99,
+    "atl": 326.84
+  },
+  {
+    "id": "blur",
+    "price_change_24h": -0.000595079793139178,
+    "price_change_percentage_24h": -0.84639,
+    "ath": 5.02,
+    "atl": 0.06202
+  },
+  {
+    "id": "binance-peg-sol",
+    "price_change_24h": 0.534776,
+    "price_change_percentage_24h": 0.35353,
+    "ath": 186.54,
+    "atl": 97.14
+  },
+  {
+    "id": "siacoin",
+    "price_change_24h": 2.332e-05,
+    "price_change_percentage_24h": 0.78831,
+    "ath": 0.092868,
+    "atl": 1.262e-05
+  },
+  {
+    "id": "ai16z",
+    "price_change_24h": -0.005147549922951133,
+    "price_change_percentage_24h": -3.29014,
+    "ath": 2.47,
+    "atl": 0.010189
+  },
+  {
+    "id": "elixir-deusd",
+    "price_change_24h": 0.00019612,
+    "price_change_percentage_24h": 0.01961,
+    "ath": 1.04,
+    "atl": 0.978154
+  },
+  {
+    "id": "mimbogamegroup",
+    "price_change_24h": -4.981931592979e-06,
+    "price_change_percentage_24h": -0.34642,
+    "ath": 0.00145033,
+    "atl": 0.0011239
+  },
+  {
+    "id": "mori-coin",
+    "price_change_24h": -0.01551850288654652,
+    "price_change_percentage_24h": -7.89991,
+    "ath": 0.200485,
+    "atl": 0.02243492
+  },
+  {
+    "id": "nervos-network",
+    "price_change_24h": -2.4544605897503e-05,
+    "price_change_percentage_24h": -0.70162,
+    "ath": 0.04370633,
+    "atl": 0.00197892
+  },
+  {
+    "id": "bnb48-club-token",
+    "price_change_24h": -0.07326726858998,
+    "price_change_percentage_24h": -0.1525,
+    "ath": 76.94,
+    "atl": 1.19
+  },
+  {
+    "id": "zetachain",
+    "price_change_24h": -0.00248237703203269,
+    "price_change_percentage_24h": -1.39684,
+    "ath": 2.85,
+    "atl": 0.152591
+  },
+  {
+    "id": "wrapped-fragsol",
+    "price_change_24h": 0.03921818,
+    "price_change_percentage_24h": 0.02449,
+    "ath": 197.16,
+    "atl": 100.68
+  },
+  {
+    "id": "origintrail",
+    "price_change_24h": 0.01241008,
+    "price_change_percentage_24h": 3.99285,
+    "ath": 3.5,
+    "atl": 0.00385262
+  },
+  {
+    "id": "aave-usdc-sonic",
+    "price_change_24h": 2.833e-05,
+    "price_change_percentage_24h": 0.00283,
+    "ath": 1.019,
+    "atl": 0.795129
+  },
+  {
+    "id": "qubic-network",
+    "price_change_24h": -7.844336548e-09,
+    "price_change_percentage_24h": -0.58803,
+    "ath": 1.256e-05,
+    "atl": 7.03229e-07
+  },
+  {
+    "id": "celo",
+    "price_change_24h": 0.00303618,
+    "price_change_percentage_24h": 1.11115,
+    "ath": 9.82,
+    "atl": 0.238395
+  },
+  {
+    "id": "steakhouse-usdc-morpho-vault",
+    "price_change_24h": 0.00071607,
+    "price_change_percentage_24h": 0.06567,
+    "ath": 9.61,
+    "atl": 1.034
+  },
+  {
+    "id": "threshold-network-token",
+    "price_change_24h": -7.3305567189822e-05,
+    "price_change_percentage_24h": -0.47022,
+    "ath": 0.226934,
+    "atl": 0.01175465
+  },
+  {
+    "id": "ordinals",
+    "price_change_24h": -0.07264321112282612,
+    "price_change_percentage_24h": -0.96017,
+    "ath": 95.52,
+    "atl": 2.86
+  },
+  {
+    "id": "polymesh",
+    "price_change_24h": 0.00334152,
+    "price_change_percentage_24h": 2.61781,
+    "ath": 0.748771,
+    "atl": 0.099854
+  },
+  {
+    "id": "banana-for-scale-2",
+    "price_change_24h": 0.0010959,
+    "price_change_percentage_24h": 7.70544,
+    "ath": 0.01688831,
+    "atl": 0.00072336
+  },
+  {
+    "id": "sahara-ai",
+    "price_change_24h": -0.006684228182354729,
+    "price_change_percentage_24h": -8.17543,
+    "ath": 0.147894,
+    "atl": 0.074963
+  },
+  {
+    "id": "instadapp",
+    "price_change_24h": -0.06108187431748968,
+    "price_change_percentage_24h": -1.5474,
+    "ath": 24.4,
+    "atl": 0.366538
+  },
+  {
+    "id": "kinesis-gold",
+    "price_change_24h": -0.0883809700822411,
+    "price_change_percentage_24h": -0.08276,
+    "ath": 112.43,
+    "atl": 44.06
+  },
+  {
+    "id": "aelf",
+    "price_change_24h": 0.00653986,
+    "price_change_percentage_24h": 3.40542,
+    "ath": 2.6,
+    "atl": 0.03545756
+  },
+  {
+    "id": "gigachad-2",
+    "price_change_24h": 0.00028284,
+    "price_change_percentage_24h": 1.82286,
+    "ath": 0.095127,
+    "atl": 1.244e-05
+  },
+  {
+    "id": "agentfun-ai",
+    "price_change_24h": -0.010497783458221832,
+    "price_change_percentage_24h": -0.69338,
+    "ath": 25.25,
+    "atl": 1.4
+  },
+  {
+    "id": "uxlink",
+    "price_change_24h": -0.011064579291590992,
+    "price_change_percentage_24h": -2.92366,
+    "ath": 3.68,
+    "atl": 0.140742
+  },
+  {
+    "id": "holotoken",
+    "price_change_24h": 4.02e-06,
+    "price_change_percentage_24h": 0.48252,
+    "ath": 0.03126682,
+    "atl": 0.0002202
+  },
+  {
+    "id": "rekt-4",
+    "price_change_24h": 3.8636e-08,
+    "price_change_percentage_24h": 12.26179,
+    "ath": 4.12487e-07,
+    "atl": 3.1106e-08
+  },
+  {
+    "id": "stargate-finance",
+    "price_change_24h": -0.001268583341369506,
+    "price_change_percentage_24h": -0.83377,
+    "ath": 4.14,
+    "atl": 0.142775
+  },
+  {
+    "id": "stasis-eurs",
+    "price_change_24h": -0.010168979006934364,
+    "price_change_percentage_24h": -0.86365,
+    "ath": 1.79,
+    "atl": 0.929636
+  },
+  {
+    "id": "nxm",
+    "price_change_24h": -0.4319844611779118,
+    "price_change_percentage_24h": -0.72592,
+    "ath": 185.97,
+    "atl": 6.96
+  },
+  {
+    "id": "zano",
+    "price_change_24h": 0.579163,
+    "price_change_percentage_24h": 6.32336,
+    "ath": 17.81,
+    "atl": 0.146452
+  },
+  {
+    "id": "cronos-bridged-usdc-cronos",
+    "price_change_24h": -0.001410796888990373,
+    "price_change_percentage_24h": -0.14108,
+    "ath": 1.13,
+    "atl": 0.940359
+  },
+  {
+    "id": "prometeus",
+    "price_change_24h": 0.268284,
+    "price_change_percentage_24h": 3.5506,
+    "ath": 105.94,
+    "atl": 0.088747
+  },
+  {
+    "id": "cow-protocol",
+    "price_change_24h": -0.005069174946659427,
+    "price_change_percentage_24h": -1.71613,
+    "ath": 2.22,
+    "atl": 0.03987045
+  },
+  {
+    "id": "gmx",
+    "price_change_24h": -0.08688207072940557,
+    "price_change_percentage_24h": -0.62169,
+    "ath": 91.07,
+    "atl": 9.61
+  },
+  {
+    "id": "ankr",
+    "price_change_24h": -9.6463304140211e-05,
+    "price_change_percentage_24h": -0.67851,
+    "ath": 0.213513,
+    "atl": 0.00070728
+  },
+  {
+    "id": "ethereum-pow-iou",
+    "price_change_24h": -0.02040297432460636,
+    "price_change_percentage_24h": -1.54287,
+    "ath": 58.54,
+    "atl": 0.999217
+  },
+  {
+    "id": "kinesis-silver",
+    "price_change_24h": 0.219035,
+    "price_change_percentage_24h": 0.60148,
+    "ath": 37.74,
+    "atl": 4.36
+  },
+  {
+    "id": "freysa-ai",
+    "price_change_24h": 0.00054904,
+    "price_change_percentage_24h": 3.33555,
+    "ath": 0.080047,
+    "atl": 0.00158821
+  },
+  {
+    "id": "infrared-bera",
+    "price_change_24h": -0.005700862570225951,
+    "price_change_percentage_24h": -0.34943,
+    "ath": 8.98,
+    "atl": 1.41
+  },
+  {
+    "id": "casper-network",
+    "price_change_24h": -8.669262050303e-06,
+    "price_change_percentage_24h": -0.08226,
+    "ath": 1.33,
+    "atl": 0.00624854
+  },
+  {
+    "id": "humanity",
+    "price_change_24h": -0.00747323877860355,
+    "price_change_percentage_24h": -9.04104,
+    "ath": 0.107148,
+    "atl": 0.01810273
+  },
+  {
+    "id": "origin-ether",
+    "price_change_24h": -20.09485641843912,
+    "price_change_percentage_24h": -0.78669,
+    "ath": 4087.13,
+    "atl": 1396.71
+  },
+  {
+    "id": "solo-coin",
+    "price_change_24h": 0.066917,
+    "price_change_percentage_24h": 23.83968,
+    "ath": 6.55,
+    "atl": 0.061723
+  },
+  {
+    "id": "snek",
+    "price_change_24h": -7.0852785843124e-05,
+    "price_change_percentage_24h": -3.69003,
+    "ath": 0.00895508,
+    "atl": 0.00013847
+  },
+  {
+    "id": "chia",
+    "price_change_24h": -0.08578481150459893,
+    "price_change_percentage_24h": -0.90687,
+    "ath": 1645.12,
+    "atl": 8.96
+  },
+  {
+    "id": "harmony",
+    "price_change_24h": -9.1115291619606e-05,
+    "price_change_percentage_24h": -0.96768,
+    "ath": 0.37902,
+    "atl": 0.00127355
+  },
+  {
+    "id": "mag7-ssi",
+    "price_change_24h": -0.000688964977333839,
+    "price_change_percentage_24h": -0.08944,
+    "ath": 1.35,
+    "atl": 0.551193
+  },
+  {
+    "id": "funfair",
+    "price_change_24h": -0.000480598315352146,
+    "price_change_percentage_24h": -3.62901,
+    "ath": 0.191066,
+    "atl": 0.00105506
+  },
+  {
+    "id": "drift-protocol",
+    "price_change_24h": -0.010221368092872274,
+    "price_change_percentage_24h": -2.53938,
+    "ath": 2.6,
+    "atl": 0.100002
+  },
+  {
+    "id": "digibyte",
+    "price_change_24h": 2.613e-05,
+    "price_change_percentage_24h": 0.35021,
+    "ath": 0.178084,
+    "atl": 3.099e-05
+  },
+  {
+    "id": "coinex-token",
+    "price_change_24h": -0.00036180735553798,
+    "price_change_percentage_24h": -0.71941,
+    "ath": 0.150293,
+    "atl": 0.00410696
+  },
+  {
+    "id": "tdccp",
+    "price_change_24h": -0.002136919685511163,
+    "price_change_percentage_24h": -1.02043,
+    "ath": 0.440804,
+    "atl": 0.160836
+  },
+  {
+    "id": "bitkub-coin",
+    "price_change_24h": -0.005171892114491206,
+    "price_change_percentage_24h": -0.34634,
+    "ath": 17.24,
+    "atl": 0.381968
+  },
+  {
+    "id": "vana",
+    "price_change_24h": -0.019320679006533226,
+    "price_change_percentage_24h": -0.44866,
+    "ath": 35.23,
+    "atl": 3.88
+  },
+  {
+    "id": "ai-companions",
+    "price_change_24h": -0.004899671426654928,
+    "price_change_percentage_24h": -3.61776,
+    "ath": 0.544605,
+    "atl": 0.03751432
+  },
+  {
+    "id": "ignition-fbtc",
+    "price_change_24h": -667.1210419402632,
+    "price_change_percentage_24h": -0.61193,
+    "ath": 112660,
+    "atl": 11469.83
+  },
+  {
+    "id": "resolv-rlp",
+    "price_change_24h": -0.002840251764937962,
+    "price_change_percentage_24h": -0.23578,
+    "ath": 1.35,
+    "atl": 1.031
+  },
+  {
+    "id": "agora-dollar",
+    "price_change_24h": 0.00042459,
+    "price_change_percentage_24h": 0.04249,
+    "ath": 1.022,
+    "atl": 0.950515
+  },
+  {
+    "id": "icon",
+    "price_change_24h": -0.000584836028130115,
+    "price_change_percentage_24h": -0.48127,
+    "ath": 13.16,
+    "atl": 0.070768
+  },
+  {
+    "id": "solayer",
+    "price_change_24h": -0.008733248440839225,
+    "price_change_percentage_24h": -1.40148,
+    "ath": 3.39,
+    "atl": 0.599884
+  },
+  {
+    "id": "conscious-token",
+    "price_change_24h": 0.00177151,
+    "price_change_percentage_24h": 1.39224,
+    "ath": 0.160554,
+    "atl": 0.055157
+  },
+  {
+    "id": "compound-ether",
+    "price_change_24h": -0.41166214300918114,
+    "price_change_percentage_24h": -0.80058,
+    "ath": 97.75,
+    "atl": 1.89
+  },
+  {
+    "id": "woo-network",
+    "price_change_24h": 0.00044274,
+    "price_change_percentage_24h": 0.66316,
+    "ath": 1.78,
+    "atl": 0.02211546
+  },
+  {
+    "id": "noble-dollar-usdn",
+    "price_change_24h": -1.932289903972e-06,
+    "price_change_percentage_24h": -0.00019,
+    "ath": 1.0,
+    "atl": 0.981095
+  },
+  {
+    "id": "gohome",
+    "price_change_24h": -1.2614530498102,
+    "price_change_percentage_24h": -0.5157,
+    "ath": 277.7,
+    "atl": 215.16
+  },
+  {
+    "id": "coinshift-usdl-morpho-vault",
+    "price_change_24h": 0.00069992,
+    "price_change_percentage_24h": 0.06784,
+    "ath": 1.2,
+    "atl": 1.0
+  },
+  {
+    "id": "aura-on-sol",
+    "price_change_24h": 0.00115144,
+    "price_change_percentage_24h": 0.87988,
+    "ath": 0.238494,
+    "atl": 0.0002643
+  },
+  {
+    "id": "kamino",
+    "price_change_24h": -0.002667965782060709,
+    "price_change_percentage_24h": -4.56478,
+    "ath": 0.247842,
+    "atl": 0.01936576
+  },
+  {
+    "id": "xyo-network",
+    "price_change_24h": -0.00016983660041558,
+    "price_change_percentage_24h": -1.84543,
+    "ath": 0.081391,
+    "atl": 9.672e-05
+  },
+  {
+    "id": "melania-meme",
+    "price_change_24h": -0.002539950943104802,
+    "price_change_percentage_24h": -1.29092,
+    "ath": 13.05,
+    "atl": 0.182497
+  },
+  {
+    "id": "aixbt",
+    "price_change_24h": -0.000616736907429999,
+    "price_change_percentage_24h": -0.46761,
+    "ath": 0.942578,
+    "atl": 0.02381257
+  },
+  {
+    "id": "stepn",
+    "price_change_24h": -0.000652460559352253,
+    "price_change_percentage_24h": -1.50762,
+    "ath": 4.11,
+    "atl": 0.03690885
+  },
+  {
+    "id": "kadena",
+    "price_change_24h": -0.003958474446466798,
+    "price_change_percentage_24h": -1.02851,
+    "ath": 27.64,
+    "atl": 0.065811
+  },
+  {
+    "id": "zignaly",
+    "price_change_24h": -0.001145549959431585,
+    "price_change_percentage_24h": -1.30926,
+    "ath": 0.224179,
+    "atl": 0.00428716
+  },
+  {
+    "id": "enjincoin",
+    "price_change_24h": -0.000290286428020314,
+    "price_change_percentage_24h": -0.44289,
+    "ath": 4.82,
+    "atl": 0.01865964
+  },
+  {
+    "id": "mask-network",
+    "price_change_24h": -0.003473057880164943,
+    "price_change_percentage_24h": -0.2856,
+    "ath": 41.45,
+    "atl": 0.931333
+  },
+  {
+    "id": "anzen-usdz",
+    "price_change_24h": -0.002797593783249952,
+    "price_change_percentage_24h": -0.28279,
+    "ath": 1.052,
+    "atl": 0.821209
+  },
+  {
+    "id": "non-playable-coin",
+    "price_change_24h": -0.000563712689416424,
+    "price_change_percentage_24h": -3.61532,
+    "ath": 0.066169,
+    "atl": 4.561e-05
+  },
+  {
+    "id": "echelon-prime",
+    "price_change_24h": -0.08339399572510109,
+    "price_change_percentage_24h": -3.45534,
+    "ath": 28.0,
+    "atl": 1.19
+  },
+  {
+    "id": "chex-token",
+    "price_change_24h": -0.006339054845366829,
+    "price_change_percentage_24h": -5.02373,
+    "ath": 0.804342,
+    "atl": 0.0005008
+  },
+  {
+    "id": "resolv-wstusr",
+    "price_change_24h": 0.0,
+    "price_change_percentage_24h": 0.0,
+    "ath": 1.11,
+    "atl": 0.58995
+  },
+  {
+    "id": "zencash",
+    "price_change_24h": -0.21597575826622517,
+    "price_change_percentage_24h": -2.85002,
+    "ath": 165.92,
+    "atl": 3.26
+  },
+  {
+    "id": "orca",
+    "price_change_24h": -0.01893931504510049,
+    "price_change_percentage_24h": -0.9638,
+    "ath": 20.33,
+    "atl": 0.351125
+  },
+  {
+    "id": "liquity",
+    "price_change_24h": -0.000762321727876714,
+    "price_change_percentage_24h": -0.06371,
+    "ath": 146.94,
+    "atl": 0.433908
+  },
+  {
+    "id": "subsquid",
+    "price_change_24h": -0.007386589172886676,
+    "price_change_percentage_24h": -4.46041,
+    "ath": 0.284777,
+    "atl": 0.0228513
+  },
+  {
+    "id": "sushi",
+    "price_change_24h": -0.004875341038489855,
+    "price_change_percentage_24h": -0.80778,
+    "ath": 23.38,
+    "atl": 0.45292
+  },
+  {
+    "id": "ben-pasternak",
+    "price_change_24h": 0.0159375,
+    "price_change_percentage_24h": 16.07745,
+    "ath": 0.356908,
+    "atl": 0.0001838
+  },
+  {
+    "id": "spiko-us-t-bills-money-market-fund",
+    "price_change_24h": 0.000394,
+    "price_change_percentage_24h": 0.03754,
+    "ath": 1.05,
+    "atl": 1.013
+  },
+  {
+    "id": "purr-2",
+    "price_change_24h": 0.00148449,
+    "price_change_percentage_24h": 0.77509,
+    "ath": 0.690036,
+    "atl": 0.060601
+  },
+  {
+    "id": "crvusd",
+    "price_change_24h": -1.0566799002576e-05,
+    "price_change_percentage_24h": -0.00106,
+    "ath": 1.11,
+    "atl": 0.949016
+  },
+  {
+    "id": "io",
+    "price_change_24h": -0.01610986147232374,
+    "price_change_percentage_24h": -2.32846,
+    "ath": 6.43,
+    "atl": 0.513737
+  },
+  {
+    "id": "osmosis",
+    "price_change_24h": 0.01161474,
+    "price_change_percentage_24h": 8.15581,
+    "ath": 11.25,
+    "atl": 0.137464
+  },
+  {
+    "id": "solayer-staked-sol",
+    "price_change_24h": 0.321862,
+    "price_change_percentage_24h": 0.19479,
+    "ath": 304.31,
+    "atl": 103.46
+  },
+  {
+    "id": "nano",
+    "price_change_24h": -0.001733886244858818,
+    "price_change_percentage_24h": -0.20497,
+    "ath": 33.69,
+    "atl": 0.026179
+  },
+  {
+    "id": "babylon",
+    "price_change_24h": 0.00030042,
+    "price_change_percentage_24h": 0.61767,
+    "ath": 0.166134,
+    "atl": 0.03805236
+  },
+  {
+    "id": "alchemist-ai",
+    "price_change_24h": -0.011681762966447351,
+    "price_change_percentage_24h": -8.10597,
+    "ath": 0.235752,
+    "atl": 0.01435554
+  },
+  {
+    "id": "swipe",
+    "price_change_24h": -0.000854704853356703,
+    "price_change_percentage_24h": -0.49108,
+    "ath": 5.79,
+    "atl": 0.143591
+  },
+  {
+    "id": "ontology",
+    "price_change_24h": 3.342e-05,
+    "price_change_percentage_24h": 0.0275,
+    "ath": 10.92,
+    "atl": 0.105889
+  },
+  {
+    "id": "bora",
+    "price_change_24h": 0.0001374,
+    "price_change_percentage_24h": 0.14324,
+    "ath": 1.61,
+    "atl": 0.00482732
+  },
+  {
+    "id": "amnis-aptos",
+    "price_change_24h": -0.025033255802745735,
+    "price_change_percentage_24h": -0.56599,
+    "ath": 18.83,
+    "atl": 3.76
+  },
+  {
+    "id": "lorenzo-stbtc",
+    "price_change_24h": -276.4489111864532,
+    "price_change_percentage_24h": -0.25577,
+    "ath": 111244,
+    "atl": 61389
+  },
+  {
+    "id": "vicicoin",
+    "price_change_24h": -0.06717937052436795,
+    "price_change_percentage_24h": -0.34455,
+    "ath": 25.01,
+    "atl": 4.15
+  },
+  {
+    "id": "world-mobile-token",
+    "price_change_24h": 0.00451004,
+    "price_change_percentage_24h": 3.13743,
+    "ath": 0.979732,
+    "atl": 0.098034
+  },
+  {
+    "id": "level-usd",
+    "price_change_24h": -0.000392810697450452,
+    "price_change_percentage_24h": -0.03928,
+    "ath": 1.051,
+    "atl": 0.964139
+  },
+  {
+    "id": "magic-eden",
+    "price_change_24h": -0.008275242548933082,
+    "price_change_percentage_24h": -1.12176,
+    "ath": 17.0,
+    "atl": 0.644257
+  },
+  {
+    "id": "wrapped-zenbtc",
+    "price_change_24h": 754.13,
+    "price_change_percentage_24h": 0.69572,
+    "ath": 110940,
+    "atl": 98680
+  },
+  {
+    "id": "coti",
+    "price_change_24h": -0.00067598428976403,
+    "price_change_percentage_24h": -1.35625,
+    "ath": 0.668634,
+    "atl": 0.00556342
+  },
+  {
+    "id": "centrifuge",
+    "price_change_24h": -0.009397599885502178,
+    "price_change_percentage_24h": -4.61467,
+    "ath": 2.19,
+    "atl": 0.09996
+  },
+  {
+    "id": "apollo-diversified-credit-securitize-fund",
+    "price_change_24h": 0.609963,
+    "price_change_percentage_24h": 0.05889,
+    "ath": 1037.38,
+    "atl": 1004.33
+  },
+  {
+    "id": "stp-network",
+    "price_change_24h": -0.001149500736485204,
+    "price_change_percentage_24h": -2.02605,
+    "ath": 0.270085,
+    "atl": 0.00646736
+  },
+  {
+    "id": "book-of-meme",
+    "price_change_24h": -3.3776801566983e-05,
+    "price_change_percentage_24h": -2.11453,
+    "ath": 0.02688878,
+    "atl": 5.848e-05
+  },
+  {
+    "id": "sbtc-2",
+    "price_change_24h": -1042.8054821244295,
+    "price_change_percentage_24h": -0.95925,
+    "ath": 113653,
+    "atl": 50597
+  },
+  {
+    "id": "ozone-chain",
+    "price_change_24h": -0.002313453207258842,
+    "price_change_percentage_24h": -1.75911,
+    "ath": 0.485077,
+    "atl": 0.060046
+  },
+  {
+    "id": "undeads-games",
+    "price_change_24h": -0.06421853646392628,
+    "price_change_percentage_24h": -5.72192,
+    "ath": 2.72,
+    "atl": 0.040673
+  },
+  {
+    "id": "pay-coin",
+    "price_change_24h": -0.001704518706570429,
+    "price_change_percentage_24h": -1.61447,
+    "ath": 4.22,
+    "atl": 0.01816581
+  },
+  {
+    "id": "status",
+    "price_change_24h": 0.00032743,
+    "price_change_percentage_24h": 1.24636,
+    "ath": 0.684918,
+    "atl": 0.00592935
+  },
+  {
+    "id": "lcx",
+    "price_change_24h": -0.002515942269464277,
+    "price_change_percentage_24h": -2.19059,
+    "ath": 0.563966,
+    "atl": 7.085e-05
+  },
+  {
+    "id": "acet-token",
+    "price_change_24h": 0.00179476,
+    "price_change_percentage_24h": 3.01242,
+    "ath": 1.9,
+    "atl": 0.00242311
+  },
+  {
+    "id": "request-network",
+    "price_change_24h": 0.00084818,
+    "price_change_percentage_24h": 0.60454,
+    "ath": 1.059,
+    "atl": 0.00454707
+  },
+  {
+    "id": "spacen",
+    "price_change_24h": -0.3409821554166439,
+    "price_change_percentage_24h": -11.61194,
+    "ath": 6.15,
+    "atl": 0.04957282
+  },
+  {
+    "id": "rocket-pool",
+    "price_change_24h": -0.0918278207044958,
+    "price_change_percentage_24h": -1.86852,
+    "ath": 61.9,
+    "atl": 0.00884718
+  },
+  {
+    "id": "entangle",
+    "price_change_24h": null,
+    "price_change_percentage_24h": null,
+    "ath": 2.82,
+    "atl": 3.211e-05
+  },
+  {
+    "id": "terra-luna-2",
+    "price_change_24h": -0.001001397078335214,
+    "price_change_percentage_24h": -0.6697,
+    "ath": 18.87,
+    "atl": 0.127636
+  },
+  {
+    "id": "reallink",
+    "price_change_24h": 0.0002413,
+    "price_change_percentage_24h": 0.66837,
+    "ath": 0.99069,
+    "atl": 0.00023002
+  },
+  {
+    "id": "incrypt",
+    "price_change_24h": -0.000698175916358245,
+    "price_change_percentage_24h": -4.23147,
+    "ath": 0.03726259,
+    "atl": 0.00207913
+  },
+  {
+    "id": "hive",
+    "price_change_24h": 0.0012461,
+    "price_change_percentage_24h": 0.5936,
+    "ath": 3.41,
+    "atl": 0.087309
+  },
+  {
+    "id": "swftcoin",
+    "price_change_24h": -0.000205327188695427,
+    "price_change_percentage_24h": -1.98636,
+    "ath": 0.04665833,
+    "atl": 0.00046438
+  },
+  {
+    "id": "solv-protocol-solvbtc-jupiter",
+    "price_change_24h": -1315.8403772302117,
+    "price_change_percentage_24h": -1.14261,
+    "ath": 118878,
+    "atl": 72207
+  },
+  {
+    "id": "tradable-singapore-fintech-ssl-2",
+    "price_change_24h": 0.0,
+    "price_change_percentage_24h": 0.0,
+    "ath": 1.0,
+    "atl": 1.0
+  },
+  {
+    "id": "onyc",
+    "price_change_24h": -0.00048492421023183,
+    "price_change_percentage_24h": -0.04809,
+    "ath": 1.008,
+    "atl": 1.007
+  },
+  {
+    "id": "qusdt",
+    "price_change_24h": -0.000164402668841546,
+    "price_change_percentage_24h": -0.01644,
+    "ath": 1.019,
+    "atl": 0.979455
+  },
+  {
+    "id": "moonwell-artemis",
+    "price_change_24h": -0.001121535371573664,
+    "price_change_percentage_24h": -3.81472,
+    "ath": 0.298797,
+    "atl": 0.00298508
+  },
+  {
+    "id": "altlayer",
+    "price_change_24h": -0.00045209065225154,
+    "price_change_percentage_24h": -1.69072,
+    "ath": 0.676743,
+    "atl": 0.02258758
+  },
+  {
+    "id": "blast",
+    "price_change_24h": 0.00016525,
+    "price_change_percentage_24h": 7.45479,
+    "ath": 0.02917956,
+    "atl": 0.00188224
+  },
+  {
+    "id": "onfa",
+    "price_change_24h": 0.01807111,
+    "price_change_percentage_24h": 2.15867,
+    "ath": 2.48,
+    "atl": 0.12921
+  },
+  {
+    "id": "venus",
+    "price_change_24h": -0.06006011601606076,
+    "price_change_percentage_24h": -1.0122,
+    "ath": 146.82,
+    "atl": 1.65
+  },
+  {
+    "id": "bitmart-token",
+    "price_change_24h": 0.00201696,
+    "price_change_percentage_24h": 0.70679,
+    "ath": 0.619048,
+    "atl": 0.00672692
+  },
+  {
+    "id": "tellor",
+    "price_change_24h": -0.3527546437117053,
+    "price_change_percentage_24h": -0.96376,
+    "ath": 593.09,
+    "atl": 0.01001379
+  },
+  {
+    "id": "optimism-bridged-wbtc-optimism",
+    "price_change_24h": -759.1502270913479,
+    "price_change_percentage_24h": -0.69791,
+    "ath": 111975,
+    "atl": 52622
+  },
+  {
+    "id": "goatseus-maximus",
+    "price_change_24h": -0.003514839157080604,
+    "price_change_percentage_24h": -3.5014,
+    "ath": 1.35,
+    "atl": 0.03620102
+  },
+  {
+    "id": "big-time",
+    "price_change_24h": -0.000970733846967796,
+    "price_change_percentage_24h": -1.87731,
+    "ath": 0.977359,
+    "atl": 0.0145
+  },
+  {
+    "id": "six",
+    "price_change_24h": -9.5736898373944e-05,
+    "price_change_percentage_24h": -0.14892,
+    "ath": 0.082359,
+    "atl": 0.059045
+  },
+  {
+    "id": "constellation-labs",
+    "price_change_24h": 0.0013025,
+    "price_change_percentage_24h": 4.0051,
+    "ath": 0.451761,
+    "atl": 0.00110189
+  },
+  {
+    "id": "illuvium",
+    "price_change_24h": -0.17096006419970955,
+    "price_change_percentage_24h": -1.65265,
+    "ath": 1911.26,
+    "atl": 9.15
+  },
+  {
+    "id": "waves",
+    "price_change_24h": -0.02916675956490533,
+    "price_change_percentage_24h": -2.93693,
+    "ath": 61.3,
+    "atl": 0.130878
+  },
+  {
+    "id": "lagrange",
+    "price_change_24h": -0.005904627510178784,
+    "price_change_percentage_24h": -1.16966,
+    "ath": 1.72,
+    "atl": 0.253272
+  },
+  {
+    "id": "lift-dollar",
+    "price_change_24h": -0.000227356848687021,
+    "price_change_percentage_24h": -0.02274,
+    "ath": 1.028,
+    "atl": 0.960174
+  },
+  {
+    "id": "skale",
+    "price_change_24h": -0.000104423369494403,
+    "price_change_percentage_24h": -0.62406,
+    "ath": 1.22,
+    "atl": 0.01596278
+  },
+  {
+    "id": "velo",
+    "price_change_24h": -7.5249898201494e-05,
+    "price_change_percentage_24h": -0.57784,
+    "ath": 2.29,
+    "atl": 0.00103046
+  },
+  {
+    "id": "l2-standard-bridged-frxusd",
+    "price_change_24h": 0.00195011,
+    "price_change_percentage_24h": 0.19543,
+    "ath": 1.047,
+    "atl": 0.968341
+  },
+  {
+    "id": "aleo",
+    "price_change_24h": -0.003773635620131444,
+    "price_change_percentage_24h": -1.67752,
+    "ath": 6.72,
+    "atl": 0.112935
+  },
+  {
+    "id": "sui-bridged-usdt-sui",
+    "price_change_24h": -0.000380790314597923,
+    "price_change_percentage_24h": -0.03807,
+    "ath": 1.024,
+    "atl": 0.975141
+  },
+  {
+    "id": "metis-token",
+    "price_change_24h": -0.27872312278552336,
+    "price_change_percentage_24h": -1.86277,
+    "ath": 323.54,
+    "atl": 3.45
+  },
+  {
+    "id": "uma",
+    "price_change_24h": -0.014392182170161805,
+    "price_change_percentage_24h": -1.32993,
+    "ath": 41.56,
+    "atl": 0.303625
+  },
+  {
+    "id": "alchemy-pay",
+    "price_change_24h": 0.00016209,
+    "price_change_percentage_24h": 0.86556,
+    "ath": 0.198666,
+    "atl": 0.00135537
+  },
+  {
+    "id": "unit-00-rei",
+    "price_change_24h": -0.01681827916802346,
+    "price_change_percentage_24h": -15.32737,
+    "ath": 0.17897,
+    "atl": 0.00605432
+  },
+  {
+    "id": "nkyc-token",
+    "price_change_24h": -0.18393254155926542,
+    "price_change_percentage_24h": -0.78209,
+    "ath": 35.51,
+    "atl": 4.28
+  },
+  {
+    "id": "elixir-staked-deusd",
+    "price_change_24h": 0.00064571,
+    "price_change_percentage_24h": 0.06161,
+    "ath": 1.2,
+    "atl": 0.593515
+  },
+  {
+    "id": "swop-2",
+    "price_change_24h": 2.58347e-07,
+    "price_change_percentage_24h": 0.00279,
+    "ath": 0.01091108,
+    "atl": 0.00925028
+  },
+  {
+    "id": "bio-protocol",
+    "price_change_24h": -0.002078344634059467,
+    "price_change_percentage_24h": -3.90979,
+    "ath": 0.888995,
+    "atl": 0.0407545
+  },
+  {
+    "id": "dola-usd",
+    "price_change_24h": 0.00022644,
+    "price_change_percentage_24h": 0.02269,
+    "ath": 1.87,
+    "atl": 0.088407
+  },
+  {
+    "id": "stratis",
+    "price_change_24h": -0.001276089561199872,
+    "price_change_percentage_24h": -2.70445,
+    "ath": 22.77,
+    "atl": 0.0114071
+  },
+  {
+    "id": "vvs-finance",
+    "price_change_24h": -9.548090332e-09,
+    "price_change_percentage_24h": -0.50833,
+    "ath": 0.00033093,
+    "atl": 1.68e-06
+  },
+  {
+    "id": "bugscoin",
+    "price_change_24h": 0.00120018,
+    "price_change_percentage_24h": 17.64745,
+    "ath": 0.01229164,
+    "atl": 0.00137788
+  },
+  {
+    "id": "verasity",
+    "price_change_24h": -1.9072042796921e-05,
+    "price_change_percentage_24h": -1.71559,
+    "ath": 0.086208,
+    "atl": 0.0009692
+  },
+  {
+    "id": "rollbit-coin",
+    "price_change_24h": 0.00014191,
+    "price_change_percentage_24h": 0.31948,
+    "ath": 0.264358,
+    "atl": 0.00093506
+  },
+  {
+    "id": "clearpool",
+    "price_change_24h": 0.00311553,
+    "price_change_percentage_24h": 2.77633,
+    "ath": 2.55,
+    "atl": 0.01599962
+  },
+  {
+    "id": "constitutiondao",
+    "price_change_24h": -0.000162547535913302,
+    "price_change_percentage_24h": -0.90468,
+    "ath": 0.185022,
+    "atl": 0.0009194
+  },
+  {
+    "id": "anime",
+    "price_change_24h": -0.00034092699835838,
+    "price_change_percentage_24h": -2.05212,
+    "ath": 0.186122,
+    "atl": 0.01240107
+  },
+  {
+    "id": "loopring",
+    "price_change_24h": -0.000995853020756693,
+    "price_change_percentage_24h": -1.36445,
+    "ath": 3.75,
+    "atl": 0.01963893
+  },
+  {
+    "id": "paal-ai",
+    "price_change_24h": -0.0009360761679503,
+    "price_change_percentage_24h": -0.93353,
+    "ath": 0.859797,
+    "atl": 4.587e-05
+  },
+  {
+    "id": "band-protocol",
+    "price_change_24h": -0.000991536810329596,
+    "price_change_percentage_24h": -0.17321,
+    "ath": 22.83,
+    "atl": 0.203625
+  },
+  {
+    "id": "project-galaxy",
+    "price_change_24h": 0.01571695,
+    "price_change_percentage_24h": 2.30926,
+    "ath": 18.32,
+    "atl": 0.61601
+  },
+  {
+    "id": "nexusmind",
+    "price_change_24h": -0.03817710525094853,
+    "price_change_percentage_24h": -0.43822,
+    "ath": 12.0,
+    "atl": 0.965963
+  },
+  {
+    "id": "restaked-swell-eth",
+    "price_change_24h": -44.433966227903966,
+    "price_change_percentage_24h": -1.73705,
+    "ath": 17684.38,
+    "atl": 1442.67
+  },
+  {
+    "id": "cookie",
+    "price_change_24h": -0.001939623439342203,
+    "price_change_percentage_24h": -1.18905,
+    "ath": 0.753574,
+    "atl": 0.02002041
+  },
+  {
+    "id": "delysium",
+    "price_change_24h": -0.001071022252643515,
+    "price_change_percentage_24h": -2.12724,
+    "ath": 0.672035,
+    "atl": 0.01230869
+  },
+  {
+    "id": "biconomy",
+    "price_change_24h": -0.000891863872242993,
+    "price_change_percentage_24h": -0.97083,
+    "ath": 21.45,
+    "atl": 0.077385
+  },
+  {
+    "id": "cronos-bridged-usdt-cronos",
+    "price_change_24h": 0.00016541,
+    "price_change_percentage_24h": 0.01654,
+    "ath": 1.2,
+    "atl": 0.84577
+  },
+  {
+    "id": "iostoken",
+    "price_change_24h": 3.209e-05,
+    "price_change_percentage_24h": 0.98289,
+    "ath": 0.129829,
+    "atl": 0.00160309
+  },
+  {
+    "id": "orbs",
+    "price_change_24h": -9.2832984552902e-05,
+    "price_change_percentage_24h": -0.49888,
+    "ath": 0.360443,
+    "atl": 0.00469039
+  },
+  {
+    "id": "singularitynet",
+    "price_change_24h": -0.00252867174318594,
+    "price_change_percentage_24h": -0.86603,
+    "ath": 1.46,
+    "atl": 0.00747159
+  },
+  {
+    "id": "usd-coin-ethereum-bridged",
+    "price_change_24h": -0.001043268749968629,
+    "price_change_percentage_24h": -0.10424,
+    "ath": 1.22,
+    "atl": 0.899904
+  },
+  {
+    "id": "the-grays-currency",
+    "price_change_24h": 1.15e-05,
+    "price_change_percentage_24h": 4.05076,
+    "ath": 0.00132623,
+    "atl": 2.17e-06
+  },
+  {
+    "id": "diamond-launch",
+    "price_change_24h": -0.000192732843218441,
+    "price_change_percentage_24h": -0.19833,
+    "ath": 3.17,
+    "atl": 0.05189
+  },
+  {
+    "id": "proton",
+    "price_change_24h": -1.0283605575971e-05,
+    "price_change_percentage_24h": -0.32985,
+    "ath": 0.100088,
+    "atl": 0.00054716
+  },
+  {
+    "id": "venice-token",
+    "price_change_24h": -0.011220133343214922,
+    "price_change_percentage_24h": -0.41469,
+    "ath": 22.58,
+    "atl": 1.8
+  },
+  {
+    "id": "metaplex",
+    "price_change_24h": 0.00282885,
+    "price_change_percentage_24h": 2.82926,
+    "ath": 0.896784,
+    "atl": 0.02528374
+  },
+  {
+    "id": "tokenlon",
+    "price_change_24h": -0.002087230231621717,
+    "price_change_percentage_24h": -0.30051,
+    "ath": 9.81,
+    "atl": 0.371875
+  },
+  {
+    "id": "verge",
+    "price_change_24h": -5.3611547299819e-05,
+    "price_change_percentage_24h": -1.03634,
+    "ath": 0.261874,
+    "atl": 2.23e-06
+  },
+  {
+    "id": "beets-staked-sonic",
+    "price_change_24h": -0.002902166475815759,
+    "price_change_percentage_24h": -0.9167,
+    "ath": 0.990411,
+    "atl": 0.254052
+  },
+  {
+    "id": "oec-token",
+    "price_change_24h": -0.024231384463700323,
+    "price_change_percentage_24h": -0.51369,
+    "ath": 250.53,
+    "atl": 4.35
+  },
+  {
+    "id": "g-token",
+    "price_change_24h": -0.00018904192578653,
+    "price_change_percentage_24h": -1.60932,
+    "ath": 0.091691,
+    "atl": 0.00992076
+  },
+  {
+    "id": "yu",
+    "price_change_24h": 2.101e-05,
+    "price_change_percentage_24h": 0.0021,
+    "ath": 1.001,
+    "atl": 0.998587
+  },
+  {
+    "id": "mythos",
+    "price_change_24h": -0.000841461246004149,
+    "price_change_percentage_24h": -0.79547,
+    "ath": 1.99,
+    "atl": 0.101816
+  },
+  {
+    "id": "metal-blockchain",
+    "price_change_24h": 0.00322614,
+    "price_change_percentage_24h": 1.99978,
+    "ath": 1.65,
+    "atl": 0.03510303
+  },
+  {
+    "id": "coreum",
+    "price_change_24h": 0.00593272,
+    "price_change_percentage_24h": 4.84066,
+    "ath": 0.701087,
+    "atl": 0.054692
+  },
+  {
+    "id": "infinitar-governance-token",
+    "price_change_24h": -0.007176325664609351,
+    "price_change_percentage_24h": -3.23883,
+    "ath": 0.680328,
+    "atl": 0.16303
+  },
+  {
+    "id": "mass-vehicle-ledger",
+    "price_change_24h": 1.715e-05,
+    "price_change_percentage_24h": 0.5631,
+    "ath": 0.06973,
+    "atl": 0.0001466
+  },
+  {
+    "id": "avant-usd",
+    "price_change_24h": -0.000276287761809435,
+    "price_change_percentage_24h": -0.02763,
+    "ath": 1.011,
+    "atl": 0.967857
+  },
+  {
+    "id": "babyboomtoken",
+    "price_change_24h": 0.087822,
+    "price_change_percentage_24h": 14.07794,
+    "ath": 0.939659,
+    "atl": 0.04564213
+  },
+  {
+    "id": "relend-usdc",
+    "price_change_24h": 0.00017649,
+    "price_change_percentage_24h": 0.01656,
+    "ath": 9.28,
+    "atl": 0.862011
+  },
+  {
+    "id": "l2-standard-bridged-weth-optimism",
+    "price_change_24h": -35.387211285273224,
+    "price_change_percentage_24h": -1.38226,
+    "ath": 4100.79,
+    "atl": 1407.08
+  },
+  {
+    "id": "power-ledger",
+    "price_change_24h": -0.000440291954106553,
+    "price_change_percentage_24h": -0.28599,
+    "ath": 1.89,
+    "atl": 0.03262537
+  },
+  {
+    "id": "neiro-on-eth",
+    "price_change_24h": -0.007174772382274985,
+    "price_change_percentage_24h": -8.14722,
+    "ath": 0.293273,
+    "atl": 0.01421336
+  },
+  {
+    "id": "quantixai",
+    "price_change_24h": -0.43396972940392686,
+    "price_change_percentage_24h": -0.42975,
+    "ath": 105.74,
+    "atl": 0.228366
+  },
+  {
+    "id": "temple",
+    "price_change_24h": -0.052870261445772115,
+    "price_change_percentage_24h": -1.5323,
+    "ath": 3.94,
+    "atl": 0.186329
+  },
+  {
+    "id": "0x0-ai-ai-smart-contract",
+    "price_change_24h": 0.00190303,
+    "price_change_percentage_24h": 2.15028,
+    "ath": 0.500356,
+    "atl": 0.0002781
+  },
+  {
+    "id": "everipedia",
+    "price_change_24h": 2.862e-05,
+    "price_change_percentage_24h": 0.80692,
+    "ath": 0.072382,
+    "atl": 0.00063047
+  },
+  {
+    "id": "tokenize-xchange",
+    "price_change_24h": -19.367458343043758,
+    "price_change_percentage_24h": -95.09021,
+    "ath": 50.43,
+    "atl": 0.111255
+  },
+  {
+    "id": "songbird",
+    "price_change_24h": -2.9371438069224e-05,
+    "price_change_percentage_24h": -0.57765,
+    "ath": 0.71334,
+    "atl": 0.00371776
+  },
+  {
+    "id": "sats-ordinals",
+    "price_change_24h": -1.16998311e-10,
+    "price_change_percentage_24h": -0.30705,
+    "ath": 9.22983e-07,
+    "atl": 3.189e-09
+  },
+  {
+    "id": "ribbita-by-virtuals",
+    "price_change_24h": -0.004801121669531255,
+    "price_change_percentage_24h": -5.72532,
+    "ath": 0.140297,
+    "atl": 0.01032004
+  },
+  {
+    "id": "pocket-network",
+    "price_change_24h": -0.000681137706116559,
+    "price_change_percentage_24h": -1.70892,
+    "ath": 3.11,
+    "atl": 0.00883573
+  },
+  {
+    "id": "sign-global",
+    "price_change_24h": -0.000725503283041065,
+    "price_change_percentage_24h": -1.09295,
+    "ath": 0.126024,
+    "atl": 0.062614
+  },
+  {
+    "id": "straitsx-xusd",
+    "price_change_24h": -0.000413559715660816,
+    "price_change_percentage_24h": -0.04135,
+    "ath": 1.77,
+    "atl": 0.936389
+  },
+  {
+    "id": "zelcash",
+    "price_change_24h": 5.023e-05,
+    "price_change_percentage_24h": 0.02484,
+    "ath": 3.33,
+    "atl": 0.01640374
+  },
+  {
+    "id": "dkargo",
+    "price_change_24h": 0.00020306,
+    "price_change_percentage_24h": 1.30996,
+    "ath": 0.703797,
+    "atl": 0.01400195
+  },
+  {
+    "id": "degen-base",
+    "price_change_24h": -0.000144538817918254,
+    "price_change_percentage_24h": -4.04044,
+    "ath": 0.064543,
+    "atl": 2.255e-05
+  },
+  {
+    "id": "redstone-oracles",
+    "price_change_24h": -0.00944784003412863,
+    "price_change_percentage_24h": -3.26483,
+    "ath": 0.932461,
+    "atl": 0.232899
+  },
+  {
+    "id": "hashkey-ecopoints",
+    "price_change_24h": 0.01541111,
+    "price_change_percentage_24h": 2.68512,
+    "ath": 2.56,
+    "atl": 0.250035
+  },
+  {
+    "id": "ardor",
+    "price_change_24h": -0.000445725238846562,
+    "price_change_percentage_24h": -0.56919,
+    "ath": 2.04,
+    "atl": 0.008745
+  },
+  {
+    "id": "yield-guild-games",
+    "price_change_24h": 0.00039015,
+    "price_change_percentage_24h": 0.26521,
+    "ath": 11.17,
+    "atl": 0.125601
+  },
+  {
+    "id": "hivemapper",
+    "price_change_24h": -0.000620166732326042,
+    "price_change_percentage_24h": -3.43882,
+    "ath": 0.376287,
+    "atl": 0.00849617
+  },
+  {
+    "id": "merlin-chain",
+    "price_change_24h": 0.00717477,
+    "price_change_percentage_24h": 7.16969,
+    "ath": 1.45,
+    "atl": 0.071472
+  },
+  {
+    "id": "pha",
+    "price_change_24h": 0.0006618,
+    "price_change_percentage_24h": 0.68956,
+    "ath": 1.39,
+    "atl": 0.064594
+  },
+  {
+    "id": "bridged-wrapped-ether-starkgate",
+    "price_change_24h": -21.40406400242682,
+    "price_change_percentage_24h": -0.83736,
+    "ath": 4096.66,
+    "atl": 1000.36
+  },
+  {
+    "id": "usdx",
+    "price_change_24h": 0.0,
+    "price_change_percentage_24h": 0.0,
+    "ath": 3.89,
+    "atl": 0.100156
+  },
+  {
+    "id": "felix-feusd",
+    "price_change_24h": -0.001979597870791938,
+    "price_change_percentage_24h": -0.19677,
+    "ath": 1.067,
+    "atl": 0.953014
+  },
+  {
+    "id": "radix",
+    "price_change_24h": -8.3224616709118e-05,
+    "price_change_percentage_24h": -1.2566,
+    "ath": 0.651264,
+    "atl": 0.00589431
+  },
+  {
+    "id": "f-x-protocol-fxusd",
+    "price_change_24h": -0.000417207259519548,
+    "price_change_percentage_24h": -0.04175,
+    "ath": 1.031,
+    "atl": 0.953062
+  },
+  {
+    "id": "chaingpt",
+    "price_change_24h": -0.000935467674425774,
+    "price_change_percentage_24h": -1.00938,
+    "ath": 0.555799,
+    "atl": 0.03568486
+  },
+  {
+    "id": "renzo-restaked-lst",
+    "price_change_24h": -22.850387048395532,
+    "price_change_percentage_24h": -0.74206,
+    "ath": 4888.81,
+    "atl": 1684.12
+  },
+  {
+    "id": "pundi-x-2",
+    "price_change_24h": 0.01000976,
+    "price_change_percentage_24h": 3.48743,
+    "ath": 10.07,
+    "atl": 0.215728
+  },
+  {
+    "id": "memecoin-2",
+    "price_change_24h": -2.4002995264197e-05,
+    "price_change_percentage_24h": -1.54919,
+    "ath": 0.056324,
+    "atl": 0.00126112
+  },
+  {
+    "id": "peaq-2",
+    "price_change_24h": -0.000498284769118146,
+    "price_change_percentage_24h": -0.64207,
+    "ath": 0.750473,
+    "atl": 0.059255
+  },
+  {
+    "id": "bonfida",
+    "price_change_24h": -0.005613498443704373,
+    "price_change_percentage_24h": -6.79308,
+    "ath": 18.77,
+    "atl": 0.052928
+  },
+  {
+    "id": "sonic-svm",
+    "price_change_24h": -0.000392440265175764,
+    "price_change_percentage_24h": -0.18484,
+    "ath": 1.23,
+    "atl": 0.158772
+  },
+  {
+    "id": "ergo",
+    "price_change_24h": 0.00204403,
+    "price_change_percentage_24h": 0.21896,
+    "ath": 18.72,
+    "atl": 0.094191
+  },
+  {
+    "id": "moonwell-flagship-eth-morpho-vault",
+    "price_change_24h": -70.80022977654744,
+    "price_change_percentage_24h": -2.7307,
+    "ath": 2910.56,
+    "atl": 1373.02
+  },
+  {
+    "id": "manta-network",
+    "price_change_24h": -0.00271450751647917,
+    "price_change_percentage_24h": -1.48152,
+    "ath": 4.05,
+    "atl": 0.156729
+  },
+  {
+    "id": "avant-staked-usd",
+    "price_change_24h": 0.00021423,
+    "price_change_percentage_24h": 0.02031,
+    "ath": 1.064,
+    "atl": 0.937701
+  },
+  {
+    "id": "ark",
+    "price_change_24h": -0.007912093120123587,
+    "price_change_percentage_24h": -1.93867,
+    "ath": 10.22,
+    "atl": 0.0339403
+  },
+  {
+    "id": "susda",
+    "price_change_24h": 0.0,
+    "price_change_percentage_24h": 0.0,
+    "ath": 1.071,
+    "atl": 0.984449
+  },
+  {
+    "id": "solv-protocol-solvbtc-core",
+    "price_change_24h": -427.950880237433,
+    "price_change_percentage_24h": -0.39699,
+    "ath": 211998,
+    "atl": 65208
+  },
+  {
+    "id": "api3",
+    "price_change_24h": -0.003725133433015726,
+    "price_change_percentage_24h": -0.61449,
+    "ath": 10.3,
+    "atl": 0.498098
+  },
+  {
+    "id": "osaka-protocol",
+    "price_change_24h": -1.597527072e-09,
+    "price_change_percentage_24h": -1.60534,
+    "ath": 4.37636e-07,
+    "atl": 1.2854e-08
+  },
+  {
+    "id": "audius",
+    "price_change_24h": -0.001165464997540562,
+    "price_change_percentage_24h": -2.05512,
+    "ath": 4.95,
+    "atl": 0.0437371
+  },
+  {
+    "id": "spell-token",
+    "price_change_24h": -4.03762925086e-06,
+    "price_change_percentage_24h": -0.8852,
+    "ath": 0.03506357,
+    "atl": 0.00029812
+  },
+  {
+    "id": "aevo-exchange",
+    "price_change_24h": 0.0001365,
+    "price_change_percentage_24h": 0.16819,
+    "ath": 3.76,
+    "atl": 0.067543
+  },
+  {
+    "id": "lisk",
+    "price_change_24h": 0.00282388,
+    "price_change_percentage_24h": 0.74797,
+    "ath": 34.92,
+    "atl": 0.101672
+  },
+  {
+    "id": "dymension",
+    "price_change_24h": -0.002604117660869848,
+    "price_change_percentage_24h": -1.1278,
+    "ath": 8.5,
+    "atl": 0.196471
+  },
+  {
+    "id": "civic",
+    "price_change_24h": 0.00265536,
+    "price_change_percentage_24h": 3.00165,
+    "ath": 1.35,
+    "atl": 0.01102541
+  },
+  {
+    "id": "l2-standard-bridged-weth-blast",
+    "price_change_24h": -21.006038428441116,
+    "price_change_percentage_24h": -0.8219,
+    "ath": 4099.94,
+    "atl": 1387.29
+  },
+  {
+    "id": "bitdca",
+    "price_change_24h": -0.009896633403024047,
+    "price_change_percentage_24h": -1.02668,
+    "ath": 1.05,
+    "atl": 0.364545
+  },
+  {
+    "id": "cetus-protocol",
+    "price_change_24h": -0.00187120006007771,
+    "price_change_percentage_24h": -2.07201,
+    "ath": 0.487663,
+    "atl": 0.026753
+  },
+  {
+    "id": "reservoir-rusd",
+    "price_change_24h": 0.00033971,
+    "price_change_percentage_24h": 0.03402,
+    "ath": 2.0,
+    "atl": 0.986048
+  },
+  {
+    "id": "milk-alliance",
+    "price_change_24h": -0.002143754005715037,
+    "price_change_percentage_24h": -1.41977,
+    "ath": 3.59,
+    "atl": 0.133212
+  },
+  {
+    "id": "ong",
+    "price_change_24h": 0.00086665,
+    "price_change_percentage_24h": 0.5169,
+    "ath": 4.39,
+    "atl": 0.04242318
+  },
+  {
+    "id": "usual",
+    "price_change_24h": -0.002381933832959801,
+    "price_change_percentage_24h": -3.44714,
+    "ath": 1.61,
+    "atl": 0.059646
+  },
+  {
+    "id": "terrausd",
+    "price_change_24h": -9.7859616471505e-05,
+    "price_change_percentage_24h": -0.77532,
+    "ath": 1.092,
+    "atl": 0.00601921
+  },
+  {
+    "id": "btu-protocol",
+    "price_change_24h": -0.009479746015750967,
+    "price_change_percentage_24h": -1.0729,
+    "ath": 5.0,
+    "atl": 0.01595713
+  },
+  {
+    "id": "paxos-standard",
+    "price_change_24h": 0.00040141,
+    "price_change_percentage_24h": 0.04015,
+    "ath": 1.18,
+    "atl": 0.863529
+  },
+  {
+    "id": "wax",
+    "price_change_24h": 0.00012962,
+    "price_change_percentage_24h": 0.65969,
+    "ath": 2.77,
+    "atl": 0.01594711
+  },
+  {
+    "id": "newton-protocol",
+    "price_change_24h": -0.011598859570483677,
+    "price_change_percentage_24h": -3.49214,
+    "ath": 0.820552,
+    "atl": 0.318611
+  },
+  {
+    "id": "resupply-usd",
+    "price_change_24h": -0.000336968746454391,
+    "price_change_percentage_24h": -0.03405,
+    "ath": 1.022,
+    "atl": 0.969015
+  },
+  {
+    "id": "bancor",
+    "price_change_24h": -0.001944580504309346,
+    "price_change_percentage_24h": -0.32048,
+    "ath": 10.72,
+    "atl": 0.120935
+  },
+  {
+    "id": "ronin-bridged-weth-ronin",
+    "price_change_24h": -22.550203925628466,
+    "price_change_percentage_24h": -0.88098,
+    "ath": 4100.41,
+    "atl": 1395.01
+  },
+  {
+    "id": "b3",
+    "price_change_24h": -1.9156546010523e-05,
+    "price_change_percentage_24h": -0.75057,
+    "ath": 0.01828807,
+    "atl": 0.0024948
+  },
+  {
+    "id": "staked-frax",
+    "price_change_24h": null,
+    "price_change_percentage_24h": null,
+    "ath": 1.24,
+    "atl": 0.858184
+  },
+  {
+    "id": "banana-gun",
+    "price_change_24h": -0.14198190652607678,
+    "price_change_percentage_24h": -0.81901,
+    "ath": 78.62,
+    "atl": 5.13
+  },
+  {
+    "id": "level-staked-usd",
+    "price_change_24h": -0.002092038582488742,
+    "price_change_percentage_24h": -0.19375,
+    "ath": 1.091,
+    "atl": 1.008
+  },
+  {
+    "id": "ponke",
+    "price_change_24h": -0.005514009805433429,
+    "price_change_percentage_24h": -4.26492,
+    "ath": 0.836512,
+    "atl": 0.00927982
+  },
+  {
+    "id": "rings-scbtc",
+    "price_change_24h": -1480.9484473371704,
+    "price_change_percentage_24h": -1.35397,
+    "ath": 112015,
+    "atl": 74083
+  },
+  {
+    "id": "fimarkcoin-com",
+    "price_change_24h": 1.34327e-07,
+    "price_change_percentage_24h": 0.00506,
+    "ath": 0.00267927,
+    "atl": 0.00048261
+  },
+  {
+    "id": "carv",
+    "price_change_24h": -0.011976313614543599,
+    "price_change_percentage_24h": -4.47624,
+    "ath": 1.36,
+    "atl": 0.218066
+  },
+  {
+    "id": "across-protocol",
+    "price_change_24h": -0.002247509987583329,
+    "price_change_percentage_24h": -1.61657,
+    "ath": 1.69,
+    "atl": 0.03440846
+  },
+  {
+    "id": "steem",
+    "price_change_24h": 0.00111625,
+    "price_change_percentage_24h": 0.8683,
+    "ath": 8.19,
+    "atl": 0.07199
+  },
+  {
+    "id": "shuffle-2",
+    "price_change_24h": -0.003407956833805625,
+    "price_change_percentage_24h": -1.55108,
+    "ath": 0.787524,
+    "atl": 0.141225
+  },
+  {
+    "id": "kelp-gain",
+    "price_change_24h": -19.548793664119785,
+    "price_change_percentage_24h": -0.73984,
+    "ath": 4184.77,
+    "atl": 1430.83
+  },
+  {
+    "id": "bridged-wrapped-steth-gnosis",
+    "price_change_24h": -26.86663210099914,
+    "price_change_percentage_24h": -0.87003,
+    "ath": 4858.83,
+    "atl": 1695.28
+  },
+  {
+    "id": "chromaway",
+    "price_change_24h": -0.001014295196999429,
+    "price_change_percentage_24h": -1.27962,
+    "ath": 1.49,
+    "atl": 0.00874003
+  },
+  {
+    "id": "iexec-rlc",
+    "price_change_24h": 0.01065775,
+    "price_change_percentage_24h": 1.18285,
+    "ath": 15.51,
+    "atl": 0.153815
+  },
+  {
+    "id": "apu-s-club",
+    "price_change_24h": -8.907950856158e-06,
+    "price_change_percentage_24h": -4.37106,
+    "ath": 0.00146564,
+    "atl": 1.88e-06
+  },
+  {
+    "id": "quantum-resistant-ledger",
+    "price_change_24h": -0.16127688671841034,
+    "price_change_percentage_24h": -16.15945,
+    "ath": 3.87,
+    "atl": 0.04116971
+  },
+  {
+    "id": "arcblock",
+    "price_change_24h": -0.023288685299923118,
+    "price_change_percentage_24h": -3.38317,
+    "ath": 4.69,
+    "atl": 0.04949826
+  },
+  {
+    "id": "goldfinch",
+    "price_change_24h": -8.049372311358e-06,
+    "price_change_percentage_24h": -0.00115,
+    "ath": 32.94,
+    "atl": 0.290236
+  },
+  {
+    "id": "dogs-2",
+    "price_change_24h": -2.518275666731e-06,
+    "price_change_percentage_24h": -1.95525,
+    "ath": 0.00163299,
+    "atl": 0.00010138
+  },
+  {
+    "id": "space-id",
+    "price_change_24h": -0.001856327200172397,
+    "price_change_percentage_24h": -1.21119,
+    "ath": 1.84,
+    "atl": 0.135178
+  },
+  {
+    "id": "connex",
+    "price_change_24h": -0.5144232202171821,
+    "price_change_percentage_24h": -0.8932,
+    "ath": 74.3,
+    "atl": 0.599067
+  },
+  {
+    "id": "adventure-gold",
+    "price_change_24h": -0.012313746109553048,
+    "price_change_percentage_24h": -1.72661,
+    "ath": 7.7,
+    "atl": 0.208231
+  },
+  {
+    "id": "global-commercial-business",
+    "price_change_24h": 0.00109171,
+    "price_change_percentage_24h": 2.06137,
+    "ath": 0.342361,
+    "atl": 0.03950847
+  },
+  {
+    "id": "sosovalue",
+    "price_change_24h": -0.008054770522807564,
+    "price_change_percentage_24h": -1.41695,
+    "ath": 1.42,
+    "atl": 0.359771
+  },
+  {
+    "id": "layerzero-bridged-weeth-swellchain",
+    "price_change_24h": -23.585713353502342,
+    "price_change_percentage_24h": -0.86065,
+    "ath": 3070.9,
+    "atl": 1479.31
+  },
+  {
+    "id": "hydradx",
+    "price_change_24h": 0.00024865,
+    "price_change_percentage_24h": 2.31122,
+    "ath": 0.03993264,
+    "atl": 0.00357925
+  },
+  {
+    "id": "marlin",
+    "price_change_24h": 5.451e-05,
+    "price_change_percentage_24h": 0.70149,
+    "ath": 0.323362,
+    "atl": 0.00653027
+  },
+  {
+    "id": "dogelon-mars",
+    "price_change_24h": -3.608047808e-09,
+    "price_change_percentage_24h": -3.00948,
+    "ath": 2.59e-06,
+    "atl": 1.7563e-08
+  },
+  {
+    "id": "cobak-token",
+    "price_change_24h": 0.03390773,
+    "price_change_percentage_24h": 5.30851,
+    "ath": 15.74,
+    "atl": 0.413367
+  },
+  {
+    "id": "satoshi-stablecoin",
+    "price_change_24h": -0.000192923141972723,
+    "price_change_percentage_24h": -0.01933,
+    "ath": 1.68,
+    "atl": 0.635574
+  },
+  {
+    "id": "zeus-network",
+    "price_change_24h": 0.0030756,
+    "price_change_percentage_24h": 1.9017,
+    "ath": 1.11,
+    "atl": 0.132579
+  },
+  {
+    "id": "mindwavedao",
+    "price_change_24h": -0.001803902707287433,
+    "price_change_percentage_24h": -2.22119,
+    "ath": 0.086481,
+    "atl": 0.078917
+  },
+  {
+    "id": "xai-blockchain",
+    "price_change_24h": -0.000819303370612284,
+    "price_change_percentage_24h": -1.64604,
+    "ath": 1.59,
+    "atl": 0.03867576
+  },
+  {
+    "id": "hosico-cat",
+    "price_change_24h": -0.006686040831706389,
+    "price_change_percentage_24h": -9.65543,
+    "ath": 0.075044,
+    "atl": 0.00892482
+  },
+  {
+    "id": "bifrost",
+    "price_change_24h": 0.00050936,
+    "price_change_percentage_24h": 1.15381,
+    "ath": 0.778815,
+    "atl": 0.01634183
+  },
+  {
+    "id": "vaneck-treasury-fund",
+    "price_change_24h": 0.0,
+    "price_change_percentage_24h": 0.0,
+    "ath": 1.0,
+    "atl": 1.0
+  },
+  {
+    "id": "puff-the-dragon",
+    "price_change_24h": -0.000624054388601442,
+    "price_change_percentage_24h": -0.8842,
+    "ath": 0.330448,
+    "atl": 0.03916614
+  },
+  {
+    "id": "initia",
+    "price_change_24h": -0.027408452040523723,
+    "price_change_percentage_24h": -6.5613,
+    "ath": 1.42,
+    "atl": 0.386721
+  },
+  {
+    "id": "balancer",
+    "price_change_24h": -0.004921108348843073,
+    "price_change_percentage_24h": -0.50601,
+    "ath": 74.45,
+    "atl": 0.755523
+  },
+  {
+    "id": "tokamak-network",
+    "price_change_24h": 0.077698,
+    "price_change_percentage_24h": 6.99263,
+    "ath": 30.51,
+    "atl": 0.853497
+  },
+  {
+    "id": "moonbeam",
+    "price_change_24h": 0.00044036,
+    "price_change_percentage_24h": 0.7095,
+    "ath": 19.5,
+    "atl": 0.053944
+  },
+  {
+    "id": "solv-protocol",
+    "price_change_24h": -0.000748833536878643,
+    "price_change_percentage_24h": -1.76607,
+    "ath": 0.200083,
+    "atl": 0.02179071
+  },
+  {
+    "id": "sophon",
+    "price_change_24h": -0.000220419255427016,
+    "price_change_percentage_24h": -0.7078,
+    "ath": 0.110782,
+    "atl": 0.03035789
+  },
+  {
+    "id": "bucket-protocol-buck-stablecoin",
+    "price_change_24h": -0.001211832413038461,
+    "price_change_percentage_24h": -0.12111,
+    "ath": 1.15,
+    "atl": 0.000978
+  },
+  {
+    "id": "m2-global-wealth-limited-mmx",
+    "price_change_24h": -0.048936107365593395,
+    "price_change_percentage_24h": -12.92238,
+    "ath": 3.47,
+    "atl": 0.04397974
+  },
+  {
+    "id": "solidus-aitech",
+    "price_change_24h": -0.000517397255939467,
+    "price_change_percentage_24h": -1.28733,
+    "ath": 0.493943,
+    "atl": 0.01243728
+  },
+  {
+    "id": "blockv",
+    "price_change_24h": 0.00010459,
+    "price_change_percentage_24h": 0.63003,
+    "ath": 0.356889,
+    "atl": 1.06e-05
+  },
+  {
+    "id": "astherus-usdf",
+    "price_change_24h": 0.00011623,
+    "price_change_percentage_24h": 0.01164,
+    "ath": 1.005,
+    "atl": 0.990993
+  },
+  {
+    "id": "energy-web-token",
+    "price_change_24h": -0.08180320342324898,
+    "price_change_percentage_24h": -7.54501,
+    "ath": 22.67,
+    "atl": 0.543628
+  },
+  {
+    "id": "anvil",
+    "price_change_24h": -1.8411883770358e-05,
+    "price_change_percentage_24h": -0.82929,
+    "ath": 0.00929021,
+    "atl": 0.00107134
+  },
+  {
+    "id": "numeraire",
+    "price_change_24h": 0.078889,
+    "price_change_percentage_24h": 1.07258,
+    "ath": 93.15,
+    "atl": 2.06
+  },
+  {
+    "id": "comedian",
+    "price_change_24h": -0.003380647276322181,
+    "price_change_percentage_24h": -5.36,
+    "ath": 0.37799,
+    "atl": 0.00929085
+  },
+  {
+    "id": "qanplatform",
+    "price_change_24h": -0.00156211332842001,
+    "price_change_percentage_24h": -4.26582,
+    "ath": 0.203412,
+    "atl": 0.00011724
+  },
+  {
+    "id": "chutes",
+    "price_change_24h": -1.387658956293997,
+    "price_change_percentage_24h": -2.87933,
+    "ath": 104.42,
+    "atl": 46.39
+  },
+  {
+    "id": "auction",
+    "price_change_24h": 0.088467,
+    "price_change_percentage_24h": 0.99028,
+    "ath": 70.44,
+    "atl": 3.47
+  },
+  {
+    "id": "ocean-protocol",
+    "price_change_24h": 7.378e-05,
+    "price_change_percentage_24h": 0.02487,
+    "ath": 1.93,
+    "atl": 0.01284832
+  },
+  {
+    "id": "taiko",
+    "price_change_24h": -0.006593778172249487,
+    "price_change_percentage_24h": -1.70402,
+    "ath": 3.8,
+    "atl": 0.343957
+  },
+  {
+    "id": "debridge",
+    "price_change_24h": -0.000181433989963471,
+    "price_change_percentage_24h": -0.89021,
+    "ath": 0.05521,
+    "atl": 0.01327432
+  },
+  {
+    "id": "wrapped-centrifuge",
+    "price_change_24h": -0.011793144330692146,
+    "price_change_percentage_24h": -5.70652,
+    "ath": 2.55,
+    "atl": 0.098329
+  },
+  {
+    "id": "harrypotterobamasonic10in",
+    "price_change_24h": -0.001945209109141185,
+    "price_change_percentage_24h": -3.22976,
+    "ath": 0.373421,
+    "atl": 0.00066337
+  },
+  {
+    "id": "metal",
+    "price_change_24h": -0.002815388994926282,
+    "price_change_percentage_24h": -0.41603,
+    "ath": 17.03,
+    "atl": 0.117252
+  },
+  {
+    "id": "game-by-virtuals",
+    "price_change_24h": -0.008656983990161793,
+    "price_change_percentage_24h": -13.07058,
+    "ath": 0.391761,
+    "atl": 0.00263366
+  },
+  {
+    "id": "binance-usd",
+    "price_change_24h": -0.01064734054850669,
+    "price_change_percentage_24h": -1.05745,
+    "ath": 2.58,
+    "atl": 0.112189
+  },
+  {
+    "id": "joe",
+    "price_change_24h": -6.061903453841e-06,
+    "price_change_percentage_24h": -0.0042,
+    "ath": 5.09,
+    "atl": 0.02658814
+  },
+  {
+    "id": "medibloc",
+    "price_change_24h": -4.7742140928945e-05,
+    "price_change_percentage_24h": -0.83349,
+    "ath": 0.351852,
+    "atl": 0.00161437
+  },
+  {
+    "id": "geodnet",
+    "price_change_24h": -0.002630659964554,
+    "price_change_percentage_24h": -1.449,
+    "ath": 0.374342,
+    "atl": 0.03417228
+  },
+  {
+    "id": "dent",
+    "price_change_24h": -4.013991749214e-06,
+    "price_change_percentage_24h": -0.67874,
+    "ath": 0.1006,
+    "atl": 7.065e-05
+  },
+  {
+    "id": "pepeontron",
+    "price_change_24h": -0.00178054622353075,
+    "price_change_percentage_24h": -3.08741,
+    "ath": 0.068986,
+    "atl": 0.04600925
+  },
+  {
+    "id": "looped-hype",
+    "price_change_24h": 0.493403,
+    "price_change_percentage_24h": 1.24703,
+    "ath": 45.83,
+    "atl": 9.34
+  },
+  {
+    "id": "islamic-coin",
+    "price_change_24h": -0.000180651301703867,
+    "price_change_percentage_24h": -0.62201,
+    "ath": 0.303274,
+    "atl": 0.02025235
+  },
+  {
+    "id": "saga-2",
+    "price_change_24h": -0.004565813033865829,
+    "price_change_percentage_24h": -2.16481,
+    "ath": 7.6,
+    "atl": 0.184052
+  },
+  {
+    "id": "nillion",
+    "price_change_24h": 0.00443014,
+    "price_change_percentage_24h": 1.57594,
+    "ath": 0.897077,
+    "atl": 0.242893
+  },
+  {
+    "id": "connect-token-wct",
+    "price_change_24h": -0.001291327921851659,
+    "price_change_percentage_24h": -0.43034,
+    "ath": 1.34,
+    "atl": 0.28143
+  },
+  {
+    "id": "pundi-aifx",
+    "price_change_24h": -0.019088636624879918,
+    "price_change_percentage_24h": -0.29081,
+    "ath": 17.93,
+    "atl": 4.21
+  },
+  {
+    "id": "sundog",
+    "price_change_24h": -0.000600261716137834,
+    "price_change_percentage_24h": -1.06856,
+    "ath": 0.377452,
+    "atl": 0.02789117
+  },
+  {
+    "id": "magic-internet-money",
+    "price_change_24h": -0.000226975040071631,
+    "price_change_percentage_24h": -0.02269,
+    "ath": 1.19,
+    "atl": 0.249464
+  },
+  {
+    "id": "polyhedra-network",
+    "price_change_24h": -0.008134542037618875,
+    "price_change_percentage_24h": -4.54087,
+    "ath": 4.01,
+    "atl": 0.164496
+  },
+  {
+    "id": "bridged-tether-opbnb",
+    "price_change_24h": -0.000146515027596661,
+    "price_change_percentage_24h": -0.01465,
+    "ath": 1.12,
+    "atl": 0.906237
+  },
+  {
+    "id": "zentry",
+    "price_change_24h": -0.000274342588267672,
+    "price_change_percentage_24h": -3.40615,
+    "ath": 0.04531743,
+    "atl": 0.00707931
+  },
+  {
+    "id": "huma-finance",
+    "price_change_24h": -0.000190273182550722,
+    "price_change_percentage_24h": -0.59619,
+    "ath": 0.115647,
+    "atl": 0.02953006
+  },
+  {
+    "id": "railgun",
+    "price_change_24h": 0.0010139,
+    "price_change_percentage_24h": 0.10615,
+    "ath": 4.2,
+    "atl": 0.228324
+  },
+  {
+    "id": "stronghold-token",
+    "price_change_24h": -2.241280061432e-06,
+    "price_change_percentage_24h": -0.02196,
+    "ath": 0.055673,
+    "atl": 1.30103e-07
+  },
+  {
+    "id": "gamebuild",
+    "price_change_24h": -9.472393567574e-06,
+    "price_change_percentage_24h": -0.30492,
+    "ath": 0.00919175,
+    "atl": 0.00248956
+  },
+  {
+    "id": "hippo-protocol",
+    "price_change_24h": 0.00262729,
+    "price_change_percentage_24h": 5.75859,
+    "ath": 0.057295,
+    "atl": 0.03736349
+  },
+  {
+    "id": "ao-computer",
+    "price_change_24h": 0.24242,
+    "price_change_percentage_24h": 1.98577,
+    "ath": 50.01,
+    "atl": 10.84
+  },
+  {
+    "id": "cronos-bridged-wbtc-cronos",
+    "price_change_24h": -169.12737768195802,
+    "price_change_percentage_24h": -0.15569,
+    "ath": 113074,
+    "atl": 52573
+  },
+  {
+    "id": "chill-guy",
+    "price_change_24h": -0.002610161817703967,
+    "price_change_percentage_24h": -4.58882,
+    "ath": 0.657518,
+    "atl": 0.00604048
+  },
+  {
+    "id": "concordium",
+    "price_change_24h": 0.00014586,
+    "price_change_percentage_24h": 3.21555,
+    "ath": 0.149407,
+    "atl": 0.00262306
+  },
+  {
+    "id": "omni-network",
+    "price_change_24h": -0.0551652571083161,
+    "price_change_percentage_24h": -3.71314,
+    "ath": 53.81,
+    "atl": 1.37
+  },
+  {
+    "id": "aergo",
+    "price_change_24h": -0.002757092298743685,
+    "price_change_percentage_24h": -2.36684,
+    "ath": 0.658178,
+    "atl": 0.01354723
+  },
+  {
+    "id": "ekubo-protocol",
+    "price_change_24h": -0.002229599918380565,
+    "price_change_percentage_24h": -0.04165,
+    "ath": 7.17,
+    "atl": 0.735467
+  },
+  {
+    "id": "unipoly",
+    "price_change_24h": -0.000135560751341385,
+    "price_change_percentage_24h": -0.07083,
+    "ath": 0.299372,
+    "atl": 0.00980688
+  },
+  {
+    "id": "hashflow",
+    "price_change_24h": -0.009258045704918796,
+    "price_change_percentage_24h": -9.2459,
+    "ath": 3.61,
+    "atl": 0.04339757
+  },
+  {
+    "id": "bridged-usd-coin-optimism",
+    "price_change_24h": -4.7976626356472e-05,
+    "price_change_percentage_24h": -0.0048,
+    "ath": 1.049,
+    "atl": 0.947574
+  },
+  {
+    "id": "home",
+    "price_change_24h": -0.000681855574913719,
+    "price_change_percentage_24h": -3.3825,
+    "ath": 0.03859348,
+    "atl": 0.01791012
+  },
+  {
+    "id": "metfi-2",
+    "price_change_24h": -0.013163934884178663,
+    "price_change_percentage_24h": -5.71021,
+    "ath": 5.7,
+    "atl": 0.132417
+  },
+  {
+    "id": "mantle-bridged-usde-mantle",
+    "price_change_24h": 0.00143067,
+    "price_change_percentage_24h": 0.14326,
+    "ath": 1.009,
+    "atl": 0.960802
+  },
+  {
+    "id": "rif-token",
+    "price_change_24h": 0.00012671,
+    "price_change_percentage_24h": 0.24017,
+    "ath": 0.455938,
+    "atl": 0.0091475
+  },
+  {
+    "id": "access-protocol",
+    "price_change_24h": -0.000150210041134237,
+    "price_change_percentage_24h": -10.72088,
+    "ath": 0.02687893,
+    "atl": 0.00104122
+  },
+  {
+    "id": "skyai",
+    "price_change_24h": -0.00132638940271778,
+    "price_change_percentage_24h": -2.47659,
+    "ath": 0.09237,
+    "atl": 0.02714023
+  },
+  {
+    "id": "ssv-network",
+    "price_change_24h": -0.09101281682171702,
+    "price_change_percentage_24h": -1.22109,
+    "ath": 65.82,
+    "atl": 3.67
+  },
+  {
+    "id": "moonriver",
+    "price_change_24h": 0.00409707,
+    "price_change_percentage_24h": 0.07676,
+    "ath": 494.26,
+    "atl": 3.62
+  },
+  {
+    "id": "tutorial",
+    "price_change_24h": 0.00133759,
+    "price_change_percentage_24h": 2.20445,
+    "ath": 0.063976,
+    "atl": 0.00028993
+  },
+  {
+    "id": "andy-the-wisguy",
+    "price_change_24h": -4.071696562779e-06,
+    "price_change_percentage_24h": -7.25667,
+    "ath": 0.00035218,
+    "atl": 2.39287e-07
+  },
+  {
+    "id": "marinade",
+    "price_change_24h": 0.00109405,
+    "price_change_percentage_24h": 0.87579,
+    "ath": 1.64,
+    "atl": 0.0282187
+  },
+  {
+    "id": "helder",
+    "price_change_24h": 0.00565717,
+    "price_change_percentage_24h": 5.74386,
+    "ath": 0.109461,
+    "atl": 0.068149
+  },
+  {
+    "id": "zedxion",
+    "price_change_24h": 0.00031156,
+    "price_change_percentage_24h": 0.07416,
+    "ath": 1.45,
+    "atl": 3e-17
+  },
+  {
+    "id": "cyberconnect",
+    "price_change_24h": -0.014616063456976747,
+    "price_change_percentage_24h": -1.23015,
+    "ath": 15.79,
+    "atl": 0.899989
+  },
+  {
+    "id": "zircuit",
+    "price_change_24h": -0.000459739651913926,
+    "price_change_percentage_24h": -1.92883,
+    "ath": 0.09726,
+    "atl": 0.01949815
+  },
+  {
+    "id": "cartesi",
+    "price_change_24h": 5.442e-05,
+    "price_change_percentage_24h": 0.09375,
+    "ath": 1.74,
+    "atl": 0.02670608
+  },
+  {
+    "id": "neutron-3",
+    "price_change_24h": 0.00022297,
+    "price_change_percentage_24h": 0.26406,
+    "ath": 1.97,
+    "atl": 0.075004
+  },
+  {
+    "id": "scroll",
+    "price_change_24h": -0.000696857772861104,
+    "price_change_percentage_24h": -0.26153,
+    "ath": 1.43,
+    "atl": 0.208072
+  },
+  {
+    "id": "vanar-chain",
+    "price_change_24h": 0.00013868,
+    "price_change_percentage_24h": 0.53748,
+    "ath": 0.372326,
+    "atl": 0.02016013
+  },
+  {
+    "id": "escoin-token",
+    "price_change_24h": -0.002525123033348231,
+    "price_change_percentage_24h": -0.91686,
+    "ath": 3.61,
+    "atl": 0.00064644
+  },
+  {
+    "id": "avail",
+    "price_change_24h": -0.000713122680633494,
+    "price_change_percentage_24h": -3.47704,
+    "ath": 0.239543,
+    "atl": 0.01968495
+  },
+  {
+    "id": "web-3-dollar",
+    "price_change_24h": -0.001588251125336892,
+    "price_change_percentage_24h": -0.15076,
+    "ath": 1.17,
+    "atl": 0.939075
+  },
+  {
+    "id": "humans-ai",
+    "price_change_24h": 0.00013068,
+    "price_change_percentage_24h": 2.084,
+    "ath": 0.278557,
+    "atl": 0.00370636
+  },
+  {
+    "id": "oraichain-token",
+    "price_change_24h": 0.059128,
+    "price_change_percentage_24h": 2.31034,
+    "ath": 105.76,
+    "atl": 0.904237
+  },
+  {
+    "id": "propy",
+    "price_change_24h": 0.00750506,
+    "price_change_percentage_24h": 0.88636,
+    "ath": 5.15,
+    "atl": 0.0303544
+  },
+  {
+    "id": "wink",
+    "price_change_24h": 7.54375e-07,
+    "price_change_percentage_24h": 1.53845,
+    "ath": 0.00289424,
+    "atl": 4.185e-05
+  },
+  {
+    "id": "secret",
+    "price_change_24h": 0.00310724,
+    "price_change_percentage_24h": 2.00356,
+    "ath": 10.38,
+    "atl": 0.136796
+  },
+  {
+    "id": "joe-coin",
+    "price_change_24h": -0.003074576727551626,
+    "price_change_percentage_24h": -5.86761,
+    "ath": 0.074825,
+    "atl": 0.00067332
+  },
+  {
+    "id": "ecomi",
+    "price_change_24h": -2.432597366513e-06,
+    "price_change_percentage_24h": -1.32339,
+    "ath": 0.01343572,
+    "atl": 3.37e-06
+  },
+  {
+    "id": "societe-generale-forge-eurcv",
+    "price_change_24h": null,
+    "price_change_percentage_24h": null,
+    "ath": 1.18,
+    "atl": 0.988513
+  },
+  {
+    "id": "savings-crvusd",
+    "price_change_24h": -9.6326031936211e-05,
+    "price_change_percentage_24h": -0.00915,
+    "ath": 1.13,
+    "atl": 0.894139
+  },
+  {
+    "id": "t-mac-dao",
+    "price_change_24h": -1.6322248182866126,
+    "price_change_percentage_24h": -5.35316,
+    "ath": 104.63,
+    "atl": 0.230915
+  },
+  {
+    "id": "honey-3",
+    "price_change_24h": 0.00155042,
+    "price_change_percentage_24h": 0.15524,
+    "ath": 1.11,
+    "atl": 0.916153
+  },
+  {
+    "id": "kyber-network-crystal",
+    "price_change_24h": 0.00043144,
+    "price_change_percentage_24h": 0.15094,
+    "ath": 5.7,
+    "atl": 0.260221
+  },
+  {
+    "id": "quark-chain",
+    "price_change_24h": 9.757e-05,
+    "price_change_percentage_24h": 1.4527,
+    "ath": 0.338765,
+    "atl": 0.00137714
+  },
+  {
+    "id": "gains-network",
+    "price_change_24h": 0.0030435,
+    "price_change_percentage_24h": 0.18485,
+    "ath": 12.48,
+    "atl": 0.265841
+  },
+  {
+    "id": "hunt-token",
+    "price_change_24h": 0.00046105,
+    "price_change_percentage_24h": 0.19029,
+    "ath": 1.46,
+    "atl": 0.00039817
+  },
+  {
+    "id": "oasys",
+    "price_change_24h": -0.000146520609702633,
+    "price_change_percentage_24h": -1.33922,
+    "ath": 0.141992,
+    "atl": 0.01016476
+  },
+  {
+    "id": "high-growth-eth",
+    "price_change_24h": null,
+    "price_change_percentage_24h": null,
+    "ath": 2798.69,
+    "atl": 2559.77
+  },
+  {
+    "id": "sygnum-fiusd-liquidity-fund",
+    "price_change_24h": 0.0,
+    "price_change_percentage_24h": 0.0,
+    "ath": 11485.13,
+    "atl": 11251.76
+  },
+  {
+    "id": "sui-bridged-ether-sui",
+    "price_change_24h": -29.879366071610093,
+    "price_change_percentage_24h": -1.16657,
+    "ath": 2878.19,
+    "atl": 1394.26
+  },
+  {
+    "id": "usd",
+    "price_change_24h": -0.000207697317114452,
+    "price_change_percentage_24h": -0.02077,
+    "ath": 1.25,
+    "atl": 0.736532
+  },
+  {
+    "id": "gemini-dollar",
+    "price_change_24h": -0.000269456371423282,
+    "price_change_percentage_24h": -0.02695,
+    "ath": 3.3,
+    "atl": 0.78261
+  },
+  {
+    "id": "fuel-network",
+    "price_change_24h": 0.00100064,
+    "price_change_percentage_24h": 12.29779,
+    "ath": 0.083754,
+    "atl": 0.00649519
+  },
+  {
+    "id": "mountain-protocol-usdm",
+    "price_change_24h": -0.001765713791515355,
+    "price_change_percentage_24h": -0.17723,
+    "ath": 1.16,
+    "atl": 0.542481
+  },
+  {
+    "id": "bone-shibaswap",
+    "price_change_24h": -0.011332731021390346,
+    "price_change_percentage_24h": -5.6176,
+    "ath": 15.5,
+    "atl": 0.0
+  },
+  {
+    "id": "bim-2",
+    "price_change_24h": -0.008872957827928518,
+    "price_change_percentage_24h": -0.55665,
+    "ath": 1.79,
+    "atl": 0.861976
+  },
+  {
+    "id": "avalanche-bridged-weth-avalanche",
+    "price_change_24h": -20.044972010377933,
+    "price_change_percentage_24h": -0.78436,
+    "ath": 4089.86,
+    "atl": 1394.12
+  },
+  {
+    "id": "renzo-restaked-sol",
+    "price_change_24h": 0.593984,
+    "price_change_percentage_24h": 0.32326,
+    "ath": 344.19,
+    "atl": 113.54
+  },
+  {
+    "id": "avalanche-old-bridged-wbtc-avalanche",
+    "price_change_24h": -465.52931346003606,
+    "price_change_percentage_24h": -0.42945,
+    "ath": 112035,
+    "atl": 50034
+  },
+  {
+    "id": "impossible-cloud-network-token",
+    "price_change_24h": -0.009526856465892464,
+    "price_change_percentage_24h": -3.69925,
+    "ath": 0.526718,
+    "atl": 0.215294
+  },
+  {
+    "id": "simon-s-cat",
+    "price_change_24h": -3.59537675227e-07,
+    "price_change_percentage_24h": -4.96245,
+    "ath": 6.811e-05,
+    "atl": 4.17e-06
+  },
+  {
+    "id": "seraph",
+    "price_change_24h": -0.001339745620526966,
+    "price_change_percentage_24h": -0.68668,
+    "ath": 0.69817,
+    "atl": 0.121736
+  },
+  {
+    "id": "tars-protocol",
+    "price_change_24h": -0.001424069368459333,
+    "price_change_percentage_24h": -1.76791,
+    "ath": 0.493712,
+    "atl": 0.02323675
+  },
+  {
+    "id": "frax-usd",
+    "price_change_24h": -5.0530939015747e-05,
+    "price_change_percentage_24h": -0.00505,
+    "ath": 1.007,
+    "atl": 0.97622
+  },
+  {
+    "id": "usd-coin-avalanche-bridged-usdc-e",
+    "price_change_24h": 1.925e-05,
+    "price_change_percentage_24h": 0.00193,
+    "ath": 1.28,
+    "atl": 0.877345
+  },
+  {
+    "id": "smooth-love-potion",
+    "price_change_24h": -5.208073795749e-06,
+    "price_change_percentage_24h": -0.41263,
+    "ath": 0.399727,
+    "atl": 0.00106012
+  },
+  {
+    "id": "gods-unchained",
+    "price_change_24h": -0.00456808911732659,
+    "price_change_percentage_24h": -3.71023,
+    "ath": 8.8,
+    "atl": 0.064498
+  },
+  {
+    "id": "autonolas",
+    "price_change_24h": -0.001102073432857398,
+    "price_change_percentage_24h": -0.43663,
+    "ath": 8.47,
+    "atl": 0.08371
+  },
+  {
+    "id": "matrixdock-gold",
+    "price_change_24h": -27.442878231634495,
+    "price_change_percentage_24h": -0.81823,
+    "ath": 3530.35,
+    "atl": 2563.55
+  },
+  {
+    "id": "wmatic",
+    "price_change_24h": 0.00085001,
+    "price_change_percentage_24h": 0.46231,
+    "ath": 2.91,
+    "atl": 0.146875
+  },
+  {
+    "id": "devve",
+    "price_change_24h": -0.002731774725133085,
+    "price_change_percentage_24h": -0.53021,
+    "ath": 2.08,
+    "atl": 0.136444
+  },
+  {
+    "id": "tagger",
+    "price_change_24h": 2.142e-05,
+    "price_change_percentage_24h": 5.48139,
+    "ath": 0.00042439,
+    "atl": 1.934e-05
+  },
+  {
+    "id": "dia-data",
+    "price_change_24h": -0.005375886022329801,
+    "price_change_percentage_24h": -1.42157,
+    "ath": 5.73,
+    "atl": 0.208951
+  },
+  {
+    "id": "trufin-staked-apt",
+    "price_change_24h": -0.03517977567526298,
+    "price_change_percentage_24h": -0.77537,
+    "ath": 15.37,
+    "atl": 3.84
+  },
+  {
+    "id": "socean-staked-sol",
+    "price_change_24h": 0.00439886,
+    "price_change_percentage_24h": 0.00217,
+    "ath": 363.89,
+    "atl": 8.97
+  },
+  {
+    "id": "bc-token",
+    "price_change_24h": -9.657782316731e-05,
+    "price_change_percentage_24h": -2.14303,
+    "ath": 0.01100698,
+    "atl": 0.00291432
+  },
+  {
+    "id": "ski-mask-dog",
+    "price_change_24h": -0.001106349330928541,
+    "price_change_percentage_24h": -2.45064,
+    "ath": 0.35814,
+    "atl": 0.00040261
+  },
+  {
+    "id": "imagen-ai",
+    "price_change_24h": -0.00168056064843897,
+    "price_change_percentage_24h": -16.02378,
+    "ath": 0.03800209,
+    "atl": 0.00863771
+  },
+  {
+    "id": "heyanon",
+    "price_change_24h": -0.010646799289451891,
+    "price_change_percentage_24h": -0.32526,
+    "ath": 24.73,
+    "atl": 0.922111
+  },
+  {
+    "id": "velodrome-finance",
+    "price_change_24h": -3.487744819307e-06,
+    "price_change_percentage_24h": -0.00767,
+    "ath": 0.407515,
+    "atl": 0.00557275
+  },
+  {
+    "id": "nosana",
+    "price_change_24h": -0.00874202637903776,
+    "price_change_percentage_24h": -1.6425,
+    "ath": 7.83,
+    "atl": 0.01046656
+  },
+  {
+    "id": "goplus-security",
+    "price_change_24h": -0.000635669400507889,
+    "price_change_percentage_24h": -2.5801,
+    "ath": 0.2198,
+    "atl": 0.01533496
+  },
+  {
+    "id": "aurora-near",
+    "price_change_24h": -0.000249758139141187,
+    "price_change_percentage_24h": -0.35253,
+    "ath": 35.4,
+    "atl": 0.04736812
+  },
+  {
+    "id": "phantom-staked-sol",
+    "price_change_24h": 0.187495,
+    "price_change_percentage_24h": 0.12176,
+    "ath": 189.11,
+    "atl": 128.71
+  },
+  {
+    "id": "liquity-bold-2",
+    "price_change_24h": -0.000995273265523844,
+    "price_change_percentage_24h": -0.09952,
+    "ath": 1.013,
+    "atl": 0.990867
+  },
+  {
+    "id": "tokpie",
+    "price_change_24h": -0.009325662085198694,
+    "price_change_percentage_24h": -1.68614,
+    "ath": 0.894523,
+    "atl": 5.705e-05
+  },
+  {
+    "id": "hamster-kombat",
+    "price_change_24h": -1.6203217387625e-05,
+    "price_change_percentage_24h": -2.3631,
+    "ath": 0.00722201,
+    "atl": 0.00063991
+  },
+  {
+    "id": "iagon",
+    "price_change_24h": -0.001975695022539539,
+    "price_change_percentage_24h": -1.69819,
+    "ath": 0.389333,
+    "atl": 0.00070422
+  },
+  {
+    "id": "sx-network-2",
+    "price_change_24h": -0.000227737140445605,
+    "price_change_percentage_24h": -0.29852,
+    "ath": 0.248586,
+    "atl": 0.03318665
+  },
+  {
+    "id": "forta",
+    "price_change_24h": 0.00257371,
+    "price_change_percentage_24h": 3.74128,
+    "ath": 0.964645,
+    "atl": 0.060622
+  },
+  {
+    "id": "stargate-bridged-usdc-plume",
+    "price_change_24h": 2.94405e-07,
+    "price_change_percentage_24h": 3e-05,
+    "ath": 1.011,
+    "atl": 0.9904
+  },
+  {
+    "id": "alethea-artificial-liquid-intelligence-token",
+    "price_change_24h": -9.565612371042e-06,
+    "price_change_percentage_24h": -0.20442,
+    "ath": 0.201312,
+    "atl": 0.00364806
+  },
+  {
+    "id": "researchcoin",
+    "price_change_24h": 0.00345484,
+    "price_change_percentage_24h": 0.94309,
+    "ath": 1.51,
+    "atl": 0.00308244
+  },
+  {
+    "id": "moviebloc",
+    "price_change_24h": -5.683604650467e-06,
+    "price_change_percentage_24h": -0.2488,
+    "ath": 0.0450322,
+    "atl": 0.00042973
+  },
+  {
+    "id": "certik",
+    "price_change_24h": 0.00598361,
+    "price_change_percentage_24h": 2.12596,
+    "ath": 3.94,
+    "atl": 0.211993
+  },
+  {
+    "id": "austin-capitals",
+    "price_change_24h": -0.005924490579615416,
+    "price_change_percentage_24h": -0.13712,
+    "ath": 4.38,
+    "atl": 1.001
+  },
+  {
+    "id": "griffain",
+    "price_change_24h": -0.001247852014649706,
+    "price_change_percentage_24h": -2.88231,
+    "ath": 0.62487,
+    "atl": 0.02438249
+  },
+  {
+    "id": "wrapped-quil",
+    "price_change_24h": 0.00151789,
+    "price_change_percentage_24h": 3.35333,
+    "ath": 0.451419,
+    "atl": 0.01713112
+  },
+  {
+    "id": "deso",
+    "price_change_24h": 0.06617,
+    "price_change_percentage_24h": 1.68894,
+    "ath": 198.68,
+    "atl": 2.7
+  },
+  {
+    "id": "wrapped-xrp",
+    "price_change_24h": 0.04813937,
+    "price_change_percentage_24h": 2.11962,
+    "ath": 18.37,
+    "atl": 0.124627
+  },
+  {
+    "id": "maxi-payfi-strategy-token",
+    "price_change_24h": -0.000687803700893053,
+    "price_change_percentage_24h": -0.06805,
+    "ath": 1.049,
+    "atl": 0.984789
+  },
+  {
+    "id": "optio",
+    "price_change_24h": -8.665100025974e-05,
+    "price_change_percentage_24h": -1.18283,
+    "ath": 0.03491861,
+    "atl": 0.00237022
+  },
+  {
+    "id": "benqi",
+    "price_change_24h": 0.00011518,
+    "price_change_percentage_24h": 1.99071,
+    "ath": 0.39417,
+    "atl": 0.00473811
+  },
+  {
+    "id": "wilder-world",
+    "price_change_24h": 0.00030684,
+    "price_change_percentage_24h": 0.24278,
+    "ath": 7.44,
+    "atl": 0.0008609
+  },
+  {
+    "id": "marblex",
+    "price_change_24h": -0.002076463172721421,
+    "price_change_percentage_24h": -1.06327,
+    "ath": 20.74,
+    "atl": 0.144217
+  },
+  {
+    "id": "celer-network",
+    "price_change_24h": -2.3029322796756e-05,
+    "price_change_percentage_24h": -0.31592,
+    "ath": 0.194843,
+    "atl": 0.00095575
+  },
+  {
+    "id": "liquity-usd",
+    "price_change_24h": -0.000857773101141213,
+    "price_change_percentage_24h": -0.0856,
+    "ath": 1.16,
+    "atl": 0.896722
+  },
+  {
+    "id": "boba-network",
+    "price_change_24h": -4.7547889604579e-05,
+    "price_change_percentage_24h": -0.05284,
+    "ath": 7.93,
+    "atl": 0.067407
+  },
+  {
+    "id": "w-coin",
+    "price_change_24h": -0.000764304663446708,
+    "price_change_percentage_24h": -1.85011,
+    "ath": 0.110608,
+    "atl": 0.03466652
+  },
+  {
+    "id": "usualx",
+    "price_change_24h": -0.006877500108720819,
+    "price_change_percentage_24h": -6.7075,
+    "ath": 1.59,
+    "atl": 0.072403
+  },
+  {
+    "id": "hashai",
+    "price_change_24h": 1.116e-05,
+    "price_change_percentage_24h": 2.50751,
+    "ath": 0.00312086,
+    "atl": 0.00015377
+  },
+  {
+    "id": "smardex",
+    "price_change_24h": -3.6227135574017e-05,
+    "price_change_percentage_24h": -0.81064,
+    "ath": 0.02634045,
+    "atl": 0.00169891
+  },
+  {
+    "id": "liquidlaunch",
+    "price_change_24h": 0.00154409,
+    "price_change_percentage_24h": 4.76254,
+    "ath": 0.082868,
+    "atl": 0.0016493
+  },
+  {
+    "id": "keep-network",
+    "price_change_24h": 0.00092011,
+    "price_change_percentage_24h": 1.26141,
+    "ath": 6.1,
+    "atl": 0.01905196
+  },
+  {
+    "id": "seedify-fund",
+    "price_change_24h": -0.009852498326292314,
+    "price_change_percentage_24h": -1.52082,
+    "ath": 16.79,
+    "atl": 0.294604
+  },
+  {
+    "id": "huobi-token",
+    "price_change_24h": -0.005489650926901901,
+    "price_change_percentage_24h": -2.11304,
+    "ath": 39.66,
+    "atl": 0.145929
+  },
+  {
+    "id": "superrare",
+    "price_change_24h": 1.079e-05,
+    "price_change_percentage_24h": 0.02196,
+    "ath": 3.64,
+    "atl": 0.04189229
+  },
+  {
+    "id": "tomochain",
+    "price_change_24h": 0.171164,
+    "price_change_percentage_24h": 108.69625,
+    "ath": 3.88,
+    "atl": 0.135792
+  },
+  {
+    "id": "bilira",
+    "price_change_24h": -7.5124726142493e-05,
+    "price_change_percentage_24h": -0.29916,
+    "ath": 0.192677,
+    "atl": 6.956e-05
+  },
+  {
+    "id": "mansory-token",
+    "price_change_24h": -0.000378846314309865,
+    "price_change_percentage_24h": -0.84765,
+    "ath": 0.084804,
+    "atl": 0.01506442
+  },
+  {
+    "id": "coin98",
+    "price_change_24h": -0.001104277687232973,
+    "price_change_percentage_24h": -2.62345,
+    "ath": 6.42,
+    "atl": 0.03474981
+  },
+  {
+    "id": "superwalk",
+    "price_change_24h": -6.1521110090924e-05,
+    "price_change_percentage_24h": -0.10509,
+    "ath": 0.384843,
+    "atl": 0.03780593
+  },
+  {
+    "id": "czs-dog",
+    "price_change_24h": -0.001174500141987798,
+    "price_change_percentage_24h": -2.80075,
+    "ath": 0.257985,
+    "atl": 0.01896255
+  },
+  {
+    "id": "strikecoin",
+    "price_change_24h": -0.011556930753607988,
+    "price_change_percentage_24h": -19.89207,
+    "ath": 0.332212,
+    "atl": 2.651e-05
+  },
+  {
+    "id": "liqwid-finance",
+    "price_change_24h": -0.0594534720613511,
+    "price_change_percentage_24h": -2.93798,
+    "ath": 125.74,
+    "atl": 3.1e-06
+  },
+  {
+    "id": "supra",
+    "price_change_24h": 0.00053705,
+    "price_change_percentage_24h": 25.69291,
+    "ath": 0.072675,
+    "atl": 0.00191402
+  },
+  {
+    "id": "ai-analysis-token",
+    "price_change_24h": -8.1140788235734e-05,
+    "price_change_percentage_24h": -0.02266,
+    "ath": 0.918633,
+    "atl": 0.21982
+  },
+  {
+    "id": "derive",
+    "price_change_24h": 0.00116153,
+    "price_change_percentage_24h": 2.49364,
+    "ath": 0.228265,
+    "atl": 0.01243699
+  },
+  {
+    "id": "particle-network",
+    "price_change_24h": -0.004657354711544437,
+    "price_change_percentage_24h": -2.71604,
+    "ath": 0.419163,
+    "atl": 0.140394
+  },
+  {
+    "id": "corgiai",
+    "price_change_24h": 2.2e-06,
+    "price_change_percentage_24h": 1.98817,
+    "ath": 0.0042301,
+    "atl": 4.414e-05
+  },
+  {
+    "id": "whiteheart",
+    "price_change_24h": -41.456323437496394,
+    "price_change_percentage_24h": -0.94786,
+    "ath": 6994.43,
+    "atl": 57.1
+  },
+  {
+    "id": "tharwa",
+    "price_change_24h": -0.001862973735990574,
+    "price_change_percentage_24h": -25.32452,
+    "ath": 0.01004363,
+    "atl": 0.00360916
+  },
+  {
+    "id": "nusd",
+    "price_change_24h": -0.003269421798970829,
+    "price_change_percentage_24h": -0.35176,
+    "ath": 2.45,
+    "atl": 0.429697
+  },
+  {
+    "id": "test-3",
+    "price_change_24h": 1.922e-05,
+    "price_change_percentage_24h": 0.04774,
+    "ath": 0.511293,
+    "atl": 0.02606695
+  },
+  {
+    "id": "bonk-level-saviour-2",
+    "price_change_24h": -0.00769625143732252,
+    "price_change_percentage_24h": -17.09226,
+    "ath": 0.04502769,
+    "atl": 0.03798983
+  },
+  {
+    "id": "deapcoin",
+    "price_change_24h": 8.29779e-07,
+    "price_change_percentage_24h": 0.06001,
+    "ath": 0.07894,
+    "atl": 0.00068582
+  },
+  {
+    "id": "unity-2",
+    "price_change_24h": -1.956666102698e-06,
+    "price_change_percentage_24h": -0.0002,
+    "ath": 1.005,
+    "atl": 0.995814
+  },
+  {
+    "id": "xpla",
+    "price_change_24h": 0.00047512,
+    "price_change_percentage_24h": 1.04291,
+    "ath": 1.4,
+    "atl": 0.02475736
+  },
+  {
+    "id": "celium",
+    "price_change_24h": 1.3,
+    "price_change_percentage_24h": 4.88849,
+    "ath": 36.8,
+    "atl": 21.91
+  },
+  {
+    "id": "tensor",
+    "price_change_24h": 0.00177604,
+    "price_change_percentage_24h": 1.59893,
+    "ath": 2.23,
+    "atl": 0.09374
+  },
+  {
+    "id": "metadium",
+    "price_change_24h": -0.000550785857834451,
+    "price_change_percentage_24h": -2.451,
+    "ath": 0.452667,
+    "atl": 0.00295026
+  },
+  {
+    "id": "tokenbot-2",
+    "price_change_24h": -0.2303463644284065,
+    "price_change_percentage_24h": -0.60852,
+    "ath": 141.54,
+    "atl": 0.65425
+  },
+  {
+    "id": "helio-protocol-hay",
+    "price_change_24h": 0.0001096,
+    "price_change_percentage_24h": 0.01097,
+    "ath": 2.0,
+    "atl": 0.208609
+  },
+  {
+    "id": "fwog",
+    "price_change_24h": -0.001542346981110429,
+    "price_change_percentage_24h": -3.86011,
+    "ath": 0.736315,
+    "atl": 0.00924364
+  },
+  {
+    "id": "wrapped-nxm",
+    "price_change_24h": 0.230211,
+    "price_change_percentage_24h": 0.39705,
+    "ath": 130.82,
+    "atl": 7.78
+  },
+  {
+    "id": "dodo",
+    "price_change_24h": 0.00031814,
+    "price_change_percentage_24h": 0.85998,
+    "ath": 8.38,
+    "atl": 0.03205211
+  },
+  {
+    "id": "miu-2",
+    "price_change_24h": 5.79954e-10,
+    "price_change_percentage_24h": 1.42133,
+    "ath": 1.50191e-07,
+    "atl": 7.84e-09
+  },
+  {
+    "id": "mubarak",
+    "price_change_24h": -0.000845278521247418,
+    "price_change_percentage_24h": -2.2202,
+    "ath": 0.211228,
+    "atl": 0.02179736
+  },
+  {
+    "id": "chain-key-bitcoin",
+    "price_change_24h": -704.5292158362718,
+    "price_change_percentage_24h": -0.64648,
+    "ath": 116426,
+    "atl": 38270
+  },
+  {
+    "id": "magic",
+    "price_change_24h": -0.001078037134188095,
+    "price_change_percentage_24h": -0.89036,
+    "ath": 6.32,
+    "atl": 0.01999252
+  },
+  {
+    "id": "universal-eth",
+    "price_change_24h": -25.091741351158362,
+    "price_change_percentage_24h": -0.89272,
+    "ath": 4682.56,
+    "atl": 1525.18
+  },
+  {
+    "id": "myshell",
+    "price_change_24h": 0.00019268,
+    "price_change_percentage_24h": 0.14134,
+    "ath": 0.68342,
+    "atl": 0.109602
+  },
+  {
+    "id": "act-i-the-ai-prophecy",
+    "price_change_24h": -0.000569646332818849,
+    "price_change_percentage_24h": -1.45045,
+    "ath": 0.919768,
+    "atl": 0.01259861
+  },
+  {
+    "id": "bankercoin-2",
+    "price_change_24h": -1.58674882893e-06,
+    "price_change_percentage_24h": -0.43043,
+    "ath": 0.0004418,
+    "atl": 7.81e-06
+  },
+  {
+    "id": "strike",
+    "price_change_24h": -0.4614549987995744,
+    "price_change_percentage_24h": -6.59827,
+    "ath": 78.95,
+    "atl": 4.81
+  },
+  {
+    "id": "roam-token",
+    "price_change_24h": -0.001337590870614039,
+    "price_change_percentage_24h": -1.08045,
+    "ath": 0.409919,
+    "atl": 0.116198
+  },
+  {
+    "id": "crypto-trading-fund",
+    "price_change_24h": -0.012777745281209896,
+    "price_change_percentage_24h": -4.06445,
+    "ath": 2.33,
+    "atl": 0.296924
+  },
+  {
+    "id": "parcl",
+    "price_change_24h": 0.00705602,
+    "price_change_percentage_24h": 8.6482,
+    "ath": 0.736957,
+    "atl": 0.04882521
+  },
+  {
+    "id": "peapods-finance",
+    "price_change_24h": -0.055980753684293116,
+    "price_change_percentage_24h": -1.51475,
+    "ath": 11.74,
+    "atl": 0.182074
+  },
+  {
+    "id": "bedrock-btc",
+    "price_change_24h": 292.51,
+    "price_change_percentage_24h": 0.27667,
+    "ath": 111063,
+    "atl": 70739
+  },
+  {
+    "id": "binance-peg-avalanche",
+    "price_change_24h": -0.19524117675104335,
+    "price_change_percentage_24h": -1.07293,
+    "ath": 145.44,
+    "atl": 8.71
+  },
+  {
+    "id": "binance-peg-dai",
+    "price_change_24h": 7.406e-05,
+    "price_change_percentage_24h": 0.00741,
+    "ath": 1.031,
+    "atl": 0.969951
+  },
+  {
+    "id": "sai",
+    "price_change_24h": 0.02241568,
+    "price_change_percentage_24h": 0.16753,
+    "ath": 25.31,
+    "atl": 0.92687
+  },
+  {
+    "id": "coinmetro",
+    "price_change_24h": -0.007433241188100959,
+    "price_change_percentage_24h": -5.89082,
+    "ath": 0.923577,
+    "atl": 0.01235123
+  },
+  {
+    "id": "alephium",
+    "price_change_24h": -0.003039591946584985,
+    "price_change_percentage_24h": -0.97403,
+    "ath": 3.86,
+    "atl": 0.00561836
+  },
+  {
+    "id": "keyboard-cat-base",
+    "price_change_24h": 8.837e-05,
+    "price_change_percentage_24h": 2.53724,
+    "ath": 0.01585028,
+    "atl": 0.00022064
+  },
+  {
+    "id": "cudos",
+    "price_change_24h": -4.35468773975e-07,
+    "price_change_percentage_24h": -0.00901,
+    "ath": 0.129565,
+    "atl": 0.00165966
+  },
+  {
+    "id": "uquid-coin",
+    "price_change_24h": 0.09346,
+    "price_change_percentage_24h": 2.68562,
+    "ath": 41.38,
+    "atl": 0.02606502
+  },
+  {
+    "id": "plume-usd",
+    "price_change_24h": -0.000379204559897706,
+    "price_change_percentage_24h": -0.03794,
+    "ath": 1.01,
+    "atl": 0.989705
+  },
+  {
+    "id": "snowbank",
+    "price_change_24h": -0.5779606202291916,
+    "price_change_percentage_24h": -0.25776,
+    "ath": 8356.8,
+    "atl": 138.86
+  },
+  {
+    "id": "origin-protocol",
+    "price_change_24h": 9.858e-05,
+    "price_change_percentage_24h": 0.19403,
+    "ath": 3.35,
+    "atl": 0.04292207
+  },
+  {
+    "id": "celo-dollar",
+    "price_change_24h": 0.00066768,
+    "price_change_percentage_24h": 0.06674,
+    "ath": 1.14,
+    "atl": 0.886584
+  },
+  {
+    "id": "storj",
+    "price_change_24h": 0.00103292,
+    "price_change_percentage_24h": 0.42171,
+    "ath": 3.81,
+    "atl": 0.05024
+  },
+  {
+    "id": "my-neighbor-alice",
+    "price_change_24h": 0.00219376,
+    "price_change_percentage_24h": 0.57558,
+    "ath": 40.93,
+    "atl": 0.314804
+  },
+  {
+    "id": "saasgo",
+    "price_change_24h": 0.00106344,
+    "price_change_percentage_24h": 2.4676,
+    "ath": 0.09092,
+    "atl": 0.02753613
+  },
+  {
+    "id": "tornado-cash",
+    "price_change_24h": -0.07166927765346642,
+    "price_change_percentage_24h": -0.77385,
+    "ath": 436.16,
+    "atl": 1.29
+  },
+  {
+    "id": "vaderai-by-virtuals",
+    "price_change_24h": -0.003275044577124367,
+    "price_change_percentage_24h": -8.49933,
+    "ath": 0.158292,
+    "atl": 0.00411868
+  },
+  {
+    "id": "landwolf-0x67",
+    "price_change_24h": -1.623923895471e-06,
+    "price_change_percentage_24h": -4.00385,
+    "ath": 0.00028372,
+    "atl": 2.74e-06
+  },
+  {
+    "id": "pythia",
+    "price_change_24h": 0.00031277,
+    "price_change_percentage_24h": 0.90116,
+    "ath": 0.04962512,
+    "atl": 0.00413184
+  },
+  {
+    "id": "hive_dollar",
+    "price_change_24h": -0.017859965510564235,
+    "price_change_percentage_24h": -1.73941,
+    "ath": 3.97,
+    "atl": 0.424305
+  },
+  {
+    "id": "startup",
+    "price_change_24h": -0.004188982475550516,
+    "price_change_percentage_24h": -10.60613,
+    "ath": 0.04941365,
+    "atl": 0.0027306
+  },
+  {
+    "id": "bitmex-token",
+    "price_change_24h": -0.007308658430019543,
+    "price_change_percentage_24h": -2.04457,
+    "ath": 1.29,
+    "atl": 0.090334
+  },
+  {
+    "id": "tokenfi",
+    "price_change_24h": -8.6979331521077e-05,
+    "price_change_percentage_24h": -0.65788,
+    "ath": 0.243269,
+    "atl": 4.984e-05
+  },
+  {
+    "id": "ice",
+    "price_change_24h": -0.000199006229367206,
+    "price_change_percentage_24h": -3.72457,
+    "ath": 0.01587896,
+    "atl": 0.0027547
+  },
+  {
+    "id": "compound-usd-coin",
+    "price_change_24h": 1.662e-05,
+    "price_change_percentage_24h": 0.06659,
+    "ath": 0.220912,
+    "atl": 0.00620705
+  },
+  {
+    "id": "lista",
+    "price_change_24h": -0.004273411493337764,
+    "price_change_percentage_24h": -2.08202,
+    "ath": 0.842842,
+    "atl": 0.11193
+  },
+  {
+    "id": "mavryk-network",
+    "price_change_24h": null,
+    "price_change_percentage_24h": null,
+    "ath": 0.119246,
+    "atl": 0.100977
+  },
+  {
+    "id": "magic-internet-money-runes",
+    "price_change_24h": 0.00024071,
+    "price_change_percentage_24h": 17.24734,
+    "ath": 0.0088468,
+    "atl": 0.00091144
+  },
+  {
+    "id": "thunder-token",
+    "price_change_24h": -2.008684242119e-05,
+    "price_change_percentage_24h": -0.71803,
+    "ath": 0.052424,
+    "atl": 0.00236452
+  },
+  {
+    "id": "polyswarm",
+    "price_change_24h": -0.000705570713118851,
+    "price_change_percentage_24h": -3.734,
+    "ath": 0.171845,
+    "atl": 0.00059593
+  },
+  {
+    "id": "auki-labs",
+    "price_change_24h": 0.00071618,
+    "price_change_percentage_24h": 4.91319,
+    "ath": 0.060588,
+    "atl": 0.0077696
+  },
+  {
+    "id": "pinlink",
+    "price_change_24h": -0.028416785300749703,
+    "price_change_percentage_24h": -6.25744,
+    "ath": 4.28,
+    "atl": 0.03284694
+  },
+  {
+    "id": "concierge-io",
+    "price_change_24h": 0.00471913,
+    "price_change_percentage_24h": 0.96715,
+    "ath": 6.45,
+    "atl": 0.01218947
+  },
+  {
+    "id": "big-dog-fink",
+    "price_change_24h": 5.28669e-07,
+    "price_change_percentage_24h": 0.23335,
+    "ath": 0.00516508,
+    "atl": 0.0001582
+  },
+  {
+    "id": "slerf",
+    "price_change_24h": 2.829e-05,
+    "price_change_percentage_24h": 0.04191,
+    "ath": 1.3,
+    "atl": 0.04535843
+  },
+  {
+    "id": "aintivirus",
+    "price_change_24h": 0.0,
+    "price_change_percentage_24h": 0.0,
+    "ath": 0.03412971,
+    "atl": 1.163e-05
+  },
+  {
+    "id": "siren-2",
+    "price_change_24h": -0.000805362671026155,
+    "price_change_percentage_24h": -1.72635,
+    "ath": 0.19207,
+    "atl": 0.02634736
+  },
+  {
+    "id": "ecoin-2",
+    "price_change_24h": null,
+    "price_change_percentage_24h": null,
+    "ath": 0.01276469,
+    "atl": 4.97e-06
+  },
+  {
+    "id": "doginme",
+    "price_change_24h": -4.706657357125e-06,
+    "price_change_percentage_24h": -0.93828,
+    "ath": 0.00177931,
+    "atl": 3.99e-06
+  },
+  {
+    "id": "token-pocket",
+    "price_change_24h": 9.2e-05,
+    "price_change_percentage_24h": 0.95751,
+    "ath": 0.14558,
+    "atl": 0.00012901
+  },
+  {
+    "id": "trufin-staked-matic",
+    "price_change_24h": 0.00157992,
+    "price_change_percentage_24h": 0.78614,
+    "ath": 1.33,
+    "atl": 0.166231
+  },
+  {
+    "id": "yneth-max",
+    "price_change_24h": -21.454434599588694,
+    "price_change_percentage_24h": -0.79878,
+    "ath": 4045.21,
+    "atl": 1444.64
+  },
+  {
+    "id": "creatorbid",
+    "price_change_24h": -0.02381369269713346,
+    "price_change_percentage_24h": -16.1961,
+    "ath": 0.265326,
+    "atl": 0.02115653
+  },
+  {
+    "id": "apollox-2",
+    "price_change_24h": -0.000207264439695279,
+    "price_change_percentage_24h": -0.27046,
+    "ath": 0.248951,
+    "atl": 7.159e-05
+  },
+  {
+    "id": "resolv",
+    "price_change_24h": -0.008368143035592301,
+    "price_change_percentage_24h": -5.8309,
+    "ath": 0.408541,
+    "atl": 0.134789
+  },
+  {
+    "id": "axondao-governance-token",
+    "price_change_24h": -0.004398032172043362,
+    "price_change_percentage_24h": -5.58412,
+    "ath": 0.971095,
+    "atl": 0.03650915
+  },
+  {
+    "id": "xtusd",
+    "price_change_24h": -0.000265210913346969,
+    "price_change_percentage_24h": -0.0265,
+    "ath": 42.29,
+    "atl": 0.933136
+  },
+  {
+    "id": "everybody",
+    "price_change_24h": 7.529e-05,
+    "price_change_percentage_24h": 6.82111,
+    "ath": 0.00154939,
+    "atl": 1.18e-05
+  },
+  {
+    "id": "rss3",
+    "price_change_24h": -0.000332776798786044,
+    "price_change_percentage_24h": -0.80204,
+    "ath": 0.687355,
+    "atl": 0.03492271
+  },
+  {
+    "id": "edu-coin",
+    "price_change_24h": 0.0005845,
+    "price_change_percentage_24h": 0.46678,
+    "ath": 1.67,
+    "atl": 0.094407
+  },
+  {
+    "id": "openserv",
+    "price_change_24h": 0.00142691,
+    "price_change_percentage_24h": 3.07827,
+    "ath": 0.139003,
+    "atl": 0.00673013
+  },
+  {
+    "id": "hex-trust-usdx",
+    "price_change_24h": 0.00010396,
+    "price_change_percentage_24h": 0.0104,
+    "ath": 1.34,
+    "atl": 0.53504
+  },
+  {
+    "id": "truefi",
+    "price_change_24h": 0.00053697,
+    "price_change_percentage_24h": 2.23905,
+    "ath": 1.017,
+    "atl": 0.02315037
+  },
+  {
+    "id": "mnee-usd-stablecoin",
+    "price_change_24h": 0.0012482,
+    "price_change_percentage_24h": 0.12504,
+    "ath": 1.045,
+    "atl": 0.584655
+  },
+  {
+    "id": "nym",
+    "price_change_24h": -8.7557760828617e-05,
+    "price_change_percentage_24h": -0.21775,
+    "ath": 5.76,
+    "atl": 0.0397043
+  },
+  {
+    "id": "targon",
+    "price_change_24h": -0.2862571397307967,
+    "price_change_percentage_24h": -1.44604,
+    "ath": 39.23,
+    "atl": 19.23
+  },
+  {
+    "id": "pepecoin-2",
+    "price_change_24h": 0.01770496,
+    "price_change_percentage_24h": 5.32256,
+    "ath": 7.51,
+    "atl": 0.01088097
+  },
+  {
+    "id": "ampleforth",
+    "price_change_24h": -0.034798097519331384,
+    "price_change_percentage_24h": -2.8389,
+    "ath": 4.07,
+    "atl": 0.155869
+  },
+  {
+    "id": "standx-dusd",
+    "price_change_24h": -0.000359904214782714,
+    "price_change_percentage_24h": -0.03598,
+    "ath": 1.026,
+    "atl": 0.981036
+  },
+  {
+    "id": "bit2me",
+    "price_change_24h": 0.00066285,
+    "price_change_percentage_24h": 6.46308,
+    "ath": 0.300665,
+    "atl": 0.0
+  },
+  {
+    "id": "coinshift-usdc",
+    "price_change_24h": 8.599e-05,
+    "price_change_percentage_24h": 0.00834,
+    "ath": 1.084,
+    "atl": 1.015
+  },
+  {
+    "id": "coq-inu",
+    "price_change_24h": -3.816593449e-09,
+    "price_change_percentage_24h": -0.81401,
+    "ath": 6.45e-06,
+    "atl": 8.3331e-08
+  },
+  {
+    "id": "milady-meme-coin",
+    "price_change_24h": -6.91231196e-10,
+    "price_change_percentage_24h": -1.87874,
+    "ath": 4.27891e-07,
+    "atl": 7.31393e-10
+  },
+  {
+    "id": "bobo-coin",
+    "price_change_24h": -1.039505284e-08,
+    "price_change_percentage_24h": -2.10709,
+    "ath": 3.43e-06,
+    "atl": 7.892e-09
+  },
+  {
+    "id": "ava-ai",
+    "price_change_24h": -0.0001037623836894,
+    "price_change_percentage_24h": -0.32246,
+    "ath": 0.331799,
+    "atl": 0.01137321
+  },
+  {
+    "id": "law-blocks",
+    "price_change_24h": -0.0001013811521835,
+    "price_change_percentage_24h": -0.07748,
+    "ath": 0.291525,
+    "atl": 0.01953918
+  },
+  {
+    "id": "eth0",
+    "price_change_24h": -21.669037295796443,
+    "price_change_percentage_24h": -0.84748,
+    "ath": 2770.47,
+    "atl": 2133.68
+  },
+  {
+    "id": "bouncebit",
+    "price_change_24h": -0.002045511491431562,
+    "price_change_percentage_24h": -2.57342,
+    "ath": 0.865772,
+    "atl": 0.073651
+  },
+  {
+    "id": "defiway",
+    "price_change_24h": -1.3744690859574e-05,
+    "price_change_percentage_24h": -0.00433,
+    "ath": 0.483464,
+    "atl": 0.119936
+  },
+  {
+    "id": "cargox",
+    "price_change_24h": -0.0011274886230562,
+    "price_change_percentage_24h": -0.59282,
+    "ath": 0.523279,
+    "atl": 3.988e-05
+  },
+  {
+    "id": "sanctum-2",
+    "price_change_24h": -0.00273311508890553,
+    "price_change_percentage_24h": -2.79268,
+    "ath": 0.625172,
+    "atl": 0.064298
+  },
+  {
+    "id": "orchid-protocol",
+    "price_change_24h": 0.00025702,
+    "price_change_percentage_24h": 0.48682,
+    "ath": 1.026,
+    "atl": 0.04665814
+  },
+  {
+    "id": "endurance",
+    "price_change_24h": 0.00486207,
+    "price_change_percentage_24h": 1.02827,
+    "ath": 16.73,
+    "atl": 0.426554
+  },
+  {
+    "id": "zksync-bridged-usdc-zksync",
+    "price_change_24h": -1.5541044307e-07,
+    "price_change_percentage_24h": -2e-05,
+    "ath": 1.043,
+    "atl": 0.957527
+  },
+  {
+    "id": "radicle",
+    "price_change_24h": 0.01965631,
+    "price_change_percentage_24h": 3.23698,
+    "ath": 27.61,
+    "atl": 0.565759
+  },
+  {
+    "id": "tree-capital",
+    "price_change_24h": 0.00040852,
+    "price_change_percentage_24h": 0.13257,
+    "ath": 0.369693,
+    "atl": 0.047353
+  },
+  {
+    "id": "xion-2",
+    "price_change_24h": -0.023368045559351902,
+    "price_change_percentage_24h": -2.72072,
+    "ath": 6.83,
+    "atl": 0.796888
+  },
+  {
+    "id": "acala",
+    "price_change_24h": 0.00243299,
+    "price_change_percentage_24h": 10.03196,
+    "ath": 2.79,
+    "atl": 0.02224974
+  },
+  {
+    "id": "thala-apt",
+    "price_change_24h": -0.023332006439383157,
+    "price_change_percentage_24h": -0.52803,
+    "ath": 19.21,
+    "atl": 3.76
+  },
+  {
+    "id": "airtor-protocol",
+    "price_change_24h": -0.003141274514554204,
+    "price_change_percentage_24h": -0.79991,
+    "ath": 3.97,
+    "atl": 0.102292
+  },
+  {
+    "id": "dacxi",
+    "price_change_24h": -5.129845804364e-06,
+    "price_change_percentage_24h": -0.57695,
+    "ath": 0.067245,
+    "atl": 1.494e-05
+  },
+  {
+    "id": "lofi-2",
+    "price_change_24h": 0.00046233,
+    "price_change_percentage_24h": 1.50683,
+    "ath": 0.250332,
+    "atl": 0.00562853
+  },
+  {
+    "id": "veraone",
+    "price_change_24h": -0.5671133473199461,
+    "price_change_percentage_24h": -0.53024,
+    "ath": 117.0,
+    "atl": 41.55
+  },
+  {
+    "id": "kokok-the-roach",
+    "price_change_24h": -0.012518388006927866,
+    "price_change_percentage_24h": -7.52277,
+    "ath": 0.203302,
+    "atl": 0.0025457
+  },
+  {
+    "id": "international-meme-fund",
+    "price_change_24h": 0.092228,
+    "price_change_percentage_24h": 10.52957,
+    "ath": 1.023,
+    "atl": 0.0241715
+  },
+  {
+    "id": "hegic",
+    "price_change_24h": 5.697e-05,
+    "price_change_percentage_24h": 0.20001,
+    "ath": 0.642093,
+    "atl": 0.0048443
+  },
+  {
+    "id": "suilend",
+    "price_change_24h": -0.002962293798525584,
+    "price_change_percentage_24h": -0.67563,
+    "ath": 3.98,
+    "atl": 0.275173
+  },
+  {
+    "id": "slash-vision-labs",
+    "price_change_24h": 1.373e-05,
+    "price_change_percentage_24h": 0.22159,
+    "ath": 0.01886789,
+    "atl": 0.00231274
+  },
+  {
+    "id": "build-on-bnb",
+    "price_change_24h": 6.464e-09,
+    "price_change_percentage_24h": 9.71585,
+    "ath": 1.36774e-07,
+    "atl": 2.147e-09
+  },
+  {
+    "id": "gamebitcoin-power",
+    "price_change_24h": null,
+    "price_change_percentage_24h": null,
+    "ath": 0.412709,
+    "atl": 0.00940139
+  },
+  {
+    "id": "nobody-sausage",
+    "price_change_24h": -0.00829181830089682,
+    "price_change_percentage_24h": -20.36596,
+    "ath": 0.063454,
+    "atl": 0.00315206
+  },
+  {
+    "id": "zeus-netwok-zbtc",
+    "price_change_24h": -596.7740283414896,
+    "price_change_percentage_24h": -0.54883,
+    "ath": 111881,
+    "atl": 74576
+  },
+  {
+    "id": "soon-2",
+    "price_change_24h": 0.01343713,
+    "price_change_percentage_24h": 9.15224,
+    "ath": 0.585685,
+    "atl": 0.130374
+  },
+  {
+    "id": "ancient8",
+    "price_change_24h": -0.002126421733776696,
+    "price_change_percentage_24h": -2.06625,
+    "ath": 0.493364,
+    "atl": 0.061995
+  },
+  {
+    "id": "paraswap",
+    "price_change_24h": -0.000510225928690766,
+    "price_change_percentage_24h": -2.55422,
+    "ath": 2.1,
+    "atl": 0.01276548
+  },
+  {
+    "id": "aquarius",
+    "price_change_24h": 9.72e-06,
+    "price_change_percentage_24h": 1.1367,
+    "ath": 0.02350576,
+    "atl": 9.804e-05
+  },
+  {
+    "id": "tether-rainbow-bridge",
+    "price_change_24h": -0.000164557904041462,
+    "price_change_percentage_24h": -0.01645,
+    "ath": 1.12,
+    "atl": 0.747696
+  },
+  {
+    "id": "nodeai",
+    "price_change_24h": -0.01567445950218488,
+    "price_change_percentage_24h": -4.82469,
+    "ath": 2.85,
+    "atl": 0.03722159
+  },
+  {
+    "id": "stader-maticx",
+    "price_change_24h": 0.00185409,
+    "price_change_percentage_24h": 0.86866,
+    "ath": 2.07,
+    "atl": 0.17723
+  },
+  {
+    "id": "sdola",
+    "price_change_24h": 0.00023445,
+    "price_change_percentage_24h": 0.02062,
+    "ath": 1.18,
+    "atl": 1.017
+  },
+  {
+    "id": "spark-2",
+    "price_change_24h": -0.000150607132398207,
+    "price_change_percentage_24h": -0.47081,
+    "ath": 0.075608,
+    "atl": 0.03023641
+  },
+  {
+    "id": "groestlcoin",
+    "price_change_24h": 0.03764559,
+    "price_change_percentage_24h": 12.44915,
+    "ath": 2.74,
+    "atl": 7.701e-05
+  },
+  {
+    "id": "dao-maker",
+    "price_change_24h": 0.00095409,
+    "price_change_percentage_24h": 0.80876,
+    "ath": 8.71,
+    "atl": 0.10392
+  },
+  {
+    "id": "gearbox",
+    "price_change_24h": -0.000151538794065702,
+    "price_change_percentage_24h": -4.83734,
+    "ath": 0.03725561,
+    "atl": 0.00239484
+  },
+  {
+    "id": "polygon-hermez-bridged-usdt-x-layer",
+    "price_change_24h": -0.000147603761834536,
+    "price_change_percentage_24h": -0.01476,
+    "ath": 1.11,
+    "atl": 0.00033269
+  },
+  {
+    "id": "wojak",
+    "price_change_24h": -4.33844718794e-07,
+    "price_change_percentage_24h": -0.10149,
+    "ath": 0.00205634,
+    "atl": 4.902e-05
+  },
+  {
+    "id": "ix-swap",
+    "price_change_24h": -0.004648904302097329,
+    "price_change_percentage_24h": -2.73429,
+    "ath": 0.830989,
+    "atl": 0.00904945
+  },
+  {
+    "id": "agi-alpha-agent",
+    "price_change_24h": -0.001604491347943181,
+    "price_change_percentage_24h": -5.10828,
+    "ath": 0.03600949,
+    "atl": 0.00057102
+  },
+  {
+    "id": "lorenzo-protocol",
+    "price_change_24h": 0.00221331,
+    "price_change_percentage_24h": 3.27271,
+    "ath": 0.091635,
+    "atl": 0.02849501
+  },
+  {
+    "id": "kyros-restaked-sol",
+    "price_change_24h": 0.686231,
+    "price_change_percentage_24h": 0.37308,
+    "ath": 344.77,
+    "atl": 25.15
+  },
+  {
+    "id": "astherus-staked-usdf",
+    "price_change_24h": -0.00015551364471289,
+    "price_change_percentage_24h": -0.01521,
+    "ath": 1.028,
+    "atl": 0.990153
+  },
+  {
+    "id": "elysia",
+    "price_change_24h": -7.961922459443e-06,
+    "price_change_percentage_24h": -0.18572,
+    "ath": 0.069104,
+    "atl": 1.996e-05
+  },
+  {
+    "id": "elastos",
+    "price_change_24h": -0.023638340237759792,
+    "price_change_percentage_24h": -1.8052,
+    "ath": 89.14,
+    "atl": 0.793867
+  },
+  {
+    "id": "messier",
+    "price_change_24h": -2.68544057111e-07,
+    "price_change_percentage_24h": -0.80499,
+    "ath": 0.00014578,
+    "atl": 2.7498e-08
+  },
+  {
+    "id": "mister-miggles",
+    "price_change_24h": -1.3629963089672e-05,
+    "price_change_percentage_24h": -0.04474,
+    "ath": 0.191335,
+    "atl": 0.01288409
+  },
+  {
+    "id": "layer3",
+    "price_change_24h": -0.001771528972727136,
+    "price_change_percentage_24h": -3.85992,
+    "ath": 0.154039,
+    "atl": 0.03563315
+  },
+  {
+    "id": "bridged-usd-coin-starkgate",
+    "price_change_24h": 3.331e-05,
+    "price_change_percentage_24h": 0.00333,
+    "ath": 1.098,
+    "atl": 0.929405
+  },
+  {
+    "id": "firmachain",
+    "price_change_24h": 0.00035207,
+    "price_change_percentage_24h": 1.26005,
+    "ath": 0.44136,
+    "atl": 0.0120214
+  },
+  {
+    "id": "oho-blockchain",
+    "price_change_24h": -6.33903845059e-06,
+    "price_change_percentage_24h": -0.52943,
+    "ath": 0.05413,
+    "atl": 0.00038451
+  },
+  {
+    "id": "quai-network",
+    "price_change_24h": 0.00367933,
+    "price_change_percentage_24h": 6.87375,
+    "ath": 0.3634,
+    "atl": 0.049926
+  },
+  {
+    "id": "puffer-finance",
+    "price_change_24h": -0.002171708233865144,
+    "price_change_percentage_24h": -1.31167,
+    "ath": 0.990824,
+    "atl": 0.137666
+  },
+  {
+    "id": "wayfinder",
+    "price_change_24h": 0.00425784,
+    "price_change_percentage_24h": 3.44167,
+    "ath": 0.607139,
+    "atl": 0.11532
+  },
+  {
+    "id": "kujira",
+    "price_change_24h": -0.000862252452114493,
+    "price_change_percentage_24h": -0.36805,
+    "ath": 5.56,
+    "atl": 0.00178701
+  },
+  {
+    "id": "vine",
+    "price_change_24h": -0.000788717566603824,
+    "price_change_percentage_24h": -2.69542,
+    "ath": 0.469941,
+    "atl": 0.02357875
+  },
+  {
+    "id": "shardus",
+    "price_change_24h": -7.7593953762958e-05,
+    "price_change_percentage_24h": -0.12019,
+    "ath": 2.19,
+    "atl": 0.02304276
+  },
+  {
+    "id": "metamui",
+    "price_change_24h": 0.00125128,
+    "price_change_percentage_24h": 2.1649,
+    "ath": 0.935688,
+    "atl": 0.02861165
+  },
+  {
+    "id": "wibegram",
+    "price_change_24h": 0.116817,
+    "price_change_percentage_24h": 9.21479,
+    "ath": 3.25,
+    "atl": 0.430164
+  },
+  {
+    "id": "mossland",
+    "price_change_24h": 0.00141214,
+    "price_change_percentage_24h": 2.22623,
+    "ath": 0.516719,
+    "atl": 0.00218821
+  },
+  {
+    "id": "myria",
+    "price_change_24h": -4.8207233871307e-05,
+    "price_change_percentage_24h": -4.64381,
+    "ath": 0.01667821,
+    "atl": 0.00055924
+  },
+  {
+    "id": "tao-bot",
+    "price_change_24h": 0.0213285,
+    "price_change_percentage_24h": 6.50967,
+    "ath": 0.837155,
+    "atl": 0.01305987
+  },
+  {
+    "id": "verse-world",
+    "price_change_24h": -0.010481960056604844,
+    "price_change_percentage_24h": -3.64944,
+    "ath": 0.910916,
+    "atl": 0.12776
+  },
+  {
+    "id": "gems-vip",
+    "price_change_24h": 0.0008984,
+    "price_change_percentage_24h": 1.49529,
+    "ath": 0.320234,
+    "atl": 0.01383173
+  },
+  {
+    "id": "neuralai",
+    "price_change_24h": 0.096904,
+    "price_change_percentage_24h": 3.60096,
+    "ath": 17.29,
+    "atl": 0.177018
+  },
+  {
+    "id": "alpha-quark-token",
+    "price_change_24h": 0.00451191,
+    "price_change_percentage_24h": 0.43574,
+    "ath": 15.37,
+    "atl": 0.617773
+  },
+  {
+    "id": "marcopolo",
+    "price_change_24h": -0.0001383731803972,
+    "price_change_percentage_24h": -2.86864,
+    "ath": 0.272627,
+    "atl": 0.00391887
+  },
+  {
+    "id": "hypurr-fun",
+    "price_change_24h": -0.00498317572711926,
+    "price_change_percentage_24h": -0.01793,
+    "ath": 300.19,
+    "atl": 6.52
+  },
+  {
+    "id": "meow",
+    "price_change_24h": -0.000100716197690983,
+    "price_change_percentage_24h": -24.67456,
+    "ath": 0.01085385,
+    "atl": 3.4e-06
+  },
+  {
+    "id": "novem-gold",
+    "price_change_24h": null,
+    "price_change_percentage_24h": null,
+    "ath": 669.65,
+    "atl": 0.00129991
+  },
+  {
+    "id": "mimatic",
+    "price_change_24h": 0.00087339,
+    "price_change_percentage_24h": 0.08787,
+    "ath": 1.35,
+    "atl": 0.655895
+  },
+  {
+    "id": "saucerswap",
+    "price_change_24h": 0.00052486,
+    "price_change_percentage_24h": 1.62855,
+    "ath": 0.233467,
+    "atl": 0.00997926
+  },
+  {
+    "id": "automata",
+    "price_change_24h": 0.00049676,
+    "price_change_percentage_24h": 1.08672,
+    "ath": 2.36,
+    "atl": 0.0355274
+  },
+  {
+    "id": "seth",
+    "price_change_24h": -34.16626034250203,
+    "price_change_percentage_24h": -1.43883,
+    "ath": 4876.35,
+    "atl": 0.01254476
+  },
+  {
+    "id": "syscoin",
+    "price_change_24h": -0.000423476620794762,
+    "price_change_percentage_24h": -1.26757,
+    "ath": 1.3,
+    "atl": 0.00020971
+  },
+  {
+    "id": "pirate-chain",
+    "price_change_24h": -0.000894381712746278,
+    "price_change_percentage_24h": -0.64511,
+    "ath": 16.76,
+    "atl": 0.00797788
+  },
+  {
+    "id": "vitadao",
+    "price_change_24h": -0.013480178542421895,
+    "price_change_percentage_24h": -1.25264,
+    "ath": 7.05,
+    "atl": 0.0
+  },
+  {
+    "id": "bedrock-token",
+    "price_change_24h": 4.391e-05,
+    "price_change_percentage_24h": 0.03431,
+    "ath": 0.219014,
+    "atl": 0.03920767
+  },
+  {
+    "id": "the-arena",
+    "price_change_24h": -0.000250640381719295,
+    "price_change_percentage_24h": -2.45579,
+    "ath": 0.02660259,
+    "atl": 0.00358028
+  },
+  {
+    "id": "ankreth",
+    "price_change_24h": -25.170224520574266,
+    "price_change_percentage_24h": -0.81812,
+    "ath": 4803.34,
+    "atl": 534.32
+  },
+  {
+    "id": "strike-2",
+    "price_change_24h": 0.03126394,
+    "price_change_percentage_24h": 2.14129,
+    "ath": 1.55,
+    "atl": 0.063691
+  },
+  {
+    "id": "monerium-eur-money-2",
+    "price_change_24h": -0.008381588106877613,
+    "price_change_percentage_24h": -0.7093,
+    "ath": 1.21,
+    "atl": 1.037
+  },
+  {
+    "id": "staked-frax-usd",
+    "price_change_24h": -8.4267596549781e-05,
+    "price_change_percentage_24h": -0.00738,
+    "ath": 1.21,
+    "atl": 1.056
+  },
+  {
+    "id": "mcdull",
+    "price_change_24h": -4.341887159e-09,
+    "price_change_percentage_24h": -0.14482,
+    "ath": 2.316e-05,
+    "atl": 2.58e-06
+  },
+  {
+    "id": "limewire-token",
+    "price_change_24h": -0.001070567983174023,
+    "price_change_percentage_24h": -1.38512,
+    "ath": 1.79,
+    "atl": 0.056783
+  },
+  {
+    "id": "thought",
+    "price_change_24h": -0.000101517699483605,
+    "price_change_percentage_24h": -0.203,
+    "ath": 0.1552,
+    "atl": 0.00015385
+  },
+  {
+    "id": "stake-link",
+    "price_change_24h": -0.008614114260937278,
+    "price_change_percentage_24h": -1.85736,
+    "ath": 1.22,
+    "atl": 0.072039
+  },
+  {
+    "id": "zerebro",
+    "price_change_24h": -0.000782153821875568,
+    "price_change_percentage_24h": -2.89056,
+    "ath": 0.784071,
+    "atl": 0.00580864
+  },
+  {
+    "id": "netmind-token",
+    "price_change_24h": -0.001971455312734127,
+    "price_change_percentage_24h": -0.37436,
+    "ath": 16.09,
+    "atl": 0.494578
+  },
+  {
+    "id": "ampleforth-governance-token",
+    "price_change_24h": -0.003809485143547509,
+    "price_change_percentage_24h": -0.16613,
+    "ath": 180.47,
+    "atl": 1.89
+  },
+  {
+    "id": "revox",
+    "price_change_24h": 0.00048755,
+    "price_change_percentage_24h": 3.87151,
+    "ath": 0.057582,
+    "atl": 0.00470561
+  },
+  {
+    "id": "ai-rig-complex",
+    "price_change_24h": -0.001168983723483501,
+    "price_change_percentage_24h": -4.28226,
+    "ath": 0.623197,
+    "atl": 0.02161425
+  },
+  {
+    "id": "fair-and-free",
+    "price_change_24h": 0.00017076,
+    "price_change_percentage_24h": 0.61567,
+    "ath": 0.04122024,
+    "atl": 0.01041681
+  },
+  {
+    "id": "dusk-network",
+    "price_change_24h": 0.00193897,
+    "price_change_percentage_24h": 3.86321,
+    "ath": 1.09,
+    "atl": 0.01113274
+  },
+  {
+    "id": "dforce-token",
+    "price_change_24h": -0.000501263671401152,
+    "price_change_percentage_24h": -1.89469,
+    "ath": 1.5,
+    "atl": 0.02099721
+  },
+  {
+    "id": "nfprompt-token",
+    "price_change_24h": 0.00010283,
+    "price_change_percentage_24h": 0.18783,
+    "ath": 1.17,
+    "atl": 0.04763111
+  },
+  {
+    "id": "a-hunters-dream",
+    "price_change_24h": -4.41915736e-10,
+    "price_change_percentage_24h": -1.07725,
+    "ath": 1.6415e-07,
+    "atl": 3.0922e-08
+  },
+  {
+    "id": "maverick-protocol",
+    "price_change_24h": -0.001804111307004662,
+    "price_change_percentage_24h": -4.39829,
+    "ath": 0.804715,
+    "atl": 0.03763192
+  },
+  {
+    "id": "bakerytoken",
+    "price_change_24h": -0.010272714119565582,
+    "price_change_percentage_24h": -10.39061,
+    "ath": 8.38,
+    "atl": 0.00848322
+  },
+  {
+    "id": "zora",
+    "price_change_24h": -0.000111518856810957,
+    "price_change_percentage_24h": -1.35323,
+    "ath": 0.0343753,
+    "atl": 0.00778286
+  },
+  {
+    "id": "aegis-yusd",
+    "price_change_24h": -0.000297901879473983,
+    "price_change_percentage_24h": -0.02976,
+    "ath": 1.009,
+    "atl": 0.960034
+  },
+  {
+    "id": "stader",
+    "price_change_24h": 0.00581192,
+    "price_change_percentage_24h": 1.40045,
+    "ath": 30.17,
+    "atl": 0.23682
+  },
+  {
+    "id": "electronic-usd",
+    "price_change_24h": -0.000327921470476444,
+    "price_change_percentage_24h": -0.03279,
+    "ath": 1.13,
+    "atl": 0.867067
+  },
+  {
+    "id": "pangolin",
+    "price_change_24h": -0.001667017343704086,
+    "price_change_percentage_24h": -1.42504,
+    "ath": 18.85,
+    "atl": 0.01180712
+  },
+  {
+    "id": "pixels",
+    "price_change_24h": -0.000784191150944157,
+    "price_change_percentage_24h": -2.32711,
+    "ath": 1.017,
+    "atl": 0.01888185
+  },
+  {
+    "id": "pinksale",
+    "price_change_24h": null,
+    "price_change_percentage_24h": null,
+    "ath": 392.65,
+    "atl": 47.52
+  },
+  {
+    "id": "fuzzybear",
+    "price_change_24h": -4.753696918667e-06,
+    "price_change_percentage_24h": -5.63077,
+    "ath": 0.00011719,
+    "atl": 1.41e-06
+  },
+  {
+    "id": "bxn",
+    "price_change_24h": 1.6e-05,
+    "price_change_percentage_24h": 0.99691,
+    "ath": 0.01626166,
+    "atl": 0.00107749
+  }
+]

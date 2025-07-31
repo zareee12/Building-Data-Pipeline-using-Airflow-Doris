@@ -1,0 +1,123 @@
+[2025-07-29T09:50:31.336+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-07-29T09:50:31.381+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_shell_to_doris.load_market_data manual__2025-07-29T09:48:59.087239+00:00 [queued]>
+[2025-07-29T09:50:31.396+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_shell_to_doris.load_market_data manual__2025-07-29T09:48:59.087239+00:00 [queued]>
+[2025-07-29T09:50:31.397+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 2
+[2025-07-29T09:50:31.425+0000] {taskinstance.py:2888} INFO - Executing <Task(BashOperator): load_market_data> on 2025-07-29 09:48:59.087239+00:00
+[2025-07-29T09:50:31.453+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=187) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-07-29T09:50:31.461+0000] {standard_task_runner.py:72} INFO - Started process 202 to run task
+[2025-07-29T09:50:31.463+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'dag_shell_to_doris', 'load_market_data', 'manual__2025-07-29T09:48:59.087239+00:00', '--job-id', '55', '--raw', '--subdir', 'DAGS_FOLDER/dag_json_to_doris.py', '--cfg-path', '/tmp/tmpj9lpxgow']
+[2025-07-29T09:50:31.465+0000] {standard_task_runner.py:105} INFO - Job 55: Subtask load_market_data
+[2025-07-29T09:50:31.585+0000] {task_command.py:467} INFO - Running <TaskInstance: dag_shell_to_doris.load_market_data manual__2025-07-29T09:48:59.087239+00:00 [running]> on host 30dc85fcdec8
+[2025-07-29T09:50:31.693+0000] {abstractoperator.py:778} ERROR - Exception rendering Jinja template for task 'load_market_data', field 'bash_command'. Template: 'bash market_data_to_bronze.sh'
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/abstractoperator.py", line 770, in _do_render_template_fields
+    rendered_content = self.render_template(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/template/templater.py", line 168, in render_template
+    template = jinja_env.get_template(value)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/jinja2/environment.py", line 1013, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/jinja2/environment.py", line 972, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: bash market_data_to_bronze.sh
+[2025-07-29T09:50:31.697+0000] {taskinstance.py:3310} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 273, in _run_raw_task
+    TaskInstance._execute_task_with_callbacks(
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3114, in _execute_task_with_callbacks
+    task_orig = self.render_templates(context=context, jinja_env=jinja_env)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3533, in render_templates
+    original_task.render_template_fields(context, jinja_env)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 1419, in render_template_fields
+    self._do_render_template_fields(self, self.template_fields, context, jinja_env, set())
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/abstractoperator.py", line 770, in _do_render_template_fields
+    rendered_content = self.render_template(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/template/templater.py", line 168, in render_template
+    template = jinja_env.get_template(value)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/jinja2/environment.py", line 1013, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/jinja2/environment.py", line 972, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: bash market_data_to_bronze.sh
+[2025-07-29T09:50:31.713+0000] {logging_mixin.py:190} INFO - Task instance in failure state
+[2025-07-29T09:50:31.716+0000] {logging_mixin.py:190} INFO - Task start:2025-07-29 09:50:31.383237+00:00 end:2025-07-29 09:50:31.709188+00:00 duration:0.325951
+[2025-07-29T09:50:31.717+0000] {logging_mixin.py:190} INFO - Task:<Task(BashOperator): load_market_data> dag:<DAG: dag_shell_to_doris> dagrun:<DagRun dag_shell_to_doris @ 2025-07-29 09:48:59.087239+00:00: manual__2025-07-29T09:48:59.087239+00:00, state:running, queued_at: 2025-07-29 09:48:59.123559+00:00. externally triggered: True>
+[2025-07-29T09:50:31.719+0000] {logging_mixin.py:190} INFO - Failure caused by bash market_data_to_bronze.sh
+[2025-07-29T09:50:31.720+0000] {taskinstance.py:1225} INFO - Marking task as FAILED. dag_id=dag_shell_to_doris, task_id=load_market_data, run_id=manual__2025-07-29T09:48:59.087239+00:00, execution_date=20250729T094859, start_date=20250729T095031, end_date=20250729T095031
+[2025-07-29T09:50:31.758+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-07-29T09:50:31.760+0000] {standard_task_runner.py:124} ERROR - Failed to execute job 55 for task load_market_data (bash market_data_to_bronze.sh; 202)
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py", line 117, in _start_by_fork
+    ret = args.func(args, dag=self.dag)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/cli_config.py", line 49, in command
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/cli.py", line 115, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 483, in task_run
+    task_return_code = _run_task_by_selected_method(args, _dag, ti)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 256, in _run_task_by_selected_method
+    return _run_raw_task(args, ti)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 341, in _run_raw_task
+    return ti._run_raw_task(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3004, in _run_raw_task
+    return _run_raw_task(
+           ^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 273, in _run_raw_task
+    TaskInstance._execute_task_with_callbacks(
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3114, in _execute_task_with_callbacks
+    task_orig = self.render_templates(context=context, jinja_env=jinja_env)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3533, in render_templates
+    original_task.render_template_fields(context, jinja_env)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 1419, in render_template_fields
+    self._do_render_template_fields(self, self.template_fields, context, jinja_env, set())
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/abstractoperator.py", line 770, in _do_render_template_fields
+    rendered_content = self.render_template(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/template/templater.py", line 168, in render_template
+    template = jinja_env.get_template(value)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/jinja2/environment.py", line 1013, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/jinja2/environment.py", line 972, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: bash market_data_to_bronze.sh
+[2025-07-29T09:50:31.817+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 1
+[2025-07-29T09:50:31.873+0000] {taskinstance.py:3900} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-07-29T09:50:31.875+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

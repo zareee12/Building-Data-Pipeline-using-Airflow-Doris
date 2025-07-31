@@ -1,0 +1,21 @@
+[2025-07-30T14:26:59.280+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-07-30T14:26:59.431+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_json_to_doris.truncate_market_data manual__2025-07-30T14:13:04.204461+00:00 [queued]>
+[2025-07-30T14:26:59.461+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_json_to_doris.truncate_market_data manual__2025-07-30T14:13:04.204461+00:00 [queued]>
+[2025-07-30T14:26:59.466+0000] {taskinstance.py:2865} INFO - Starting attempt 2 of 2
+[2025-07-30T14:26:59.591+0000] {taskinstance.py:2888} INFO - Executing <Task(SQLExecuteQueryOperator): truncate_market_data> on 2025-07-30 14:13:04.204461+00:00
+[2025-07-30T14:26:59.652+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=65) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-07-30T14:26:59.661+0000] {standard_task_runner.py:72} INFO - Started process 81 to run task
+[2025-07-30T14:26:59.666+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'dag_json_to_doris', 'truncate_market_data', 'manual__2025-07-30T14:13:04.204461+00:00', '--job-id', '124', '--raw', '--subdir', 'DAGS_FOLDER/dag_json_to_doris.py', '--cfg-path', '/tmp/tmphaqqu9ax']
+[2025-07-30T14:26:59.682+0000] {standard_task_runner.py:105} INFO - Job 124: Subtask truncate_market_data
+[2025-07-30T14:27:02.522+0000] {task_command.py:467} INFO - Running <TaskInstance: dag_json_to_doris.truncate_market_data manual__2025-07-30T14:13:04.204461+00:00 [running]> on host 62ffd1c06c18
+[2025-07-30T14:27:07.109+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='reza' AIRFLOW_CTX_DAG_ID='dag_json_to_doris' AIRFLOW_CTX_TASK_ID='truncate_market_data' AIRFLOW_CTX_EXECUTION_DATE='2025-07-30T14:13:04.204461+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-07-30T14:13:04.204461+00:00'
+[2025-07-30T14:27:07.135+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-07-30T14:27:07.136+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-07-30T14:27:07.137+0000] {logging_mixin.py:190} INFO - Current task name:truncate_market_data state:running start_date:2025-07-30 14:26:59.433640+00:00
+[2025-07-30T14:27:07.138+0000] {logging_mixin.py:190} INFO - Dag name:dag_json_to_doris and current dag run status:running
+[2025-07-30T14:27:07.139+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-07-30T14:27:07.140+0000] {sql.py:266} INFO - Executing: truncate table raw.market_data
+[2025-07-30T14:27:07.173+0000] {base.py:84} INFO - Retrieving connection 'mysql_doris_conn'
+[2025-07-30T14:27:07.213+0000] {base.py:84} INFO - Retrieving connection 'mysql_doris_conn'

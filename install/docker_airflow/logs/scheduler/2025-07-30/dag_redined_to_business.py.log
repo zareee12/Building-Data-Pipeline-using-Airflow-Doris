@@ -1,0 +1,204 @@
+[2025-07-30T16:59:41.014+0000] {processor.py:186} INFO - Started process (PID=9714) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T16:59:41.014+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T16:59:41.015+0000] {logging_mixin.py:190} INFO - [2025-07-30T16:59:41.015+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T16:59:41.045+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T16:59:41.761+0000] {logging_mixin.py:190} INFO - [2025-07-30T16:59:41.760+0000] {override.py:1900} INFO - Created Permission View: can edit on DAG:dag_refined_to_business
+[2025-07-30T16:59:41.770+0000] {logging_mixin.py:190} INFO - [2025-07-30T16:59:41.770+0000] {override.py:1900} INFO - Created Permission View: can read on DAG:dag_refined_to_business
+[2025-07-30T16:59:41.774+0000] {logging_mixin.py:190} INFO - [2025-07-30T16:59:41.774+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG:dag_refined_to_business
+[2025-07-30T16:59:41.778+0000] {logging_mixin.py:190} INFO - [2025-07-30T16:59:41.778+0000] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:dag_refined_to_business
+[2025-07-30T16:59:41.783+0000] {logging_mixin.py:190} INFO - [2025-07-30T16:59:41.783+0000] {override.py:1900} INFO - Created Permission View: can read on DAG Run:dag_refined_to_business
+[2025-07-30T16:59:41.791+0000] {logging_mixin.py:190} INFO - [2025-07-30T16:59:41.790+0000] {override.py:1900} INFO - Created Permission View: can create on DAG Run:dag_refined_to_business
+[2025-07-30T16:59:41.798+0000] {logging_mixin.py:190} INFO - [2025-07-30T16:59:41.797+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:dag_refined_to_business
+[2025-07-30T16:59:41.803+0000] {logging_mixin.py:190} INFO - [2025-07-30T16:59:41.802+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T16:59:41.834+0000] {logging_mixin.py:190} INFO - [2025-07-30T16:59:41.833+0000] {dag.py:3252} INFO - Creating ORM DAG for dag_refined_to_business
+[2025-07-30T16:59:41.839+0000] {logging_mixin.py:190} INFO - [2025-07-30T16:59:41.839+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T16:59:41.880+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.872 seconds
+[2025-07-30T17:00:13.048+0000] {processor.py:186} INFO - Started process (PID=9784) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:00:13.055+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:00:13.060+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:00:13.059+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:00:13.141+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:00:13.161+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:00:13.161+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:00:13.184+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:00:13.184+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:00:13.214+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.202 seconds
+[2025-07-30T17:00:43.979+0000] {processor.py:186} INFO - Started process (PID=9849) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:00:43.981+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:00:43.983+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:00:43.983+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:00:44.032+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:00:44.056+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:00:44.056+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:00:44.086+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:00:44.086+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:00:44.118+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.161 seconds
+[2025-07-30T17:01:14.414+0000] {processor.py:186} INFO - Started process (PID=9920) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:01:14.415+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:01:14.416+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:01:14.416+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:01:14.462+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:01:14.485+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:01:14.485+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:01:14.504+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:01:14.504+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:01:14.538+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.130 seconds
+[2025-07-30T17:01:45.966+0000] {processor.py:186} INFO - Started process (PID=9979) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:01:45.967+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:01:45.968+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:01:45.968+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:01:45.983+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:01:45.991+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:01:45.991+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:01:46.154+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:01:46.153+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:01:46.164+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.202 seconds
+[2025-07-30T17:02:18.310+0000] {processor.py:186} INFO - Started process (PID=10029) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:02:18.317+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:02:18.326+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:02:18.320+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:02:18.592+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:02:18.714+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:02:18.712+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:02:18.967+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:02:18.964+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:02:19.090+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.850 seconds
+[2025-07-30T17:02:49.721+0000] {processor.py:186} INFO - Started process (PID=10094) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:02:49.723+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:02:49.723+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:02:49.723+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:02:49.756+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:02:49.772+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:02:49.772+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:02:49.786+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:02:49.786+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:02:49.796+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.085 seconds
+[2025-07-30T17:03:20.492+0000] {processor.py:186} INFO - Started process (PID=10158) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:03:20.500+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:03:20.508+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:03:20.507+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:03:20.627+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:03:21.213+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:03:21.211+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:03:21.232+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:03:21.232+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:03:21.250+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.794 seconds
+[2025-07-30T17:03:51.367+0000] {processor.py:186} INFO - Started process (PID=10223) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:03:51.369+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:03:51.370+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:03:51.369+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:03:51.391+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:03:51.400+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:03:51.400+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:03:51.410+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:03:51.410+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:03:51.419+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.065 seconds
+[2025-07-30T17:04:17.158+0000] {processor.py:186} INFO - Started process (PID=10279) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:04:17.172+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:04:17.183+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:04:17.182+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:04:17.896+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:04:17.925+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:04:17.924+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:04:17.945+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:04:17.945+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:04:17.969+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.914 seconds
+[2025-07-30T17:04:48.051+0000] {processor.py:186} INFO - Started process (PID=10338) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:04:48.054+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:04:48.058+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:04:48.057+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:04:48.138+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:04:48.160+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:04:48.159+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:04:48.212+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:04:48.211+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:04:48.258+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.224 seconds
+[2025-07-30T17:05:20.073+0000] {processor.py:186} INFO - Started process (PID=10387) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:05:20.076+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:05:20.078+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:05:20.077+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:05:20.137+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:05:20.157+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:05:20.157+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:05:20.675+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:05:20.293+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:05:20.777+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.711 seconds
+[2025-07-30T17:06:29.658+0000] {processor.py:186} INFO - Started process (PID=10436) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:06:29.716+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:06:29.806+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:06:29.797+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:06:31.767+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:06:35.531+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:06:35.519+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:06:36.197+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:06:36.193+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:06:36.436+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 7.431 seconds
+[2025-07-30T17:07:11.867+0000] {processor.py:186} INFO - Started process (PID=10492) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:07:11.870+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:07:11.872+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:07:11.871+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:07:11.921+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:07:11.933+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:07:11.933+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:07:11.948+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:07:11.947+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:07:11.967+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.105 seconds
+[2025-07-30T17:07:42.466+0000] {processor.py:186} INFO - Started process (PID=10554) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:07:42.473+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:07:42.475+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:07:42.474+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:07:42.554+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:07:42.581+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:07:42.580+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:07:42.609+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:07:42.608+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:07:42.628+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.185 seconds
+[2025-07-30T17:07:48.872+0000] {processor.py:186} INFO - Started process (PID=10575) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:07:48.874+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:07:48.876+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:07:48.875+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:07:48.949+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:07:49.071+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:07:49.071+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:07:49.084+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:07:49.083+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:07:49.104+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.252 seconds
+[2025-07-30T17:07:50.072+0000] {processor.py:186} INFO - Started process (PID=10576) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:07:50.074+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:07:50.076+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:07:50.075+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:07:50.177+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:07:50.181+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:07:50.180+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:07:50.211+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:07:50.210+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:07:50.255+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.207 seconds
+[2025-07-30T17:08:20.490+0000] {processor.py:186} INFO - Started process (PID=10641) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:08:20.497+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:08:20.504+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:08:20.501+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:08:20.637+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:08:20.656+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:08:20.656+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:08:20.687+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:08:20.687+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:08:20.701+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.243 seconds
+[2025-07-30T17:08:54.462+0000] {processor.py:186} INFO - Started process (PID=10722) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:08:54.466+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:08:54.471+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:08:54.469+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:08:54.591+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:08:54.640+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:08:54.639+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:08:54.698+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:08:54.697+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:08:54.735+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.291 seconds
+[2025-07-30T17:09:25.245+0000] {processor.py:186} INFO - Started process (PID=10786) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:09:25.249+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:09:25.251+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:09:25.250+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:09:25.298+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:09:25.310+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:09:25.310+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:09:25.323+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:09:25.323+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:09:25.338+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.101 seconds
+[2025-07-30T17:09:48.035+0000] {processor.py:186} INFO - Started process (PID=10824) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:09:48.038+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:09:48.041+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:09:48.040+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:09:48.115+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:09:48.224+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:09:48.224+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:09:48.230+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:09:48.230+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:09:48.239+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.223 seconds
+[2025-07-30T17:10:21.410+0000] {processor.py:186} INFO - Started process (PID=10895) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:10:21.415+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:10:21.418+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:10:21.417+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:10:21.740+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:10:21.971+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:10:21.969+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:10:22.108+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:10:22.106+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:10:22.214+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.823 seconds
+[2025-07-30T17:10:56.943+0000] {processor.py:186} INFO - Started process (PID=10956) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:10:56.946+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:10:56.955+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:10:56.953+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:10:57.147+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:10:57.206+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:10:57.205+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:10:57.322+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:10:57.319+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:10:57.376+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.461 seconds
+[2025-07-30T17:11:27.580+0000] {processor.py:186} INFO - Started process (PID=11017) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:11:27.582+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:11:27.584+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:11:27.583+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:11:27.658+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:11:27.675+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:11:27.675+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:11:27.689+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:11:27.689+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:11:27.699+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.144 seconds
+[2025-07-30T17:11:57.976+0000] {processor.py:186} INFO - Started process (PID=11082) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:11:57.978+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:11:57.981+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:11:57.980+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:11:58.050+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:11:58.085+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:11:58.085+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:11:58.152+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:11:58.152+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:11:58.175+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.225 seconds
+[2025-07-30T17:12:28.332+0000] {processor.py:186} INFO - Started process (PID=11148) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:12:28.333+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:12:28.341+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:12:28.340+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:12:28.473+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:12:28.515+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:12:28.514+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:12:28.565+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:12:28.564+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:12:28.590+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.287 seconds
+[2025-07-30T17:12:59.952+0000] {processor.py:186} INFO - Started process (PID=11214) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:12:59.953+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:12:59.954+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:12:59.954+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:13:00.005+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:13:00.027+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:13:00.027+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:13:00.049+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:13:00.049+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:13:00.088+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.155 seconds
+[2025-07-30T17:13:30.452+0000] {processor.py:186} INFO - Started process (PID=11275) to work on /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:13:30.467+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_redined_to_business.py for tasks to queue
+[2025-07-30T17:13:30.475+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:13:30.474+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:13:30.541+0000] {processor.py:925} INFO - DAG(s) 'dag_refined_to_business' retrieved from /opt/airflow/dags/dag_redined_to_business.py
+[2025-07-30T17:13:30.565+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:13:30.565+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-07-30T17:13:30.605+0000] {logging_mixin.py:190} INFO - [2025-07-30T17:13:30.605+0000] {dag.py:4156} INFO - Setting next_dagrun for dag_refined_to_business to None, run_after=None
+[2025-07-30T17:13:30.638+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_redined_to_business.py took 0.211 seconds

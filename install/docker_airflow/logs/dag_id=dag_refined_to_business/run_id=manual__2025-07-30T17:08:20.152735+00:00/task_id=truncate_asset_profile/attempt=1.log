@@ -1,0 +1,31 @@
+[2025-07-30T17:08:34.615+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-07-30T17:08:34.654+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_refined_to_business.truncate_asset_profile manual__2025-07-30T17:08:20.152735+00:00 [queued]>
+[2025-07-30T17:08:34.669+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_refined_to_business.truncate_asset_profile manual__2025-07-30T17:08:20.152735+00:00 [queued]>
+[2025-07-30T17:08:34.670+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 2
+[2025-07-30T17:08:34.709+0000] {taskinstance.py:2888} INFO - Executing <Task(SQLExecuteQueryOperator): truncate_asset_profile> on 2025-07-30 17:08:20.152735+00:00
+[2025-07-30T17:08:34.741+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=1342) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-07-30T17:08:34.760+0000] {standard_task_runner.py:72} INFO - Started process 1347 to run task
+[2025-07-30T17:08:34.765+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'dag_refined_to_business', 'truncate_asset_profile', 'manual__2025-07-30T17:08:20.152735+00:00', '--job-id', '205', '--raw', '--subdir', 'DAGS_FOLDER/dag_redined_to_business.py', '--cfg-path', '/tmp/tmpe8b_cwun']
+[2025-07-30T17:08:34.775+0000] {standard_task_runner.py:105} INFO - Job 205: Subtask truncate_asset_profile
+[2025-07-30T17:08:35.091+0000] {task_command.py:467} INFO - Running <TaskInstance: dag_refined_to_business.truncate_asset_profile manual__2025-07-30T17:08:20.152735+00:00 [running]> on host 7609641ebe00
+[2025-07-30T17:08:35.324+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='reza' AIRFLOW_CTX_DAG_ID='dag_refined_to_business' AIRFLOW_CTX_TASK_ID='truncate_asset_profile' AIRFLOW_CTX_EXECUTION_DATE='2025-07-30T17:08:20.152735+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-07-30T17:08:20.152735+00:00'
+[2025-07-30T17:08:35.338+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-07-30T17:08:35.339+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-07-30T17:08:35.339+0000] {logging_mixin.py:190} INFO - Current task name:truncate_asset_profile state:running start_date:2025-07-30 17:08:34.654993+00:00
+[2025-07-30T17:08:35.340+0000] {logging_mixin.py:190} INFO - Dag name:dag_refined_to_business and current dag run status:running
+[2025-07-30T17:08:35.342+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-07-30T17:08:35.344+0000] {sql.py:266} INFO - Executing: truncate table business.asset_profile
+[2025-07-30T17:08:35.382+0000] {base.py:84} INFO - Retrieving connection 'mysql_doris_conn'
+[2025-07-30T17:08:35.477+0000] {base.py:84} INFO - Retrieving connection 'mysql_doris_conn'
+[2025-07-30T17:08:36.253+0000] {sql.py:509} INFO - Running statement: truncate table business.asset_profile, parameters: None
+[2025-07-30T17:08:37.100+0000] {sql.py:518} INFO - Rows affected: 0
+[2025-07-30T17:08:37.291+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-07-30T17:08:37.303+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=dag_refined_to_business, task_id=truncate_asset_profile, run_id=manual__2025-07-30T17:08:20.152735+00:00, execution_date=20250730T170820, start_date=20250730T170834, end_date=20250730T170837
+[2025-07-30T17:08:37.427+0000] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-07-30T17:08:37.429+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-07-30T17:08:37.430+0000] {logging_mixin.py:190} INFO - Dag name:dag_refined_to_business queued_at:2025-07-30 17:08:20.197823+00:00
+[2025-07-30T17:08:37.431+0000] {logging_mixin.py:190} INFO - Task hostname:7609641ebe00 operator:SQLExecuteQueryOperator
+[2025-07-30T17:08:37.509+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-07-30T17:08:37.640+0000] {local_task_job_runner.py:245} INFO - ::endgroup::
