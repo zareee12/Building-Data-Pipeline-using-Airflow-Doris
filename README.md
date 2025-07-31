@@ -99,7 +99,7 @@ This project implements a Medallion Architecture using Airflow and Doris.
 ## 🧪 How to Run
 
 ### 1. 🐳 Start Doris & Airflow with Docker
-
+```
 ```bash
 cd coingecko_pipeline/install/docker_doris
 docker-compose up -d
