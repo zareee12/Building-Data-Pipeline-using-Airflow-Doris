@@ -42,7 +42,7 @@ COINGECKO_PIPELINE/
 * **Shell Scripts** (for Stream Load)
 * **Docker Compose** (for local setup)
 * **Python (Airflow DAGs)**
-* **Sql (DML)**
+* **SQL (DML)**
 
 ---
 
