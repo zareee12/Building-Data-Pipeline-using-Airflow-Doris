@@ -139,31 +139,15 @@ docker-compose up -d
 
 ---
 ## Pipeline 
-![Data Pipeline](https://github.com/zareee12/Building-Data-Pipeline-using-Airflow-Doris/blob/main/image/data%20pipeline.jpg?raw=true)
+![Bronze Pipeline](https://github.com/zareee12/Building-Data-Pipeline-using-Airflow-Doris/blob/main/image/pipeline%20bronze.jpg)
+![Silver Pipeline](https://github.com/zareee12/Building-Data-Pipeline-using-Airflow-Doris/blob/main/image/pipeline%20silver.jpg)
+![Gold Pipeline](https://github.com/zareee12/Building-Data-Pipeline-using-Airflow-Doris/blob/main/image/gold%20pipeline.jpg)
 
 
-## ✅ Deliverables
-
-* [x] DDLs for Bronze, Silver, Gold
-* [x] SQL for transformation and aggregation
-* [x] Stream Load Shell Scripts
-* [x] DAG to orchestrate full pipeline
-* [x] JSON & Mapping file from quiz
-* [x] Docker Compose setup for Airflow + Doris
-* [x] README.md with instructions
+## ✅ Business Table Overview
+![Gold Pipeline](https://github.com/zareee12/Building-Data-Pipeline-using-Airflow-Doris/blob/main/image/doris.jpeg)
 
 ---
-
-## 📊 Sample Insights Produced
-
-| Symbol | Current Price | Market Cap Rank | Supply Utilization (%) |
-| ------ | ------------- | --------------- | ---------------------- |
-| BTC    | 108,000.00    | 1               | 94.70                  |
-| ETH    | 57,000.00     | 2               | 89.20                  |
-
----
-
-
 ## 👨‍💻 Author
 
 **Reza Septia Kamajaya**
