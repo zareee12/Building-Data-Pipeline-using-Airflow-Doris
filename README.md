@@ -148,5 +148,5 @@ docker-compose up -d
 ---
 ## 👨‍💻 Author
 
-**Reza Septia Kamajaya**
+**Reza Septian Kamajaya**
 
