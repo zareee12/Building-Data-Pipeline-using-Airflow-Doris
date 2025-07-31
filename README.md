@@ -1,8 +1,8 @@
-# 🚀 Coingecko Crypto Analytics – Data Pipeline Project
+# Coingecko Crypto Analytics – Data Pipeline Project
 
 This project builds a full data pipeline using **top-1000 token data from Coingecko**, structured in a modern **Bronze → Silver → Gold** architecture, and orchestrated with **Apache Airflow**.
 
-## 🧠 Objective
+## Objective
 
 > Build an end-to-end data pipeline to process and analyze top-1000 crypto tokens from Coingecko and extract meaningful business insights.
 
@@ -103,7 +103,7 @@ This project implements a Medallion Architecture using Airflow and Doris.
 ```bash
 cd coingecko_pipeline/install/docker_doris
 docker-compose up -d
-
+```
 cd coingecko_pipeline/install/docker_airflow
 docker-compose up -d
 ```
