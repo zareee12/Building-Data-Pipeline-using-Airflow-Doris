@@ -19,7 +19,7 @@ COINGECKO_PIPELINE/
 │   │   ├── dags/              # DAG scripts
 │   │   ├── data/              # Data mount volume
 │   │   ├── logs/              # Logs for Airflow
-│   │   ├── plugins/           # Custom Airflow plugins (if any)
+│   │   ├── plugins/           # Custom Airflow plugins
 │   │   └── docker-compose.yaml # Docker Compose file for Airflow
 │   ├── docker_doris/          # Apache Doris setup
 │   │   ├── data/              # Doris persistent volume
@@ -27,8 +27,8 @@ COINGECKO_PIPELINE/
 │   │   │   └── fe/            # Frontend node storage
 │   │   ├── .env               # Environment variables
 │   │   └── docker-compose.yml # Docker Compose file for Doris
-├── mapping/                   # Mapping references (e.g., xlsx to SQL transformation)
-├── quiz/                      # Source quiz challenge file (JSON)
+├── mapping/                   # Mapping references
+├── quiz/                      # Source quiz challenge
 ├── veloDB/                    # Optional database workspace
 ├── ddl_mapping.sql            # Doris DDL for Bronze, Silver, and Gold layers
 └── README.md                  # Project documentation.
