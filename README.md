@@ -133,7 +133,7 @@ docker-compose up -d
 ### 3. ▶️ Trigger DAG
 
 * Access Airflow UI at [http://localhost:8080](http://localhost:8080)
-* Trigger `dag_json_to_doris`
+* Trigger `dag_json_to_doris` `dag_raw_to_refined` `dag_refined_to_business`
 
 ---
 ## Pipeline 
