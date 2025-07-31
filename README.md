@@ -153,7 +153,7 @@ docker-compose up -d
 
 ## 📬 Submission Info
 
-This project is part of a mini project challenge from [ProjekDos](https://projekdos.com).  
+This project is part of a mini project challenge from [ProjekDos](https://www.instagram.com/projekdos/).  
 It showcases the implementation of a complete data pipeline using Airflow and Apache Doris.
 
 
