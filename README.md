@@ -34,7 +34,7 @@ COINGECKO_PIPELINE/
 ├── veloDB/                    # Optional database workspace
 ├── ddl_mapping.sql            # Doris DDL for Bronze, Silver, and Gold layers
 └── README.md                  # Project documentation.
-
+```
 ---
 
 ## 🛠️ Tech Stack
